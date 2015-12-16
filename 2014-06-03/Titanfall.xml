@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile gkeysdk="0" guid="{4C5B827B-07D6-48D3-85CA-9C75C65E246C}" lock="0" name="Titanfall">
+    <description></description>
+    <target path="D:\GAMES\TITANFALL\TITANFALL.EXE"/>
+    <signature key="" value="" executable="" name=""/>
+    <macros>
+      <macro guid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" hidden="false" name="Left Click">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro guid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" hidden="false" name="Right Click">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro guid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" hidden="false" name="Middle Click">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
+      <macro guid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" hidden="false" name="Back">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </macro>
+      <macro guid="{8B13562D-60F2-460F-9588-8C84168C81BC}" hidden="false" name="Forward">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="forward"/>
+        </mousefunction>
+      </macro>
+      <macro devicecategory="Logitech.Gaming.Mouse" guid="{B72342CF-EC71-4079-B4F9-5764BF56831B}" hidden="false" name="Battery Level (G13)">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="batterylevel"/>
+        </mousefunction>
+      </macro>
+      <macro devicecategory="Logitech.Gaming.Mouse" guid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" hidden="false" name="DPI Down">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpidown"/>
+        </mousefunction>
+      </macro>
+      <macro devicecategory="Logitech.Gaming.Mouse" guid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" hidden="false" name="DPI Up">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpiup"/>
+        </mousefunction>
+      </macro>
+      <macro devicecategory="Logitech.Gaming.Mouse" guid="{29BE6848-8D8B-45E3-A524-5864460DA7BC}" hidden="false" name="Switch Profile">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="switchprofile"/>
+        </mousefunction>
+      </macro>
+      <macro guid="{13E92690-A0E7-468A-8185-70902CD0C240}" hidden="false" name="Scroll Left">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="scrollleft"/>
+        </mousefunction>
+      </macro>
+      <macro guid="{B2D26A9F-1E30-4978-8A1B-1CE8A023D3AB}" hidden="false" name="Scroll Right">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="scrollright"/>
+        </mousefunction>
+      </macro>
+      <macro guid="{C94E9939-5102-476C-8E92-1F1A1DFCAED7}" hidden="true" name="Next Track">
+        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
+          <do task="nexttrack"/>
+        </media>
+      </macro>
+      <macro guid="{6C7BC6F4-62EE-487C-A6E1-2751F526FB23}" hidden="false" name="Next Track">
+        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
+          <do task="nexttrack"/>
+        </media>
+      </macro>
+      <macro guid="{89A95861-2CF2-43FA-92DE-4503442C11F0}" hidden="true" name="Play/Pause">
+        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
+          <do task="playpause"/>
+        </media>
+      </macro>
+      <macro guid="{1A8FC026-BA46-4D60-8669-FF0DD918EB48}" hidden="false" name="Play/Pause">
+        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
+          <do task="playpause"/>
+        </media>
+      </macro>
+      <macro guid="{D6C38430-297C-4F9B-AC27-CE39900477C3}" hidden="true" name="Previous Track">
+        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
+          <do task="previoustrack"/>
+        </media>
+      </macro>
+      <macro guid="{2ACD1E6B-57D9-44BD-9316-20DB97ACBD51}" hidden="false" name="Previous Track">
+        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
+          <do task="previoustrack"/>
+        </media>
+      </macro>
+      <macro guid="{FBF302C9-DC30-4045-B890-90BEC186CFD4}" hidden="false" name="T">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="T"/>
+        </keystroke>
+      </macro>
+      <macro guid="{F95ADE13-02B8-46BF-B21F-6FC2E0856ED7}" hidden="false" name="4">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="4"/>
+        </keystroke>
+      </macro>
+      <macro guid="{5F64E45E-E12B-4D3D-82F1-EBD9BE5C3FE4}" hidden="false" name="Z">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+        </keystroke>
+      </macro>
+      <macro guid="{16F4C224-0BF9-4A2A-8124-0553BA109F8C}" hidden="false" name="LALT">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LALT"/>
+        </keystroke>
+      </macro>
+      <macro guid="{CCE8E829-34FB-4D6F-B3F0-943599FF3C41}" hidden="false" name="6">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="6"/>
+        </keystroke>
+      </macro>
+      <macro guid="{1F291575-A5F5-43C1-A337-8DAC62C2B339}" hidden="false" name="7">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="7"/>
+        </keystroke>
+      </macro>
+      <macro guid="{A8762FFE-0690-4C3E-927B-29E640485FB0}" hidden="false" name="8">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="8"/>
+        </keystroke>
+      </macro>
+      <macro guid="{DD65B63F-2718-4CFF-B817-97B9111F1184}" hidden="false" name="Tactical Ability">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+        </keystroke>
+      </macro>
+      <macro guid="{F6B44AEA-226D-4D9A-A161-2F0EB92F3004}" hidden="false" name="Forward">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+        </keystroke>
+      </macro>
+      <macro guid="{F7A644DE-499A-4898-BDB9-79C666C1BD88}" hidden="false" name="Back">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="S"/>
+        </keystroke>
+      </macro>
+      <macro guid="{84F67E71-E7BA-4A87-819E-1B5F7116B0E7}" hidden="false" name="Right">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="D"/>
+        </keystroke>
+      </macro>
+      <macro guid="{9703C1DC-82E3-4B76-A619-F17C919B7009}" hidden="false" name="Reload">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+        </keystroke>
+      </macro>
+      <macro guid="{DF3EEDA8-731D-440A-88E0-50E6CD839660}" hidden="false" name="Eject Sequence Initiation">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="X"/>
+        </keystroke>
+      </macro>
+      <macro guid="{CD9B972C-0FD6-4810-B9FB-08EC0C7A1526}" hidden="false" name="Melee">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="C"/>
+        </keystroke>
+      </macro>
+      <macro guid="{3177AEC9-4D5F-4E97-87A6-65E3C564BADA}" hidden="false" name="Ordnance / Grenade">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F"/>
+        </keystroke>
+      </macro>
+      <macro guid="{02D9219E-1B4C-4E34-A425-0899BB93D92B}" hidden="false" name="Use / Disembark">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="E"/>
+        </keystroke>
+      </macro>
+      <macro guid="{FACB0760-A696-47B9-9E99-122FB19D1F02}" hidden="false" name="Pick up Weapon">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="G"/>
+        </keystroke>
+      </macro>
+      <macro guid="{6B4A9319-96E8-44C9-98EE-7E3D74D95411}" hidden="false" name="Titanfall / Titan AI mode / Titan Core">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+        </keystroke>
+      </macro>
+      <macro guid="{395F0938-F4D0-4ED1-9731-FB5AB5310E26}" hidden="false" name="Toggle Crouch">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{FF10A694-37D8-4803-A180-4CCF24C01F1C}" hidden="false" name="Jump / Dash">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SPACEBAR"/>
+        </keystroke>
+      </macro>
+      <macro guid="{2208B554-22E4-4E38-B9B7-50ED8031346B}" hidden="false" name="Sprint">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro guid="{0A274824-32AB-4E32-95AD-457076A7E15F}" hidden="false" name="Equip Primary Weapon">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="1"/>
+        </keystroke>
+      </macro>
+      <macro guid="{6177D59E-D05E-4336-ABE2-02D813A16285}" hidden="false" name="Equip Sidearm Weapon">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="2"/>
+        </keystroke>
+      </macro>
+      <macro guid="{CD106F36-65B4-4B7F-B71A-9E67D6835579}" hidden="false" name="Equip Anti-Titan Weapon">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="3"/>
+        </keystroke>
+      </macro>
+      <macro guid="{E1663634-1936-4C05-A24C-77D87651A9F4}" hidden="false" name="Left">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="A"/>
+        </keystroke>
+      </macro>
+      <macro guid="{D1ED72D8-4D64-41EB-8A2D-2C51682E039B}" hidden="false" name="Sprint Forward">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+          <modifier value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro guid="{48A879FC-FFEF-4F50-9345-32C156A9088B}" hidden="false" name="Sprint Left">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="A"/>
+          <modifier value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro guid="{3663F8C9-534B-40A0-B258-290123A6DD26}" hidden="false" name="Sprint Right">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="D"/>
+          <modifier value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro guid="{60E949DB-0D72-4B38-99B7-265CED4B6F46}" hidden="false" name="Sprint Back">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="S"/>
+          <modifier value="LSHIFT"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.Headset">
+      <assignment original="false" backup="false" contextid="G1" shiftstate="1" macroguid="{6C7BC6F4-62EE-487C-A6E1-2751F526FB23}"/>
+      <assignment original="false" backup="false" contextid="G2" shiftstate="1" macroguid="{1A8FC026-BA46-4D60-8669-FF0DD918EB48}"/>
+      <assignment original="false" backup="false" contextid="G3" shiftstate="1" macroguid="{2ACD1E6B-57D9-44BD-9316-20DB97ACBD51}"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.LeftHandedController">
+      <assignment original="false" backup="false" contextid="G1" shiftstate="1" macroguid="{0A274824-32AB-4E32-95AD-457076A7E15F}"/>
+      <assignment original="false" backup="false" contextid="G1" shiftstate="2" macroguid="{0A274824-32AB-4E32-95AD-457076A7E15F}"/>
+      <assignment original="false" backup="false" contextid="G1" shiftstate="3" macroguid="{0A274824-32AB-4E32-95AD-457076A7E15F}"/>
+      <assignment original="false" backup="false" contextid="G1" shiftstate="4" macroguid="{0A274824-32AB-4E32-95AD-457076A7E15F}"/>
+      <assignment original="false" backup="false" contextid="G1" shiftstate="5" macroguid="{0A274824-32AB-4E32-95AD-457076A7E15F}"/>
+      <assignment original="false" backup="false" contextid="G1" shiftstate="6" macroguid="{0A274824-32AB-4E32-95AD-457076A7E15F}"/>
+      <assignment original="false" backup="false" contextid="G2" shiftstate="1" macroguid="{6177D59E-D05E-4336-ABE2-02D813A16285}"/>
+      <assignment original="false" backup="false" contextid="G2" shiftstate="2" macroguid="{6177D59E-D05E-4336-ABE2-02D813A16285}"/>
+      <assignment original="false" backup="false" contextid="G2" shiftstate="3" macroguid="{6177D59E-D05E-4336-ABE2-02D813A16285}"/>
+      <assignment original="false" backup="false" contextid="G2" shiftstate="4" macroguid="{6177D59E-D05E-4336-ABE2-02D813A16285}"/>
+      <assignment original="false" backup="false" contextid="G2" shiftstate="5" macroguid="{6177D59E-D05E-4336-ABE2-02D813A16285}"/>
+      <assignment original="false" backup="false" contextid="G2" shiftstate="6" macroguid="{6177D59E-D05E-4336-ABE2-02D813A16285}"/>
+      <assignment original="false" backup="false" contextid="G3" shiftstate="2" macroguid="{DD65B63F-2718-4CFF-B817-97B9111F1184}"/>
+      <assignment original="false" backup="false" contextid="G3" shiftstate="3" macroguid="{DD65B63F-2718-4CFF-B817-97B9111F1184}"/>
+      <assignment original="false" backup="false" contextid="G3" shiftstate="4" macroguid="{DD65B63F-2718-4CFF-B817-97B9111F1184}"/>
+      <assignment original="false" backup="false" contextid="G3" shiftstate="5" macroguid="{DD65B63F-2718-4CFF-B817-97B9111F1184}"/>
+      <assignment original="false" backup="false" contextid="G3" shiftstate="6" macroguid="{DD65B63F-2718-4CFF-B817-97B9111F1184}"/>
+      <assignment original="false" backup="false" contextid="G4" shiftstate="1" macroguid="{F6B44AEA-226D-4D9A-A161-2F0EB92F3004}"/>
+      <assignment original="false" backup="false" contextid="G4" shiftstate="2" macroguid="{F6B44AEA-226D-4D9A-A161-2F0EB92F3004}"/>
+      <assignment original="false" backup="false" contextid="G4" shiftstate="3" macroguid="{F6B44AEA-226D-4D9A-A161-2F0EB92F3004}"/>
+      <assignment original="false" backup="false" contextid="G4" shiftstate="4" macroguid="{F6B44AEA-226D-4D9A-A161-2F0EB92F3004}"/>
+      <assignment original="false" backup="false" contextid="G4" shiftstate="5" macroguid="{F6B44AEA-226D-4D9A-A161-2F0EB92F3004}"/>
+      <assignment original="false" backup="false" contextid="G4" shiftstate="6" macroguid="{F6B44AEA-226D-4D9A-A161-2F0EB92F3004}"/>
+      <assignment original="false" backup="false" contextid="G5" shiftstate="1" macroguid="{02D9219E-1B4C-4E34-A425-0899BB93D92B}"/>
+      <assignment original="false" backup="false" contextid="G5" shiftstate="2" macroguid="{02D9219E-1B4C-4E34-A425-0899BB93D92B}"/>
+      <assignment original="false" backup="false" contextid="G5" shiftstate="3" macroguid="{02D9219E-1B4C-4E34-A425-0899BB93D92B}"/>
+      <assignment original="false" backup="false" contextid="G5" shiftstate="4" macroguid="{02D9219E-1B4C-4E34-A425-0899BB93D92B}"/>
+      <assignment original="false" backup="false" contextid="G5" shiftstate="5" macroguid="{02D9219E-1B4C-4E34-A425-0899BB93D92B}"/>
+      <assignment original="false" backup="false" contextid="G5" shiftstate="6" macroguid="{02D9219E-1B4C-4E34-A425-0899BB93D92B}"/>
+      <assignment original="false" backup="false" contextid="G6" shiftstate="1" macroguid="{9703C1DC-82E3-4B76-A619-F17C919B7009}"/>
+      <assignment original="false" backup="false" contextid="G6" shiftstate="2" macroguid="{9703C1DC-82E3-4B76-A619-F17C919B7009}"/>
+      <assignment original="false" backup="false" contextid="G6" shiftstate="3" macroguid="{9703C1DC-82E3-4B76-A619-F17C919B7009}"/>
+      <assignment original="false" backup="false" contextid="G6" shiftstate="4" macroguid="{9703C1DC-82E3-4B76-A619-F17C919B7009}"/>
+      <assignment original="false" backup="false" contextid="G6" shiftstate="5" macroguid="{9703C1DC-82E3-4B76-A619-F17C919B7009}"/>
+      <assignment original="false" backup="false" contextid="G6" shiftstate="6" macroguid="{9703C1DC-82E3-4B76-A619-F17C919B7009}"/>
+      <assignment original="false" backup="false" contextid="G7" shiftstate="1" macroguid="{FBF302C9-DC30-4045-B890-90BEC186CFD4}"/>
+      <assignment original="false" backup="false" contextid="G7" shiftstate="2" macroguid="{FBF302C9-DC30-4045-B890-90BEC186CFD4}"/>
+      <assignment original="false" backup="false" contextid="G7" shiftstate="3" macroguid="{FBF302C9-DC30-4045-B890-90BEC186CFD4}"/>
+      <assignment original="false" backup="false" contextid="G7" shiftstate="4" macroguid="{FBF302C9-DC30-4045-B890-90BEC186CFD4}"/>
+      <assignment original="false" backup="false" contextid="G7" shiftstate="5" macroguid="{FBF302C9-DC30-4045-B890-90BEC186CFD4}"/>
+      <assignment original="false" backup="false" contextid="G7" shiftstate="6" macroguid="{FBF302C9-DC30-4045-B890-90BEC186CFD4}"/>
+      <assignment original="false" backup="false" contextid="G8" shiftstate="1" macroguid="{CD106F36-65B4-4B7F-B71A-9E67D6835579}"/>
+      <assignment original="false" backup="false" contextid="G8" shiftstate="2" macroguid="{CD106F36-65B4-4B7F-B71A-9E67D6835579}"/>
+      <assignment original="false" backup="false" contextid="G8" shiftstate="3" macroguid="{CD106F36-65B4-4B7F-B71A-9E67D6835579}"/>
+      <assignment original="false" backup="false" contextid="G8" shiftstate="4" macroguid="{CD106F36-65B4-4B7F-B71A-9E67D6835579}"/>
+      <assignment original="false" backup="false" contextid="G8" shiftstate="5" macroguid="{CD106F36-65B4-4B7F-B71A-9E67D6835579}"/>
+      <assignment original="false" backup="false" contextid="G8" shiftstate="6" macroguid="{CD106F36-65B4-4B7F-B71A-9E67D6835579}"/>
+      <assignment original="false" backup="false" contextid="G9" shiftstate="1" macroguid="{F95ADE13-02B8-46BF-B21F-6FC2E0856ED7}"/>
+      <assignment original="false" backup="false" contextid="G9" shiftstate="2" macroguid="{F95ADE13-02B8-46BF-B21F-6FC2E0856ED7}"/>
+      <assignment original="false" backup="false" contextid="G9" shiftstate="3" macroguid="{F95ADE13-02B8-46BF-B21F-6FC2E0856ED7}"/>
+      <assignment original="false" backup="false" contextid="G9" shiftstate="4" macroguid="{F95ADE13-02B8-46BF-B21F-6FC2E0856ED7}"/>
+      <assignment original="false" backup="false" contextid="G9" shiftstate="5" macroguid="{F95ADE13-02B8-46BF-B21F-6FC2E0856ED7}"/>
+      <assignment original="false" backup="false" contextid="G9" shiftstate="6" macroguid="{F95ADE13-02B8-46BF-B21F-6FC2E0856ED7}"/>
+      <assignment original="false" backup="false" contextid="G10" shiftstate="1" macroguid="{E1663634-1936-4C05-A24C-77D87651A9F4}"/>
+      <assignment original="false" backup="false" contextid="G10" shiftstate="2" macroguid="{E1663634-1936-4C05-A24C-77D87651A9F4}"/>
+      <assignment original="false" backup="false" contextid="G10" shiftstate="3" macroguid="{E1663634-1936-4C05-A24C-77D87651A9F4}"/>
+      <assignment original="false" backup="false" contextid="G10" shiftstate="4" macroguid="{E1663634-1936-4C05-A24C-77D87651A9F4}"/>
+      <assignment original="false" backup="false" contextid="G10" shiftstate="5" macroguid="{E1663634-1936-4C05-A24C-77D87651A9F4}"/>
+      <assignment original="false" backup="false" contextid="G10" shiftstate="6" macroguid="{E1663634-1936-4C05-A24C-77D87651A9F4}"/>
+      <assignment original="false" backup="false" contextid="G11" shiftstate="1" macroguid="{F7A644DE-499A-4898-BDB9-79C666C1BD88}"/>
+      <assignment original="false" backup="false" contextid="G11" shiftstate="2" macroguid="{F7A644DE-499A-4898-BDB9-79C666C1BD88}"/>
+      <assignment original="false" backup="false" contextid="G11" shiftstate="3" macroguid="{F7A644DE-499A-4898-BDB9-79C666C1BD88}"/>
+      <assignment original="false" backup="false" contextid="G11" shiftstate="4" macroguid="{F7A644DE-499A-4898-BDB9-79C666C1BD88}"/>
+      <assignment original="false" backup="false" contextid="G11" shiftstate="5" macroguid="{F7A644DE-499A-4898-BDB9-79C666C1BD88}"/>
+      <assignment original="false" backup="false" contextid="G11" shiftstate="6" macroguid="{F7A644DE-499A-4898-BDB9-79C666C1BD88}"/>
+      <assignment original="false" backup="false" contextid="G12" shiftstate="1" macroguid="{84F67E71-E7BA-4A87-819E-1B5F7116B0E7}"/>
+      <assignment original="false" backup="false" contextid="G12" shiftstate="2" macroguid="{84F67E71-E7BA-4A87-819E-1B5F7116B0E7}"/>
+      <assignment original="false" backup="false" contextid="G12" shiftstate="3" macroguid="{84F67E71-E7BA-4A87-819E-1B5F7116B0E7}"/>
+      <assignment original="false" backup="false" contextid="G12" shiftstate="4" macroguid="{84F67E71-E7BA-4A87-819E-1B5F7116B0E7}"/>
+      <assignment original="false" backup="false" contextid="G12" shiftstate="5" macroguid="{84F67E71-E7BA-4A87-819E-1B5F7116B0E7}"/>
+      <assignment original="false" backup="false" contextid="G12" shiftstate="6" macroguid="{84F67E71-E7BA-4A87-819E-1B5F7116B0E7}"/>
+      <assignment original="false" backup="false" contextid="G13" shiftstate="1" macroguid="{3177AEC9-4D5F-4E97-87A6-65E3C564BADA}"/>
+      <assignment original="false" backup="false" contextid="G13" shiftstate="2" macroguid="{3177AEC9-4D5F-4E97-87A6-65E3C564BADA}"/>
+      <assignment original="false" backup="false" contextid="G13" shiftstate="3" macroguid="{3177AEC9-4D5F-4E97-87A6-65E3C564BADA}"/>
+      <assignment original="false" backup="false" contextid="G13" shiftstate="4" macroguid="{3177AEC9-4D5F-4E97-87A6-65E3C564BADA}"/>
+      <assignment original="false" backup="false" contextid="G13" shiftstate="5" macroguid="{3177AEC9-4D5F-4E97-87A6-65E3C564BADA}"/>
+      <assignment original="false" backup="false" contextid="G13" shiftstate="6" macroguid="{3177AEC9-4D5F-4E97-87A6-65E3C564BADA}"/>
+      <assignment original="false" backup="false" contextid="G14" shiftstate="1" macroguid="{FACB0760-A696-47B9-9E99-122FB19D1F02}"/>
+      <assignment original="false" backup="false" contextid="G14" shiftstate="2" macroguid="{FACB0760-A696-47B9-9E99-122FB19D1F02}"/>
+      <assignment original="false" backup="false" contextid="G14" shiftstate="3" macroguid="{FACB0760-A696-47B9-9E99-122FB19D1F02}"/>
+      <assignment original="false" backup="false" contextid="G14" shiftstate="4" macroguid="{FACB0760-A696-47B9-9E99-122FB19D1F02}"/>
+      <assignment original="false" backup="false" contextid="G14" shiftstate="5" macroguid="{FACB0760-A696-47B9-9E99-122FB19D1F02}"/>
+      <assignment original="false" backup="false" contextid="G14" shiftstate="6" macroguid="{FACB0760-A696-47B9-9E99-122FB19D1F02}"/>
+      <assignment original="false" backup="false" contextid="G15" shiftstate="1" macroguid="{2208B554-22E4-4E38-B9B7-50ED8031346B}"/>
+      <assignment original="false" backup="false" contextid="G15" shiftstate="2" macroguid="{2208B554-22E4-4E38-B9B7-50ED8031346B}"/>
+      <assignment original="false" backup="false" contextid="G15" shiftstate="3" macroguid="{2208B554-22E4-4E38-B9B7-50ED8031346B}"/>
+      <assignment original="false" backup="false" contextid="G15" shiftstate="4" macroguid="{2208B554-22E4-4E38-B9B7-50ED8031346B}"/>
+      <assignment original="false" backup="false" contextid="G15" shiftstate="5" macroguid="{2208B554-22E4-4E38-B9B7-50ED8031346B}"/>
+      <assignment original="false" backup="false" contextid="G15" shiftstate="6" macroguid="{2208B554-22E4-4E38-B9B7-50ED8031346B}"/>
+      <assignment original="false" backup="false" contextid="G16" shiftstate="1" macroguid="{5F64E45E-E12B-4D3D-82F1-EBD9BE5C3FE4}"/>
+      <assignment original="false" backup="false" contextid="G16" shiftstate="2" macroguid="{5F64E45E-E12B-4D3D-82F1-EBD9BE5C3FE4}"/>
+      <assignment original="false" backup="false" contextid="G16" shiftstate="3" macroguid="{5F64E45E-E12B-4D3D-82F1-EBD9BE5C3FE4}"/>
+      <assignment original="false" backup="false" contextid="G16" shiftstate="4" macroguid="{5F64E45E-E12B-4D3D-82F1-EBD9BE5C3FE4}"/>
+      <assignment original="false" backup="false" contextid="G16" shiftstate="5" macroguid="{5F64E45E-E12B-4D3D-82F1-EBD9BE5C3FE4}"/>
+      <assignment original="false" backup="false" contextid="G16" shiftstate="6" macroguid="{5F64E45E-E12B-4D3D-82F1-EBD9BE5C3FE4}"/>
+      <assignment original="false" backup="false" contextid="G17" shiftstate="1" macroguid="{DF3EEDA8-731D-440A-88E0-50E6CD839660}"/>
+      <assignment original="false" backup="false" contextid="G17" shiftstate="2" macroguid="{DF3EEDA8-731D-440A-88E0-50E6CD839660}"/>
+      <assignment original="false" backup="false" contextid="G17" shiftstate="3" macroguid="{DF3EEDA8-731D-440A-88E0-50E6CD839660}"/>
+      <assignment original="false" backup="false" contextid="G17" shiftstate="4" macroguid="{DF3EEDA8-731D-440A-88E0-50E6CD839660}"/>
+      <assignment original="false" backup="false" contextid="G17" shiftstate="5" macroguid="{DF3EEDA8-731D-440A-88E0-50E6CD839660}"/>
+      <assignment original="false" backup="false" contextid="G17" shiftstate="6" macroguid="{DF3EEDA8-731D-440A-88E0-50E6CD839660}"/>
+      <assignment original="false" backup="false" contextid="G18" shiftstate="1" macroguid="{CD9B972C-0FD6-4810-B9FB-08EC0C7A1526}"/>
+      <assignment original="false" backup="false" contextid="G18" shiftstate="2" macroguid="{CD9B972C-0FD6-4810-B9FB-08EC0C7A1526}"/>
+      <assignment original="false" backup="false" contextid="G18" shiftstate="3" macroguid="{CD9B972C-0FD6-4810-B9FB-08EC0C7A1526}"/>
+      <assignment original="false" backup="false" contextid="G18" shiftstate="4" macroguid="{CD9B972C-0FD6-4810-B9FB-08EC0C7A1526}"/>
+      <assignment original="false" backup="false" contextid="G18" shiftstate="5" macroguid="{CD9B972C-0FD6-4810-B9FB-08EC0C7A1526}"/>
+      <assignment original="false" backup="false" contextid="G18" shiftstate="6" macroguid="{CD9B972C-0FD6-4810-B9FB-08EC0C7A1526}"/>
+      <assignment original="false" backup="false" contextid="G19" shiftstate="2" macroguid="{6B4A9319-96E8-44C9-98EE-7E3D74D95411}"/>
+      <assignment original="false" backup="false" contextid="G19" shiftstate="3" macroguid="{6B4A9319-96E8-44C9-98EE-7E3D74D95411}"/>
+      <assignment original="false" backup="false" contextid="G19" shiftstate="4" macroguid="{6B4A9319-96E8-44C9-98EE-7E3D74D95411}"/>
+      <assignment original="false" backup="false" contextid="G19" shiftstate="5" macroguid="{6B4A9319-96E8-44C9-98EE-7E3D74D95411}"/>
+      <assignment original="false" backup="false" contextid="G19" shiftstate="6" macroguid="{6B4A9319-96E8-44C9-98EE-7E3D74D95411}"/>
+      <assignment original="false" backup="false" contextid="G20" shiftstate="1" macroguid="{395F0938-F4D0-4ED1-9731-FB5AB5310E26}"/>
+      <assignment original="false" backup="false" contextid="G20" shiftstate="2" macroguid="{395F0938-F4D0-4ED1-9731-FB5AB5310E26}"/>
+      <assignment original="false" backup="false" contextid="G20" shiftstate="3" macroguid="{395F0938-F4D0-4ED1-9731-FB5AB5310E26}"/>
+      <assignment original="false" backup="false" contextid="G20" shiftstate="4" macroguid="{395F0938-F4D0-4ED1-9731-FB5AB5310E26}"/>
+      <assignment original="false" backup="false" contextid="G20" shiftstate="5" macroguid="{395F0938-F4D0-4ED1-9731-FB5AB5310E26}"/>
+      <assignment original="false" backup="false" contextid="G20" shiftstate="6" macroguid="{395F0938-F4D0-4ED1-9731-FB5AB5310E26}"/>
+      <assignment original="false" backup="false" contextid="G21" shiftstate="1" macroguid="{16F4C224-0BF9-4A2A-8124-0553BA109F8C}"/>
+      <assignment original="false" backup="false" contextid="G21" shiftstate="2" macroguid="{16F4C224-0BF9-4A2A-8124-0553BA109F8C}"/>
+      <assignment original="false" backup="false" contextid="G21" shiftstate="3" macroguid="{16F4C224-0BF9-4A2A-8124-0553BA109F8C}"/>
+      <assignment original="false" backup="false" contextid="G21" shiftstate="4" macroguid="{16F4C224-0BF9-4A2A-8124-0553BA109F8C}"/>
+      <assignment original="false" backup="false" contextid="G21" shiftstate="5" macroguid="{16F4C224-0BF9-4A2A-8124-0553BA109F8C}"/>
+      <assignment original="false" backup="false" contextid="G21" shiftstate="6" macroguid="{16F4C224-0BF9-4A2A-8124-0553BA109F8C}"/>
+      <assignment original="false" backup="false" contextid="G22" shiftstate="1" macroguid="{FF10A694-37D8-4803-A180-4CCF24C01F1C}"/>
+      <assignment original="false" backup="false" contextid="G22" shiftstate="2" macroguid="{FF10A694-37D8-4803-A180-4CCF24C01F1C}"/>
+      <assignment original="false" backup="false" contextid="G22" shiftstate="3" macroguid="{FF10A694-37D8-4803-A180-4CCF24C01F1C}"/>
+      <assignment original="false" backup="false" contextid="G22" shiftstate="4" macroguid="{FF10A694-37D8-4803-A180-4CCF24C01F1C}"/>
+      <assignment original="false" backup="false" contextid="G22" shiftstate="5" macroguid="{FF10A694-37D8-4803-A180-4CCF24C01F1C}"/>
+      <assignment original="false" backup="false" contextid="G22" shiftstate="6" macroguid="{FF10A694-37D8-4803-A180-4CCF24C01F1C}"/>
+      <assignment original="false" backup="false" contextid="G23" shiftstate="2" macroguid="{CCE8E829-34FB-4D6F-B3F0-943599FF3C41}"/>
+      <assignment original="false" backup="false" contextid="G23" shiftstate="3" macroguid="{CCE8E829-34FB-4D6F-B3F0-943599FF3C41}"/>
+      <assignment original="false" backup="false" contextid="G23" shiftstate="4" macroguid="{CCE8E829-34FB-4D6F-B3F0-943599FF3C41}"/>
+      <assignment original="false" backup="false" contextid="G23" shiftstate="5" macroguid="{CCE8E829-34FB-4D6F-B3F0-943599FF3C41}"/>
+      <assignment original="false" backup="false" contextid="G23" shiftstate="6" macroguid="{CCE8E829-34FB-4D6F-B3F0-943599FF3C41}"/>
+      <assignment original="false" backup="false" contextid="G24" shiftstate="2" macroguid="{1F291575-A5F5-43C1-A337-8DAC62C2B339}"/>
+      <assignment original="false" backup="false" contextid="G24" shiftstate="3" macroguid="{1F291575-A5F5-43C1-A337-8DAC62C2B339}"/>
+      <assignment original="false" backup="false" contextid="G24" shiftstate="4" macroguid="{1F291575-A5F5-43C1-A337-8DAC62C2B339}"/>
+      <assignment original="false" backup="false" contextid="G24" shiftstate="5" macroguid="{1F291575-A5F5-43C1-A337-8DAC62C2B339}"/>
+      <assignment original="false" backup="false" contextid="G24" shiftstate="6" macroguid="{1F291575-A5F5-43C1-A337-8DAC62C2B339}"/>
+      <assignment original="false" backup="false" contextid="G29" shiftstate="2" macroguid="{E1663634-1936-4C05-A24C-77D87651A9F4}"/>
+      <assignment original="false" backup="false" contextid="G29" shiftstate="3" macroguid="{E1663634-1936-4C05-A24C-77D87651A9F4}"/>
+      <assignment original="false" backup="false" contextid="G29" shiftstate="4" macroguid="{E1663634-1936-4C05-A24C-77D87651A9F4}"/>
+      <assignment original="false" backup="false" contextid="G29" shiftstate="5" macroguid="{E1663634-1936-4C05-A24C-77D87651A9F4}"/>
+      <assignment original="false" backup="false" contextid="G29" shiftstate="6" macroguid="{E1663634-1936-4C05-A24C-77D87651A9F4}"/>
+      <assignment original="false" backup="false" contextid="G27" shiftstate="2" macroguid="{84F67E71-E7BA-4A87-819E-1B5F7116B0E7}"/>
+      <assignment original="false" backup="false" contextid="G27" shiftstate="3" macroguid="{84F67E71-E7BA-4A87-819E-1B5F7116B0E7}"/>
+      <assignment original="false" backup="false" contextid="G27" shiftstate="4" macroguid="{84F67E71-E7BA-4A87-819E-1B5F7116B0E7}"/>
+      <assignment original="false" backup="false" contextid="G27" shiftstate="5" macroguid="{84F67E71-E7BA-4A87-819E-1B5F7116B0E7}"/>
+      <assignment original="false" backup="false" contextid="G27" shiftstate="6" macroguid="{84F67E71-E7BA-4A87-819E-1B5F7116B0E7}"/>
+      <assignment original="false" backup="false" contextid="G26" shiftstate="2" macroguid="{F6B44AEA-226D-4D9A-A161-2F0EB92F3004}"/>
+      <assignment original="false" backup="false" contextid="G26" shiftstate="3" macroguid="{F6B44AEA-226D-4D9A-A161-2F0EB92F3004}"/>
+      <assignment original="false" backup="false" contextid="G26" shiftstate="4" macroguid="{F6B44AEA-226D-4D9A-A161-2F0EB92F3004}"/>
+      <assignment original="false" backup="false" contextid="G26" shiftstate="5" macroguid="{F6B44AEA-226D-4D9A-A161-2F0EB92F3004}"/>
+      <assignment original="false" backup="false" contextid="G26" shiftstate="6" macroguid="{F6B44AEA-226D-4D9A-A161-2F0EB92F3004}"/>
+      <assignment original="false" backup="false" contextid="G28" shiftstate="2" macroguid="{F7A644DE-499A-4898-BDB9-79C666C1BD88}"/>
+      <assignment original="false" backup="false" contextid="G28" shiftstate="3" macroguid="{F7A644DE-499A-4898-BDB9-79C666C1BD88}"/>
+      <assignment original="false" backup="false" contextid="G28" shiftstate="4" macroguid="{F7A644DE-499A-4898-BDB9-79C666C1BD88}"/>
+      <assignment original="false" backup="false" contextid="G28" shiftstate="5" macroguid="{F7A644DE-499A-4898-BDB9-79C666C1BD88}"/>
+      <assignment original="false" backup="false" contextid="G28" shiftstate="6" macroguid="{F7A644DE-499A-4898-BDB9-79C666C1BD88}"/>
+      <assignment original="false" backup="false" contextid="G25" shiftstate="1" macroguid="{A8762FFE-0690-4C3E-927B-29E640485FB0}"/>
+      <assignment original="false" backup="false" contextid="G25" shiftstate="2" macroguid="{A8762FFE-0690-4C3E-927B-29E640485FB0}"/>
+      <assignment original="false" backup="false" contextid="G25" shiftstate="3" macroguid="{A8762FFE-0690-4C3E-927B-29E640485FB0}"/>
+      <assignment original="false" backup="false" contextid="G25" shiftstate="4" macroguid="{A8762FFE-0690-4C3E-927B-29E640485FB0}"/>
+      <assignment original="false" backup="false" contextid="G25" shiftstate="5" macroguid="{A8762FFE-0690-4C3E-927B-29E640485FB0}"/>
+      <assignment original="false" backup="false" contextid="G25" shiftstate="6" macroguid="{A8762FFE-0690-4C3E-927B-29E640485FB0}"/>
+      <assignment original="false" backup="false" contextid="G23" shiftstate="1" macroguid="{DD65B63F-2718-4CFF-B817-97B9111F1184}"/>
+      <assignment original="false" backup="false" contextid="G24" shiftstate="1" macroguid="{3177AEC9-4D5F-4E97-87A6-65E3C564BADA}"/>
+      <assignment original="false" backup="false" contextid="G3" shiftstate="1" macroguid="{6B4A9319-96E8-44C9-98EE-7E3D74D95411}"/>
+      <assignment original="false" backup="false" contextid="G26" shiftstate="1" macroguid="{D1ED72D8-4D64-41EB-8A2D-2C51682E039B}"/>
+      <assignment original="false" backup="false" contextid="G29" shiftstate="1" macroguid="{48A879FC-FFEF-4F50-9345-32C156A9088B}"/>
+      <assignment original="false" backup="false" contextid="G27" shiftstate="1" macroguid="{3663F8C9-534B-40A0-B258-290123A6DD26}"/>
+      <assignment original="false" backup="false" contextid="G28" shiftstate="1" macroguid="{60E949DB-0D72-4B38-99B7-265CED4B6F46}"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G700">
+      <assignment original="false" backup="false" contextid="Button1" shiftstate="1" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}"/>
+      <assignment original="false" backup="false" contextid="Button2" shiftstate="1" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}"/>
+      <assignment original="false" backup="false" contextid="Button3" shiftstate="1" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}"/>
+      <assignment original="false" backup="false" contextid="Button4" shiftstate="1" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}"/>
+      <assignment original="false" backup="false" contextid="Button5" shiftstate="1" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}"/>
+      <assignment original="false" backup="false" contextid="Button8" shiftstate="1" macroguid="{B72342CF-EC71-4079-B4F9-5764BF56831B}"/>
+      <assignment original="false" backup="false" contextid="Button9" shiftstate="1" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}"/>
+      <assignment original="false" backup="false" contextid="Button10" shiftstate="1" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}"/>
+      <assignment original="false" backup="false" contextid="Button11" shiftstate="1" macroguid="{29BE6848-8D8B-45E3-A524-5864460DA7BC}"/>
+      <assignment original="false" backup="false" contextid="Button12" shiftstate="1" macroguid="{13E92690-A0E7-468A-8185-70902CD0C240}"/>
+      <assignment original="false" backup="false" contextid="Button13" shiftstate="1" macroguid="{B2D26A9F-1E30-4978-8A1B-1CE8A023D3AB}"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G9">
+      <assignment original="false" backup="false" contextid="Button1" shiftstate="1" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}"/>
+      <assignment original="false" backup="false" contextid="Button2" shiftstate="1" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}"/>
+      <assignment original="false" backup="false" contextid="Button7" shiftstate="1" macroguid="{13E92690-A0E7-468A-8185-70902CD0C240}"/>
+      <assignment original="false" backup="false" contextid="Button8" shiftstate="1" macroguid="{B2D26A9F-1E30-4978-8A1B-1CE8A023D3AB}"/>
+      <assignment original="false" backup="false" contextid="Button9" shiftstate="1" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}"/>
+      <assignment original="false" backup="false" contextid="Button10" shiftstate="1" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}"/>
+      <assignment original="false" backup="false" contextid="Button3" shiftstate="1" macroguid="{CD9B972C-0FD6-4810-B9FB-08EC0C7A1526}"/>
+      <assignment original="false" backup="false" contextid="Button5" shiftstate="1" macroguid="{3177AEC9-4D5F-4E97-87A6-65E3C564BADA}"/>
+      <assignment original="false" backup="false" contextid="Button4" shiftstate="1" macroguid="{DD65B63F-2718-4CFF-B817-97B9111F1184}"/>
+    </assignments>
+    <pointers>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G700">
+        <mode shiftstate="1">
+          <reportrate rate="500"/>
+          <powermode value="2"/>
+          <dpitable defaultindex="2" shiftindex="2" syncxy="1">
+            <dpi x="400" y="400" enabled="1"/>
+            <dpi x="800" y="800" enabled="1"/>
+            <dpi x="1200" y="1200" enabled="1"/>
+            <dpi x="1600" y="1600" enabled="1"/>
+            <dpi x="3200" y="3200" enabled="1"/>
+          </dpitable>
+          <movement speed="-1" acceleration="1"/>
+        </mode>
+      </pointer>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G9X">
+        <mode shiftstate="1">
+          <reportrate rate="500"/>
+          <powermode value="2"/>
+          <dpitable defaultindex="1" shiftindex="1" syncxy="1">
+            <dpi x="400" y="400" enabled="1"/>
+            <dpi x="800" y="800" enabled="1"/>
+            <dpi x="1600" y="1600" enabled="1"/>
+            <dpi x="3200" y="3200" enabled="1"/>
+          </dpitable>
+          <movement speed="-1" acceleration="1"/>
+        </mode>
+      </pointer>
+    </pointers>
+    <backlight devicemodel="Logitech.Gaming.Mouse.G9X">
+      <mode shiftstate="1" color="#ff0000"/>
+      <mode shiftstate="2" color="#ff9b00"/>
+      <mode shiftstate="3" color="#ff9b00"/>
+    </backlight>
+    <backlight devicemodel="Logitech.Gaming.LeftHandedController.G13">
+      <mode shiftstate="1" color="#ffffff"/>
+      <mode shiftstate="2" color="#ffffff"/>
+      <mode shiftstate="3" color="#ffffff"/>
+    </backlight>
+    <backlight devicemodel="Logitech.Gaming.Keyboard.G510">
+      <mode shiftstate="1" color="#ffffff"/>
+      <mode shiftstate="2" color="#ffffff"/>
+      <mode shiftstate="3" color="#ffffff"/>
+    </backlight>
+    <script>function OnEvent(event, arg)
+    OutputLogMessage("event = %s, arg = %s\n", event, arg)
+end</script>
+  </profile>
+</profiles>

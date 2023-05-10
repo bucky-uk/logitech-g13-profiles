@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile lock="0" gkeysdk="0" name="Cyberpunk 2077" lastplayeddate="2021-01-28T23:04:27" guid="{6AEEAFD9-3851-4E79-836F-02CC37F77EC5}" gpasupported="0" gameid="" launchable="1">
+    <description></description>
+    <target path="D:\GAMES\STEAM\STEAMAPPS\COMMON\CYBERPUNK 2077\BIN\X64\CYBERPUNK2077.EXE"/>
+    <signature executable="" name="" key="" value=""/>
+    <macros>
+      <macro name="Joystick" hidden="false" guid="{93F34A3F-7081-4D53-A99D-E858D4D86800}" color="4278246655">
+        <joystick xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Joystick"/>
+      </macro>
+      <macro name="F" hidden="false" guid="{A90E80EF-D1A5-4F08-A3B0-C36E28759A9A}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F"/>
+        </keystroke>
+      </macro>
+      <macro name="X" hidden="false" guid="{C23B9D58-178A-4289-B353-0EB0545C7A87}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="X"/>
+        </keystroke>
+      </macro>
+      <macro name="Z" hidden="false" guid="{28322160-F893-43A1-98AB-FCC63C3078F5}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+        </keystroke>
+      </macro>
+      <macro name="E" hidden="false" guid="{5E004C1F-B873-4BBA-AB97-9C4D81AFD1FC}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="E"/>
+        </keystroke>
+      </macro>
+      <macro name="Q" hidden="false" guid="{0F3DA180-420F-4675-B497-028B9F05824E}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+        </keystroke>
+      </macro>
+      <macro name="4" hidden="false" guid="{645EB827-513D-4920-B36C-99C57F9D1EA4}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="4"/>
+        </keystroke>
+      </macro>
+      <macro name="T" hidden="false" guid="{CFF6AEE4-2DD5-49A8-8808-B58A92A0AACE}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="T"/>
+        </keystroke>
+      </macro>
+      <macro name="Jump" hidden="false" guid="{674CED2C-9143-4057-861B-998F1E5598F9}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SPACEBAR"/>
+        </keystroke>
+      </macro>
+      <macro name="CTRL" hidden="false" guid="{E2D02D5F-0728-4D1A-ACE9-ED8559084123}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro name="i" hidden="false" guid="{FD1B8E33-0CF0-4387-A870-41A79614FF05}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="I"/>
+        </keystroke>
+      </macro>
+      <macro name="Dialog Skip" hidden="false" guid="{36C0DB00-D4A5-4B41-A84A-BEEC1C825DEE}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="COMMA"/>
+        </keystroke>
+      </macro>
+      <macro name="Back" hidden="false" guid="{B1FDAE12-EBD8-44AE-8ACD-9E8CC12E35D0}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="ESCAPE"/>
+        </keystroke>
+      </macro>
+      <macro name="Messages" hidden="false" guid="{7A3CE6EA-011A-40C7-9055-6922FD048958}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="TAB"/>
+        </keystroke>
+      </macro>
+      <macro name="Map" hidden="false" guid="{9E878034-9BE3-4761-A2FA-3D1CD82B96DE}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="M"/>
+        </keystroke>
+      </macro>
+      <macro name="Crouch" hidden="false" guid="{C77DAB71-32D8-4C4F-9A85-661B911AFA02}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="C"/>
+        </keystroke>
+      </macro>
+      <macro name="Inventory" hidden="false" guid="{A4D82CA1-2167-4C80-9D10-8B2B192ED370}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="O"/>
+        </keystroke>
+      </macro>
+      <macro name="Vehicle" hidden="false" guid="{CF29C5F4-3285-4D7B-9715-B07316D56F99}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+        </keystroke>
+      </macro>
+      <macro name="Grenade/Gadget" hidden="false" guid="{9F32C1B5-837F-4D94-AB44-3A2C908037DD}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="G"/>
+        </keystroke>
+      </macro>
+      <macro name="Run" hidden="false" guid="{370DA313-0E08-49C1-B95D-22A628C4D6D8}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro name="Weapon switch" hidden="false" guid="{CEC2AC0B-324F-408C-B09F-8BEB565B2DB3}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LALT"/>
+        </keystroke>
+      </macro>
+      <macro name="Reload" hidden="false" guid="{CD0293DE-8F27-4D5A-9F56-411FB4BCD5F5}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+        </keystroke>
+      </macro>
+      <macro name="Weapon 1" hidden="false" guid="{6F99E2A3-462F-41E1-AFA3-B5CF30375BB2}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="1"/>
+        </keystroke>
+      </macro>
+      <macro name="Weapon 2" hidden="false" guid="{0F34AC27-320A-42EE-9E25-B4AF7A0CA947}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="2"/>
+        </keystroke>
+      </macro>
+      <macro name="Weapon 3" hidden="false" guid="{278AB9B3-E423-4355-9AF4-0546AAD4F5CD}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="3"/>
+        </keystroke>
+      </macro>
+      <macro name="-" hidden="false" guid="{697D4C1E-5C05-4B9C-B38D-433805F54DAB}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="MINUS"/>
+        </keystroke>
+      </macro>
+      <macro name="+" hidden="false" guid="{C33CF7FA-1259-4602-8D1E-8D0576207C26}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="EQUAL"/>
+          <modifier value="RSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro name="Quicksave" hidden="false" guid="{399E7E77-5163-4883-8420-A69647384A11}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F5"/>
+        </keystroke>
+      </macro>
+      <macro name="[" hidden="false" guid="{ED6BB098-0989-4993-9373-70E6AC6A5E0D}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LBRACKET"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.LeftHandedController">
+      <assignment backup="false" contextid="G25" macroguid="{93F34A3F-7081-4D53-A99D-E858D4D86800}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G26" macroguid="{93F34A3F-7081-4D53-A99D-E858D4D86800}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G27" macroguid="{93F34A3F-7081-4D53-A99D-E858D4D86800}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G28" macroguid="{93F34A3F-7081-4D53-A99D-E858D4D86800}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G29" macroguid="{93F34A3F-7081-4D53-A99D-E858D4D86800}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G6" macroguid="{CD0293DE-8F27-4D5A-9F56-411FB4BCD5F5}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G5" macroguid="{5E004C1F-B873-4BBA-AB97-9C4D81AFD1FC}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G3" macroguid="{0F3DA180-420F-4675-B497-028B9F05824E}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G4" macroguid="{674CED2C-9143-4057-861B-998F1E5598F9}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G20" macroguid="{E2D02D5F-0728-4D1A-ACE9-ED8559084123}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G15" macroguid="{370DA313-0E08-49C1-B95D-22A628C4D6D8}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G11" macroguid="{C77DAB71-32D8-4C4F-9A85-661B911AFA02}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G8" macroguid="{7A3CE6EA-011A-40C7-9055-6922FD048958}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G1" macroguid="{B1FDAE12-EBD8-44AE-8ACD-9E8CC12E35D0}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G13" macroguid="{9F32C1B5-837F-4D94-AB44-3A2C908037DD}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G10" macroguid="{6F99E2A3-462F-41E1-AFA3-B5CF30375BB2}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G17" macroguid="{C23B9D58-178A-4289-B353-0EB0545C7A87}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G9" macroguid="{0F34AC27-320A-42EE-9E25-B4AF7A0CA947}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G12" macroguid="{278AB9B3-E423-4355-9AF4-0546AAD4F5CD}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G21" macroguid="{CF29C5F4-3285-4D7B-9715-B07316D56F99}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G19" macroguid="{CFF6AEE4-2DD5-49A8-8808-B58A92A0AACE}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G7" macroguid="{9E878034-9BE3-4761-A2FA-3D1CD82B96DE}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G14" macroguid="{A4D82CA1-2167-4C80-9D10-8B2B192ED370}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G2" macroguid="{CEC2AC0B-324F-408C-B09F-8BEB565B2DB3}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G22" macroguid="{645EB827-513D-4920-B36C-99C57F9D1EA4}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G18" macroguid="{36C0DB00-D4A5-4B41-A84A-BEEC1C825DEE}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G23" macroguid="{399E7E77-5163-4883-8420-A69647384A11}" shiftstate="1" original="false"/>
+      <assignment backup="false" contextid="G16" macroguid="{ED6BB098-0989-4993-9373-70E6AC6A5E0D}" shiftstate="1" original="false"/>
+    </assignments>
+    <backlight devicemodel="Logitech.Gaming.LeftHandedController.G13">
+      <mode shiftstate="1" color="#ff00dd"/>
+      <mode shiftstate="2" color="#ffffff"/>
+      <mode shiftstate="3" color="#ffffff"/>
+    </backlight>
+    <script>function OnEvent(event, arg)
+    OutputLogMessage("event = %s, arg = %s\n", event, arg)
+end</script>
+  </profile>
+</profiles>

@@ -1,0 +1,2002 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile lock="0" lastplayeddate="2022-10-15T14:31:45" name="Skyrim" launchable="1" gkeysdk="0" gpasupported="0" guid="{7BD3BCDD-7552-4E01-B183-374616922101}" gameid="">
+    <description></description>
+    <target path="D:\GAMES\SKYRIM\ARISEN\STOCK GAME\SKYRIMSE.EXE"/>
+    <signature value="" name="" executable="" key=""/>
+    <macros>
+      <macro color="4278246655" original="true" name="A" hidden="false" guid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="A"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="S" hidden="false" guid="{719E14B7-92C8-4231-AD72-C30450EBFC10}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="S"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="D" hidden="false" guid="{438FEFE1-A4AC-40C2-9247-B31379391066}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="D"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="G" hidden="false" guid="{C76A7B08-F7A1-4CB1-A05B-F376B76FEB3C}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="G"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="LSHIFT" hidden="false" guid="{B6A5C255-A379-498D-AAD9-290F1EB43B98}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="X" hidden="false" guid="{AEB183E0-9019-4392-896B-4DAC8330FA67}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="X"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="C" hidden="false" guid="{0BD1FF8D-B460-46A4-9866-EAFB2ECF3617}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="C"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="V" hidden="false" guid="{33F8DE88-FEAC-42ED-BA8A-3C4755FA6D67}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="LALT" hidden="false" guid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LALT"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="6" hidden="false" guid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="6"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="7" hidden="false" guid="{D0AE6D96-FA68-44C3-9962-F25237E48823}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="7"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="8" hidden="false" guid="{6FDA729B-2DD1-4505-9693-A8D2CC88A956}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="8"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="W" hidden="false" guid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="E" hidden="false" guid="{35060C60-D9F5-4F61-B7F0-351005026E00}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="E"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="F1" hidden="false" guid="{FF54FEB5-843F-465A-B8BA-9CAA2C4B70B9}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F1"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="F2" hidden="false" guid="{1ED530F3-5A13-4EB1-800C-DF0D6873ED88}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F2"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="F3" hidden="false" guid="{B06BEC6C-12A7-4F2A-AC97-BBF7B7EDF353}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F3"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="F4" hidden="false" guid="{33BDD50A-3E5C-4EE3-A440-91C2A94230CB}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F4"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="F5" hidden="false" guid="{FA55D2A3-9611-4B9A-8705-17C74B82FB64}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F5"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="F6" hidden="false" guid="{035A0274-52FD-4530-A7B9-EB66B6BEB647}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F6"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="F10" hidden="false" guid="{002D4039-63A2-4FFB-B9A6-4F2337042B54}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F10"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="F11" hidden="false" guid="{E432B456-E65C-4009-9115-FFF884011BEF}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F11"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="F12" hidden="false" guid="{A36371DC-A978-440E-85B5-336C2AFCA14F}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F12"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="5" hidden="false" guid="{793AC04D-F6DB-4E47-8D93-068B95FD54E3}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="5"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="F7" hidden="false" guid="{2FDFE890-93C0-4BDB-851B-03D0E06337C1}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F7"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="F8" hidden="false" guid="{23A95548-5C2F-423A-A76C-0A341F636BF5}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F8"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="F9" hidden="false" guid="{A83EA296-1C6B-4523-996A-69D7830524CD}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F9"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" original="true" name="Left Click" hidden="false" guid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" original="true" name="Right Click" hidden="false" guid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" original="true" name="Middle Click" hidden="false" guid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" original="true" name="Back" hidden="false" guid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" original="true" name="Forward" hidden="false" guid="{8B13562D-60F2-460F-9588-8C84168C81BC}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="forward"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" devicecategory="Logitech.Gaming.Mouse" original="true" name="DPI Up" hidden="false" guid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpiup"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" devicecategory="Logitech.Gaming.Mouse" original="true" name="DPI Down" hidden="false" guid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpidown"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" devicecategory="Logitech.Gaming.Mouse" original="true" name="Default DPI" hidden="false" guid="{89F0C712-9AF7-4099-9C53-1868BF5B9A4E}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="defaultdpi"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" devicecategory="Logitech.Gaming.Mouse.G300" original="true" name="Mode Switch (G300/s)" hidden="false" guid="{53E81537-5916-4AB3-B052-ABF88B5DD218}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="modeswitch"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" devicecategory="Logitech.Gaming.Mouse" original="true" name="DPI Shift" hidden="false" guid="{A1FEC5BC-9A8A-49C5-B085-0E2EDCEF1F55}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpishift"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" devicecategory="Logitech.Gaming.Mouse" original="true" name="DPI Cycling" hidden="false" guid="{28F1F32A-678A-4CD8-A0F4-41283A737EFC}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpicycling"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" original="true" name="Copy" hidden="false" guid="{F7899D9E-8B25-45CB-B4BC-AAF99E4C87D4}">
+        <hotkeys xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Hotkeys">
+          <do task="copy"/>
+        </hotkeys>
+      </macro>
+      <macro color="4278246655" original="true" name="Paste" hidden="false" guid="{5638A489-F156-4122-A7DB-E0F880FACC0E}">
+        <hotkeys xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Hotkeys">
+          <do task="paste"/>
+        </hotkeys>
+      </macro>
+      <macro color="4278246655" original="true" name="Cut" hidden="false" guid="{2F5C8F56-C184-4143-8852-2EB924626DCC}">
+        <hotkeys xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Hotkeys">
+          <do task="cut"/>
+        </hotkeys>
+      </macro>
+      <macro color="4278246655" original="true" name="F1" hidden="true" guid="{D5AC487F-B970-4F70-9B59-6EC8A53684A4}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" original="true" name="F2" hidden="true" guid="{015CB0BB-B7EB-4A20-BFFD-8825E388F894}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" original="true" name="F3" hidden="true" guid="{7A014AFE-618E-43D6-B296-D61483211066}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" original="true" name="F4" hidden="true" guid="{DA05951F-18ED-44E6-9BA6-E08937AA880B}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" original="true" name="F5" hidden="true" guid="{4A68DBDE-D3B9-4E9E-A6D9-28EF552BE9DD}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" original="true" name="F6" hidden="true" guid="{1F2CC23B-86C8-4FBA-B4CE-9F025459FAE4}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" original="true" name="F7" hidden="true" guid="{9E4F6006-03FB-44AC-85CF-14A74BA0C126}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" original="true" name="F8" hidden="true" guid="{3D087F0F-971C-4E23-860B-ACE762C96CC4}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" original="true" name="F9" hidden="true" guid="{E8744FC0-9710-45E8-A427-7BA80359FE68}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" original="true" name="F10" hidden="true" guid="{D5A173BE-C5B3-4C75-89CE-162E33876F5B}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" original="true" name="F11" hidden="true" guid="{E29676E8-DC26-4518-A319-952C4A3D3D35}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" original="true" name="F12" hidden="true" guid="{7016AAD1-1A1C-4301-9441-1DB8A854E81E}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" original="true" name="Cycle Brightness(G560)" hidden="true" guid="{0EF4BD7D-3402-4433-B6B0-5D301509417D}">
+        <function xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Function">
+          <do task="cycle_brightness"/>
+        </function>
+      </macro>
+      <macro color="4278246655" name="Joystick" hidden="false" guid="{93F34A3F-7081-4D53-A99D-E858D4D86800}">
+        <joystick xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Joystick"/>
+      </macro>
+      <macro color="4278246655" name="2" backupguid="{244636E5-5C47-4982-8A76-E216A920F49F}" hidden="false" guid="{E73A22A1-99EF-47A7-9BB4-60027439075D}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="2"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="1" backupguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" hidden="false" guid="{79CC2A4A-7BFA-47C6-AFBC-EB0F079A5E08}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="1"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="ESC" hidden="false" guid="{35C087A1-46DA-4B8C-9608-B5D336B53AC5}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="ESCAPE"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="TAB" hidden="false" guid="{E4E06A56-C11D-44EB-B2BC-33009A4D20FD}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="TAB"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Inventory" hidden="false" guid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="I"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="T" backupguid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" hidden="false" guid="{132ED3E1-B92C-44DD-BEDB-90AD3263F3EB}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="T"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Map" hidden="false" guid="{C1CC5892-9C52-433E-8622-0B6E144FE7F7}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="M"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Power Attack" hidden="false" guid="{C519CE7A-9D72-4D8D-9D28-C6C58E0168B0}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="R" backupguid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" hidden="false" guid="{20A36B2E-2437-43CD-B419-1423E912F431}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Taunt" hidden="false" guid="{3D732C88-8594-4354-8A39-FE44CD6C09AD}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="G"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="F" backupguid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" hidden="false" guid="{E8820170-A0DE-430B-9805-3AE820FE69FD}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Horse" hidden="false" guid="{FB1FFFCF-0F68-49ED-991A-71F746928C72}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="H"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Shout/Power" hidden="false" guid="{474C3E34-3395-4059-93C8-3D4076673135}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Z" backupguid="{474C3E34-3395-4059-93C8-3D4076673135}" hidden="false" guid="{BB79B806-1536-4E86-8040-6F650EF8341B}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Q" backupguid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" hidden="false" guid="{DE8F785E-1910-48EF-B17E-E88158D7A097}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="CTRL" hidden="false" guid="{02F3EC5E-DCDE-4150-9F6F-B4E834136F91}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="LCTRL" backupguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" hidden="false" guid="{FE035089-E25A-489F-88B4-5F482EE80FC8}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Quickmenu" hidden="false" guid="{088F6952-C5AF-4CD9-8596-C1744B12501F}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Crouch" hidden="false" guid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="C"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Jump" hidden="false" guid="{012C64E4-210B-4199-97BC-F051CE3488E6}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SPACEBAR"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="SPACEBAR" backupguid="{012C64E4-210B-4199-97BC-F051CE3488E6}" hidden="false" guid="{53B520E5-EF59-4763-9554-D42951B52B4A}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SPACEBAR"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="3" backupguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" hidden="false" guid="{0805AEB3-7806-4382-AC11-B482B3C054F5}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="3"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Horsey" hidden="false" guid="{F913B162-16C9-4D15-BC17-113264856F32}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="H"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" repeatmode="pressed" name="Quick pickup" repeatdelay="150" hidden="false" guid="{AB1BA073-A171-4533-B271-E8CB6A9B2958}">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+        </multikey>
+      </macro>
+      <macro color="4278246655" name="Followers" hidden="false" guid="{96591C49-3F10-4E51-A9AB-A6BE4C78DBBB}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="QUOTE"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="1H Block" hidden="false" guid="{259C3FB7-1FBD-4CA2-AD1C-7FF27FBBD312}">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="B" direction="down"/>
+          <key value="B" direction="up"/>
+        </multikey>
+      </macro>
+      <macro color="4278246655" name="Ready/Sheathe" hidden="false" guid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="4" backupguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" hidden="false" guid="{3CBE0DF4-DF0A-4782-9E3B-B605B396D4D0}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="4"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Journal" hidden="false" guid="{42D429F6-6D7F-4717-B621-04065D9B0919}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="J"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Potion" hidden="false" guid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Ashes" hidden="false" guid="{16DD588E-B2CC-45C8-B45D-1308EC24AF97}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Power Attack" hidden="false" guid="{777A78D4-81EE-4E5D-86D3-7688BA5ED614}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="Sword &amp; Board" hidden="false" guid="{50B598E4-AF82-4B90-A6C2-5627BBC8019E}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F1"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="QS: Conduit" hidden="false" guid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="8"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="QS: Heal" hidden="false" guid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="4"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="QS: Melee" hidden="false" guid="{244636E5-5C47-4982-8A76-E216A920F49F}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="2"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="QS: Bow" hidden="false" guid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="1"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="QS: Fire" hidden="false" guid="{B597B764-66F5-47CB-95CC-D86F783E6D43}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="5"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="QS: Ice" hidden="false" guid="{BE83E5A6-BB52-492F-A8E0-2459CD278CAD}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="3"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.Function.Keyboard">
+      <assignment contextid="G1" backup="false" macroguid="{D5AC487F-B970-4F70-9B59-6EC8A53684A4}" shiftstate="1" original="true"/>
+      <assignment contextid="G1" backup="false" macroguid="{D5AC487F-B970-4F70-9B59-6EC8A53684A4}" shiftstate="4" original="true"/>
+      <assignment contextid="G2" backup="false" macroguid="{015CB0BB-B7EB-4A20-BFFD-8825E388F894}" shiftstate="1" original="true"/>
+      <assignment contextid="G2" backup="false" macroguid="{015CB0BB-B7EB-4A20-BFFD-8825E388F894}" shiftstate="4" original="true"/>
+      <assignment contextid="G3" backup="false" macroguid="{7A014AFE-618E-43D6-B296-D61483211066}" shiftstate="1" original="true"/>
+      <assignment contextid="G3" backup="false" macroguid="{7A014AFE-618E-43D6-B296-D61483211066}" shiftstate="4" original="true"/>
+      <assignment contextid="G4" backup="false" macroguid="{DA05951F-18ED-44E6-9BA6-E08937AA880B}" shiftstate="1" original="true"/>
+      <assignment contextid="G4" backup="false" macroguid="{DA05951F-18ED-44E6-9BA6-E08937AA880B}" shiftstate="4" original="true"/>
+      <assignment contextid="G5" backup="false" macroguid="{4A68DBDE-D3B9-4E9E-A6D9-28EF552BE9DD}" shiftstate="1" original="true"/>
+      <assignment contextid="G5" backup="false" macroguid="{4A68DBDE-D3B9-4E9E-A6D9-28EF552BE9DD}" shiftstate="4" original="true"/>
+      <assignment contextid="G6" backup="false" macroguid="{1F2CC23B-86C8-4FBA-B4CE-9F025459FAE4}" shiftstate="1" original="true"/>
+      <assignment contextid="G6" backup="false" macroguid="{1F2CC23B-86C8-4FBA-B4CE-9F025459FAE4}" shiftstate="4" original="true"/>
+      <assignment contextid="G7" backup="false" macroguid="{9E4F6006-03FB-44AC-85CF-14A74BA0C126}" shiftstate="1" original="true"/>
+      <assignment contextid="G7" backup="false" macroguid="{9E4F6006-03FB-44AC-85CF-14A74BA0C126}" shiftstate="4" original="true"/>
+      <assignment contextid="G8" backup="false" macroguid="{3D087F0F-971C-4E23-860B-ACE762C96CC4}" shiftstate="1" original="true"/>
+      <assignment contextid="G8" backup="false" macroguid="{3D087F0F-971C-4E23-860B-ACE762C96CC4}" shiftstate="4" original="true"/>
+      <assignment contextid="G9" backup="false" macroguid="{E8744FC0-9710-45E8-A427-7BA80359FE68}" shiftstate="1" original="true"/>
+      <assignment contextid="G9" backup="false" macroguid="{E8744FC0-9710-45E8-A427-7BA80359FE68}" shiftstate="4" original="true"/>
+      <assignment contextid="G10" backup="false" macroguid="{D5A173BE-C5B3-4C75-89CE-162E33876F5B}" shiftstate="1" original="true"/>
+      <assignment contextid="G10" backup="false" macroguid="{D5A173BE-C5B3-4C75-89CE-162E33876F5B}" shiftstate="4" original="true"/>
+      <assignment contextid="G11" backup="false" macroguid="{E29676E8-DC26-4518-A319-952C4A3D3D35}" shiftstate="1" original="true"/>
+      <assignment contextid="G11" backup="false" macroguid="{E29676E8-DC26-4518-A319-952C4A3D3D35}" shiftstate="4" original="true"/>
+      <assignment contextid="G12" backup="false" macroguid="{7016AAD1-1A1C-4301-9441-1DB8A854E81E}" shiftstate="1" original="true"/>
+      <assignment contextid="G12" backup="false" macroguid="{7016AAD1-1A1C-4301-9441-1DB8A854E81E}" shiftstate="4" original="true"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Keyboard">
+      <assignment contextid="G1" backup="false" macroguid="{FF54FEB5-843F-465A-B8BA-9CAA2C4B70B9}" shiftstate="1" original="true"/>
+      <assignment contextid="G1" backup="false" macroguid="{FF54FEB5-843F-465A-B8BA-9CAA2C4B70B9}" shiftstate="2" original="true"/>
+      <assignment contextid="G1" backup="false" macroguid="{FF54FEB5-843F-465A-B8BA-9CAA2C4B70B9}" shiftstate="3" original="true"/>
+      <assignment contextid="G10" backup="false" macroguid="{002D4039-63A2-4FFB-B9A6-4F2337042B54}" shiftstate="1" original="true"/>
+      <assignment contextid="G10" backup="false" macroguid="{002D4039-63A2-4FFB-B9A6-4F2337042B54}" shiftstate="2" original="true"/>
+      <assignment contextid="G10" backup="false" macroguid="{002D4039-63A2-4FFB-B9A6-4F2337042B54}" shiftstate="3" original="true"/>
+      <assignment contextid="G11" backup="false" macroguid="{E432B456-E65C-4009-9115-FFF884011BEF}" shiftstate="1" original="true"/>
+      <assignment contextid="G11" backup="false" macroguid="{E432B456-E65C-4009-9115-FFF884011BEF}" shiftstate="2" original="true"/>
+      <assignment contextid="G11" backup="false" macroguid="{E432B456-E65C-4009-9115-FFF884011BEF}" shiftstate="3" original="true"/>
+      <assignment contextid="G12" backup="false" macroguid="{A36371DC-A978-440E-85B5-336C2AFCA14F}" shiftstate="1" original="true"/>
+      <assignment contextid="G12" backup="false" macroguid="{A36371DC-A978-440E-85B5-336C2AFCA14F}" shiftstate="2" original="true"/>
+      <assignment contextid="G12" backup="false" macroguid="{A36371DC-A978-440E-85B5-336C2AFCA14F}" shiftstate="3" original="true"/>
+      <assignment contextid="G13" backup="false" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" shiftstate="1" original="false"/>
+      <assignment contextid="G13" backup="false" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" shiftstate="2" original="false"/>
+      <assignment contextid="G13" backup="false" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" shiftstate="3" original="false"/>
+      <assignment contextid="G14" backup="false" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" shiftstate="1" original="false"/>
+      <assignment contextid="G14" backup="false" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" shiftstate="2" original="false"/>
+      <assignment contextid="G14" backup="false" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" shiftstate="3" original="false"/>
+      <assignment contextid="G15" backup="false" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" shiftstate="1" original="false"/>
+      <assignment contextid="G15" backup="false" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" shiftstate="2" original="false"/>
+      <assignment contextid="G15" backup="false" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" shiftstate="3" original="false"/>
+      <assignment contextid="G16" backup="false" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" shiftstate="1" original="false"/>
+      <assignment contextid="G16" backup="false" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" shiftstate="2" original="false"/>
+      <assignment contextid="G16" backup="false" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" shiftstate="3" original="false"/>
+      <assignment contextid="G17" backup="false" macroguid="{793AC04D-F6DB-4E47-8D93-068B95FD54E3}" shiftstate="1" original="true"/>
+      <assignment contextid="G17" backup="false" macroguid="{793AC04D-F6DB-4E47-8D93-068B95FD54E3}" shiftstate="2" original="true"/>
+      <assignment contextid="G17" backup="false" macroguid="{793AC04D-F6DB-4E47-8D93-068B95FD54E3}" shiftstate="3" original="true"/>
+      <assignment contextid="G18" backup="false" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" shiftstate="1" original="true"/>
+      <assignment contextid="G18" backup="false" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" shiftstate="2" original="true"/>
+      <assignment contextid="G18" backup="false" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" shiftstate="3" original="true"/>
+      <assignment contextid="G2" backup="false" macroguid="{1ED530F3-5A13-4EB1-800C-DF0D6873ED88}" shiftstate="1" original="true"/>
+      <assignment contextid="G2" backup="false" macroguid="{1ED530F3-5A13-4EB1-800C-DF0D6873ED88}" shiftstate="2" original="true"/>
+      <assignment contextid="G2" backup="false" macroguid="{1ED530F3-5A13-4EB1-800C-DF0D6873ED88}" shiftstate="3" original="true"/>
+      <assignment contextid="G3" backup="false" macroguid="{B06BEC6C-12A7-4F2A-AC97-BBF7B7EDF353}" shiftstate="1" original="true"/>
+      <assignment contextid="G3" backup="false" macroguid="{B06BEC6C-12A7-4F2A-AC97-BBF7B7EDF353}" shiftstate="2" original="true"/>
+      <assignment contextid="G3" backup="false" macroguid="{B06BEC6C-12A7-4F2A-AC97-BBF7B7EDF353}" shiftstate="3" original="true"/>
+      <assignment contextid="G4" backup="false" macroguid="{33BDD50A-3E5C-4EE3-A440-91C2A94230CB}" shiftstate="1" original="true"/>
+      <assignment contextid="G4" backup="false" macroguid="{33BDD50A-3E5C-4EE3-A440-91C2A94230CB}" shiftstate="2" original="true"/>
+      <assignment contextid="G4" backup="false" macroguid="{33BDD50A-3E5C-4EE3-A440-91C2A94230CB}" shiftstate="3" original="true"/>
+      <assignment contextid="G5" backup="false" macroguid="{FA55D2A3-9611-4B9A-8705-17C74B82FB64}" shiftstate="1" original="true"/>
+      <assignment contextid="G5" backup="false" macroguid="{FA55D2A3-9611-4B9A-8705-17C74B82FB64}" shiftstate="2" original="true"/>
+      <assignment contextid="G5" backup="false" macroguid="{FA55D2A3-9611-4B9A-8705-17C74B82FB64}" shiftstate="3" original="true"/>
+      <assignment contextid="G6" backup="false" macroguid="{035A0274-52FD-4530-A7B9-EB66B6BEB647}" shiftstate="1" original="true"/>
+      <assignment contextid="G6" backup="false" macroguid="{035A0274-52FD-4530-A7B9-EB66B6BEB647}" shiftstate="2" original="true"/>
+      <assignment contextid="G6" backup="false" macroguid="{035A0274-52FD-4530-A7B9-EB66B6BEB647}" shiftstate="3" original="true"/>
+      <assignment contextid="G7" backup="false" macroguid="{2FDFE890-93C0-4BDB-851B-03D0E06337C1}" shiftstate="1" original="true"/>
+      <assignment contextid="G7" backup="false" macroguid="{2FDFE890-93C0-4BDB-851B-03D0E06337C1}" shiftstate="2" original="true"/>
+      <assignment contextid="G7" backup="false" macroguid="{2FDFE890-93C0-4BDB-851B-03D0E06337C1}" shiftstate="3" original="true"/>
+      <assignment contextid="G8" backup="false" macroguid="{23A95548-5C2F-423A-A76C-0A341F636BF5}" shiftstate="1" original="true"/>
+      <assignment contextid="G8" backup="false" macroguid="{23A95548-5C2F-423A-A76C-0A341F636BF5}" shiftstate="2" original="true"/>
+      <assignment contextid="G8" backup="false" macroguid="{23A95548-5C2F-423A-A76C-0A341F636BF5}" shiftstate="3" original="true"/>
+      <assignment contextid="G9" backup="false" macroguid="{A83EA296-1C6B-4523-996A-69D7830524CD}" shiftstate="1" original="true"/>
+      <assignment contextid="G9" backup="false" macroguid="{A83EA296-1C6B-4523-996A-69D7830524CD}" shiftstate="2" original="true"/>
+      <assignment contextid="G9" backup="false" macroguid="{A83EA296-1C6B-4523-996A-69D7830524CD}" shiftstate="3" original="true"/>
+      <assignment contextid="G14" backup="true" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" shiftstate="1" original="false"/>
+      <assignment contextid="G14" backup="true" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" shiftstate="2" original="false"/>
+      <assignment contextid="G14" backup="true" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" shiftstate="3" original="false"/>
+      <assignment contextid="G13" backup="true" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" shiftstate="1" original="false"/>
+      <assignment contextid="G13" backup="true" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" shiftstate="2" original="false"/>
+      <assignment contextid="G13" backup="true" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" shiftstate="3" original="false"/>
+      <assignment contextid="G15" backup="true" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" shiftstate="1" original="false"/>
+      <assignment contextid="G15" backup="true" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" shiftstate="2" original="false"/>
+      <assignment contextid="G15" backup="true" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" shiftstate="3" original="false"/>
+      <assignment contextid="G16" backup="true" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" shiftstate="1" original="false"/>
+      <assignment contextid="G16" backup="true" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" shiftstate="2" original="false"/>
+      <assignment contextid="G16" backup="true" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" shiftstate="3" original="false"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.LeftHandedController">
+      <assignment contextid="G1" backup="true" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" shiftstate="1" original="false"/>
+      <assignment contextid="G1" backup="false" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" shiftstate="2" original="false"/>
+      <assignment contextid="G1" backup="false" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" shiftstate="3" original="false"/>
+      <assignment contextid="G10" backup="true" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" shiftstate="2" original="false"/>
+      <assignment contextid="G10" backup="false" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" shiftstate="3" original="true"/>
+      <assignment contextid="G11" backup="false" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" shiftstate="3" original="true"/>
+      <assignment contextid="G12" backup="false" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" shiftstate="3" original="true"/>
+      <assignment contextid="G13" backup="false" macroguid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" shiftstate="2" original="false"/>
+      <assignment contextid="G13" backup="false" macroguid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" shiftstate="3" original="false"/>
+      <assignment contextid="G14" backup="false" macroguid="{C76A7B08-F7A1-4CB1-A05B-F376B76FEB3C}" shiftstate="2" original="true"/>
+      <assignment contextid="G14" backup="false" macroguid="{C76A7B08-F7A1-4CB1-A05B-F376B76FEB3C}" shiftstate="3" original="true"/>
+      <assignment contextid="G15" backup="false" macroguid="{B6A5C255-A379-498D-AAD9-290F1EB43B98}" shiftstate="1" original="true"/>
+      <assignment contextid="G15" backup="false" macroguid="{B6A5C255-A379-498D-AAD9-290F1EB43B98}" shiftstate="2" original="true"/>
+      <assignment contextid="G15" backup="false" macroguid="{B6A5C255-A379-498D-AAD9-290F1EB43B98}" shiftstate="3" original="true"/>
+      <assignment contextid="G16" backup="false" macroguid="{474C3E34-3395-4059-93C8-3D4076673135}" shiftstate="2" original="false"/>
+      <assignment contextid="G16" backup="false" macroguid="{474C3E34-3395-4059-93C8-3D4076673135}" shiftstate="3" original="false"/>
+      <assignment contextid="G17" backup="true" macroguid="{AEB183E0-9019-4392-896B-4DAC8330FA67}" shiftstate="1" original="false"/>
+      <assignment contextid="G17" backup="false" macroguid="{AEB183E0-9019-4392-896B-4DAC8330FA67}" shiftstate="2" original="true"/>
+      <assignment contextid="G17" backup="false" macroguid="{AEB183E0-9019-4392-896B-4DAC8330FA67}" shiftstate="3" original="true"/>
+      <assignment contextid="G18" backup="true" macroguid="{0BD1FF8D-B460-46A4-9866-EAFB2ECF3617}" shiftstate="1" original="false"/>
+      <assignment contextid="G18" backup="false" macroguid="{0BD1FF8D-B460-46A4-9866-EAFB2ECF3617}" shiftstate="2" original="true"/>
+      <assignment contextid="G18" backup="false" macroguid="{0BD1FF8D-B460-46A4-9866-EAFB2ECF3617}" shiftstate="3" original="true"/>
+      <assignment contextid="G19" backup="true" macroguid="{33F8DE88-FEAC-42ED-BA8A-3C4755FA6D67}" shiftstate="1" original="false"/>
+      <assignment contextid="G19" backup="false" macroguid="{33F8DE88-FEAC-42ED-BA8A-3C4755FA6D67}" shiftstate="2" original="true"/>
+      <assignment contextid="G19" backup="false" macroguid="{33F8DE88-FEAC-42ED-BA8A-3C4755FA6D67}" shiftstate="3" original="true"/>
+      <assignment contextid="G2" backup="true" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" shiftstate="1" original="false"/>
+      <assignment contextid="G2" backup="false" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" shiftstate="2" original="false"/>
+      <assignment contextid="G2" backup="false" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" shiftstate="3" original="false"/>
+      <assignment contextid="G20" backup="true" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" shiftstate="1" original="false"/>
+      <assignment contextid="G20" backup="false" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" shiftstate="2" original="false"/>
+      <assignment contextid="G20" backup="false" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" shiftstate="3" original="false"/>
+      <assignment contextid="G21" backup="true" macroguid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}" shiftstate="1" original="false"/>
+      <assignment contextid="G21" backup="false" macroguid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}" shiftstate="2" original="true"/>
+      <assignment contextid="G21" backup="false" macroguid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}" shiftstate="3" original="true"/>
+      <assignment contextid="G22" backup="true" macroguid="{012C64E4-210B-4199-97BC-F051CE3488E6}" shiftstate="1" original="false"/>
+      <assignment contextid="G22" backup="false" macroguid="{012C64E4-210B-4199-97BC-F051CE3488E6}" shiftstate="2" original="false"/>
+      <assignment contextid="G22" backup="false" macroguid="{012C64E4-210B-4199-97BC-F051CE3488E6}" shiftstate="3" original="false"/>
+      <assignment contextid="G23" backup="true" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" shiftstate="1" original="false"/>
+      <assignment contextid="G23" backup="false" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" shiftstate="2" original="true"/>
+      <assignment contextid="G23" backup="false" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" shiftstate="3" original="true"/>
+      <assignment contextid="G24" backup="true" macroguid="{D0AE6D96-FA68-44C3-9962-F25237E48823}" shiftstate="1" original="false"/>
+      <assignment contextid="G24" backup="false" macroguid="{D0AE6D96-FA68-44C3-9962-F25237E48823}" shiftstate="2" original="true"/>
+      <assignment contextid="G24" backup="false" macroguid="{D0AE6D96-FA68-44C3-9962-F25237E48823}" shiftstate="3" original="true"/>
+      <assignment contextid="G25" backup="false" macroguid="{6FDA729B-2DD1-4505-9693-A8D2CC88A956}" shiftstate="2" original="true"/>
+      <assignment contextid="G25" backup="false" macroguid="{6FDA729B-2DD1-4505-9693-A8D2CC88A956}" shiftstate="3" original="true"/>
+      <assignment contextid="G26" backup="false" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" shiftstate="2" original="true"/>
+      <assignment contextid="G26" backup="false" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" shiftstate="3" original="true"/>
+      <assignment contextid="G27" backup="false" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" shiftstate="2" original="true"/>
+      <assignment contextid="G27" backup="false" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" shiftstate="3" original="true"/>
+      <assignment contextid="G28" backup="false" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" shiftstate="2" original="true"/>
+      <assignment contextid="G28" backup="false" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" shiftstate="3" original="true"/>
+      <assignment contextid="G29" backup="false" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" shiftstate="2" original="true"/>
+      <assignment contextid="G29" backup="false" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" shiftstate="3" original="true"/>
+      <assignment contextid="G3" backup="true" macroguid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" shiftstate="1" original="false"/>
+      <assignment contextid="G3" backup="false" macroguid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" shiftstate="2" original="false"/>
+      <assignment contextid="G3" backup="false" macroguid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" shiftstate="3" original="false"/>
+      <assignment contextid="G4" backup="true" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" shiftstate="2" original="false"/>
+      <assignment contextid="G4" backup="false" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" shiftstate="3" original="true"/>
+      <assignment contextid="G5" backup="true" macroguid="{35060C60-D9F5-4F61-B7F0-351005026E00}" shiftstate="1" original="false"/>
+      <assignment contextid="G5" backup="false" macroguid="{35060C60-D9F5-4F61-B7F0-351005026E00}" shiftstate="2" original="true"/>
+      <assignment contextid="G5" backup="false" macroguid="{35060C60-D9F5-4F61-B7F0-351005026E00}" shiftstate="3" original="true"/>
+      <assignment contextid="G6" backup="false" macroguid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" shiftstate="2" original="false"/>
+      <assignment contextid="G6" backup="false" macroguid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" shiftstate="3" original="false"/>
+      <assignment contextid="G7" backup="false" macroguid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" shiftstate="2" original="false"/>
+      <assignment contextid="G7" backup="false" macroguid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" shiftstate="3" original="false"/>
+      <assignment contextid="G8" backup="true" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" shiftstate="1" original="false"/>
+      <assignment contextid="G8" backup="false" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" shiftstate="2" original="false"/>
+      <assignment contextid="G8" backup="false" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" shiftstate="3" original="false"/>
+      <assignment contextid="G9" backup="true" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" shiftstate="1" original="false"/>
+      <assignment contextid="G9" backup="false" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" shiftstate="2" original="false"/>
+      <assignment contextid="G9" backup="false" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" shiftstate="3" original="false"/>
+      <assignment contextid="G25" backup="true" macroguid="{6FDA729B-2DD1-4505-9693-A8D2CC88A956}" shiftstate="1" original="false"/>
+      <assignment contextid="G25" backup="false" macroguid="{93F34A3F-7081-4D53-A99D-E858D4D86800}" shiftstate="1" original="false"/>
+      <assignment contextid="G26" backup="true" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" shiftstate="1" original="false"/>
+      <assignment contextid="G26" backup="false" macroguid="{93F34A3F-7081-4D53-A99D-E858D4D86800}" shiftstate="1" original="false"/>
+      <assignment contextid="G27" backup="true" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" shiftstate="1" original="false"/>
+      <assignment contextid="G27" backup="false" macroguid="{93F34A3F-7081-4D53-A99D-E858D4D86800}" shiftstate="1" original="false"/>
+      <assignment contextid="G28" backup="true" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" shiftstate="1" original="false"/>
+      <assignment contextid="G28" backup="false" macroguid="{93F34A3F-7081-4D53-A99D-E858D4D86800}" shiftstate="1" original="false"/>
+      <assignment contextid="G29" backup="true" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" shiftstate="1" original="false"/>
+      <assignment contextid="G29" backup="false" macroguid="{93F34A3F-7081-4D53-A99D-E858D4D86800}" shiftstate="1" original="false"/>
+      <assignment contextid="G4" backup="true" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" shiftstate="1" original="false"/>
+      <assignment contextid="G4" backup="false" macroguid="{012C64E4-210B-4199-97BC-F051CE3488E6}" shiftstate="1" original="false"/>
+      <assignment contextid="G11" backup="true" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" shiftstate="1" original="false"/>
+      <assignment contextid="G12" backup="true" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" shiftstate="1" original="false"/>
+      <assignment contextid="G10" backup="true" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" shiftstate="1" original="false"/>
+      <assignment contextid="G2" backup="true" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" shiftstate="2" original="false"/>
+      <assignment contextid="G2" backup="true" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" shiftstate="3" original="false"/>
+      <assignment contextid="G1" backup="true" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" shiftstate="2" original="false"/>
+      <assignment contextid="G1" backup="true" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" shiftstate="3" original="false"/>
+      <assignment contextid="G1" backup="false" macroguid="{35C087A1-46DA-4B8C-9608-B5D336B53AC5}" shiftstate="1" original="false"/>
+      <assignment contextid="G8" backup="false" macroguid="{E4E06A56-C11D-44EB-B2BC-33009A4D20FD}" shiftstate="1" original="false"/>
+      <assignment contextid="G11" backup="true" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" shiftstate="2" original="false"/>
+      <assignment contextid="G11" backup="false" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" shiftstate="2" original="false"/>
+      <assignment contextid="G4" backup="false" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" shiftstate="2" original="false"/>
+      <assignment contextid="G12" backup="true" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" shiftstate="2" original="false"/>
+      <assignment contextid="G12" backup="false" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" shiftstate="2" original="false"/>
+      <assignment contextid="G10" backup="false" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" shiftstate="2" original="false"/>
+      <assignment contextid="G7" backup="true" macroguid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" shiftstate="1" original="false"/>
+      <assignment contextid="G7" backup="true" macroguid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" shiftstate="2" original="false"/>
+      <assignment contextid="G7" backup="true" macroguid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" shiftstate="3" original="false"/>
+      <assignment contextid="G14" backup="true" macroguid="{C76A7B08-F7A1-4CB1-A05B-F376B76FEB3C}" shiftstate="1" original="false"/>
+      <assignment contextid="G14" backup="false" macroguid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" shiftstate="1" original="false"/>
+      <assignment contextid="G7" backup="false" macroguid="{C1CC5892-9C52-433E-8622-0B6E144FE7F7}" shiftstate="1" original="false"/>
+      <assignment contextid="G6" backup="true" macroguid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" shiftstate="1" original="false"/>
+      <assignment contextid="G6" backup="true" macroguid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" shiftstate="2" original="false"/>
+      <assignment contextid="G6" backup="true" macroguid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" shiftstate="3" original="false"/>
+      <assignment contextid="G13" backup="true" macroguid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" shiftstate="1" original="false"/>
+      <assignment contextid="G13" backup="true" macroguid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" shiftstate="2" original="false"/>
+      <assignment contextid="G13" backup="true" macroguid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" shiftstate="3" original="false"/>
+      <assignment contextid="G16" backup="true" macroguid="{474C3E34-3395-4059-93C8-3D4076673135}" shiftstate="1" original="false"/>
+      <assignment contextid="G16" backup="true" macroguid="{474C3E34-3395-4059-93C8-3D4076673135}" shiftstate="2" original="false"/>
+      <assignment contextid="G16" backup="true" macroguid="{474C3E34-3395-4059-93C8-3D4076673135}" shiftstate="3" original="false"/>
+      <assignment contextid="G3" backup="true" macroguid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" shiftstate="2" original="false"/>
+      <assignment contextid="G3" backup="true" macroguid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" shiftstate="3" original="false"/>
+      <assignment contextid="G20" backup="true" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" shiftstate="2" original="false"/>
+      <assignment contextid="G20" backup="true" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" shiftstate="3" original="false"/>
+      <assignment contextid="G6" backup="false" macroguid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" shiftstate="1" original="false"/>
+      <assignment contextid="G24" backup="false" macroguid="{96591C49-3F10-4E51-A9AB-A6BE4C78DBBB}" shiftstate="1" original="false"/>
+      <assignment contextid="G5" backup="false" macroguid="{474C3E34-3395-4059-93C8-3D4076673135}" shiftstate="1" original="false"/>
+      <assignment contextid="G3" backup="false" macroguid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" shiftstate="1" original="false"/>
+      <assignment contextid="G10" backup="false" macroguid="{777A78D4-81EE-4E5D-86D3-7688BA5ED614}" shiftstate="1" original="false"/>
+      <assignment contextid="G12" backup="false" macroguid="{16DD588E-B2CC-45C8-B45D-1308EC24AF97}" shiftstate="1" original="false"/>
+      <assignment contextid="G13" backup="false" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" shiftstate="1" original="false"/>
+      <assignment contextid="G9" backup="false" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" shiftstate="1" original="false"/>
+      <assignment contextid="G22" backup="true" macroguid="{012C64E4-210B-4199-97BC-F051CE3488E6}" shiftstate="2" original="false"/>
+      <assignment contextid="G22" backup="true" macroguid="{012C64E4-210B-4199-97BC-F051CE3488E6}" shiftstate="3" original="false"/>
+      <assignment contextid="G23" backup="false" macroguid="{AB1BA073-A171-4533-B271-E8CB6A9B2958}" shiftstate="1" original="false"/>
+      <assignment contextid="G8" backup="true" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" shiftstate="2" original="false"/>
+      <assignment contextid="G8" backup="true" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" shiftstate="3" original="false"/>
+      <assignment contextid="G21" backup="false" macroguid="{F913B162-16C9-4D15-BC17-113264856F32}" shiftstate="1" original="false"/>
+      <assignment contextid="G9" backup="true" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" shiftstate="2" original="false"/>
+      <assignment contextid="G9" backup="true" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" shiftstate="3" original="false"/>
+      <assignment contextid="G22" backup="false" macroguid="{42D429F6-6D7F-4717-B621-04065D9B0919}" shiftstate="1" original="false"/>
+      <assignment contextid="G2" backup="false" macroguid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" shiftstate="1" original="false"/>
+      <assignment contextid="G20" backup="false" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" shiftstate="1" original="false"/>
+      <assignment contextid="G11" backup="false" macroguid="{259C3FB7-1FBD-4CA2-AD1C-7FF27FBBD312}" shiftstate="1" original="false"/>
+      <assignment contextid="G19" backup="false" macroguid="{50B598E4-AF82-4B90-A6C2-5627BBC8019E}" shiftstate="1" original="false"/>
+      <assignment contextid="G18" backup="false" macroguid="{B597B764-66F5-47CB-95CC-D86F783E6D43}" shiftstate="1" original="false"/>
+      <assignment contextid="G17" backup="false" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" shiftstate="1" original="false"/>
+      <assignment contextid="G16" backup="false" macroguid="{BE83E5A6-BB52-492F-A8E0-2459CD278CAD}" shiftstate="1" original="false"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse">
+      <assignment contextid="Button1" backup="false" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" shiftstate="1" original="true"/>
+      <assignment contextid="Button2" backup="false" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" shiftstate="1" original="true"/>
+      <assignment contextid="Button3" backup="false" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" shiftstate="1" original="true"/>
+      <assignment contextid="Button4" backup="false" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" shiftstate="1" original="true"/>
+      <assignment contextid="Button5" backup="false" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" shiftstate="1" original="true"/>
+      <assignment contextid="Button6" backup="false" macroguid="{89F0C712-9AF7-4099-9C53-1868BF5B9A4E}" shiftstate="1" original="true"/>
+      <assignment contextid="Button7" backup="false" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" shiftstate="1" original="true"/>
+      <assignment contextid="Button8" backup="false" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" shiftstate="1" original="true"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G300">
+      <assignment contextid="Button1" backup="false" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" shiftstate="1" original="true"/>
+      <assignment contextid="Button2" backup="false" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" shiftstate="1" original="true"/>
+      <assignment contextid="Button3" backup="false" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" shiftstate="1" original="true"/>
+      <assignment contextid="Button4" backup="false" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" shiftstate="1" original="true"/>
+      <assignment contextid="Button5" backup="false" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" shiftstate="1" original="true"/>
+      <assignment contextid="Button6" backup="false" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" shiftstate="1" original="false"/>
+      <assignment contextid="Button7" backup="false" macroguid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}" shiftstate="1" original="true"/>
+      <assignment contextid="Button8" backup="false" macroguid="{53E81537-5916-4AB3-B052-ABF88B5DD218}" shiftstate="1" original="true"/>
+      <assignment contextid="Button9" backup="false" macroguid="{28F1F32A-678A-4CD8-A0F4-41283A737EFC}" shiftstate="1" original="true"/>
+      <assignment contextid="Button1" backup="false" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" shiftstate="2" original="true"/>
+      <assignment contextid="Button2" backup="false" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" shiftstate="2" original="true"/>
+      <assignment contextid="Button3" backup="false" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" shiftstate="2" original="true"/>
+      <assignment contextid="Button4" backup="false" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" shiftstate="2" original="true"/>
+      <assignment contextid="Button5" backup="false" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" shiftstate="2" original="true"/>
+      <assignment contextid="Button6" backup="false" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" shiftstate="2" original="true"/>
+      <assignment contextid="Button7" backup="false" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" shiftstate="2" original="true"/>
+      <assignment contextid="Button8" backup="false" macroguid="{53E81537-5916-4AB3-B052-ABF88B5DD218}" shiftstate="2" original="true"/>
+      <assignment contextid="Button9" backup="false" macroguid="{A1FEC5BC-9A8A-49C5-B085-0E2EDCEF1F55}" shiftstate="2" original="true"/>
+      <assignment contextid="Button1" backup="false" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" shiftstate="3" original="true"/>
+      <assignment contextid="Button2" backup="false" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" shiftstate="3" original="true"/>
+      <assignment contextid="Button3" backup="false" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" shiftstate="3" original="true"/>
+      <assignment contextid="Button4" backup="false" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" shiftstate="3" original="true"/>
+      <assignment contextid="Button5" backup="false" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" shiftstate="3" original="true"/>
+      <assignment contextid="Button6" backup="false" macroguid="{F7899D9E-8B25-45CB-B4BC-AAF99E4C87D4}" shiftstate="3" original="true"/>
+      <assignment contextid="Button7" backup="false" macroguid="{5638A489-F156-4122-A7DB-E0F880FACC0E}" shiftstate="3" original="true"/>
+      <assignment contextid="Button8" backup="false" macroguid="{53E81537-5916-4AB3-B052-ABF88B5DD218}" shiftstate="3" original="true"/>
+      <assignment contextid="Button9" backup="false" macroguid="{2F5C8F56-C184-4143-8852-2EB924626DCC}" shiftstate="3" original="true"/>
+      <assignment contextid="Button6" backup="true" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" shiftstate="1" original="false"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Speakers">
+      <assignment contextid="G1" backup="false" macroguid="{0EF4BD7D-3402-4433-B6B0-5D301509417D}" shiftstate="1" original="true"/>
+    </assignments>
+    <pointers>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G600">
+        <mode shiftstate="1">
+          <reportrate rate="500"/>
+          <powermode value="2"/>
+          <dpitable shiftindex="0" syncxy="1" defaultindex="0">
+            <dpi y="1200" enabled="1" x="1200"/>
+            <dpi y="2000" enabled="0" x="2000"/>
+            <dpi y="3200" enabled="0" x="3200"/>
+            <dpi y="5000" enabled="0" x="5000"/>
+            <dpi y="8200" enabled="0" x="8200"/>
+          </dpitable>
+          <movement speed="-1" acceleration="1"/>
+        </mode>
+        <mode shiftstate="2">
+          <reportrate rate="500"/>
+          <powermode value="2"/>
+          <dpitable shiftindex="0" syncxy="1" defaultindex="0">
+            <dpi y="1200" enabled="1" x="1200"/>
+            <dpi y="2000" enabled="0" x="2000"/>
+            <dpi y="3200" enabled="0" x="3200"/>
+            <dpi y="5000" enabled="0" x="5000"/>
+            <dpi y="8200" enabled="0" x="8200"/>
+          </dpitable>
+          <movement speed="-1" acceleration="1"/>
+        </mode>
+        <mode shiftstate="3">
+          <reportrate rate="500"/>
+          <powermode value="2"/>
+          <dpitable shiftindex="0" syncxy="1" defaultindex="1">
+            <dpi y="400" enabled="1" x="400"/>
+            <dpi y="1200" enabled="1" x="1200"/>
+            <dpi y="2000" enabled="1" x="2000"/>
+            <dpi y="3200" enabled="1" x="3200"/>
+            <dpi y="8200" enabled="0" x="8200"/>
+          </dpitable>
+          <movement speed="-1" acceleration="1"/>
+        </mode>
+      </pointer>
+    </pointers>
+    <backlight devicemodel="Logitech.Gaming.Mouse.G300">
+      <mode color="#ff0000" shiftstate="1"/>
+      <mode color="#00ff00" shiftstate="2"/>
+      <mode color="#0000ff" shiftstate="3"/>
+    </backlight>
+    <backlight devicemodel="Logitech.Gaming.LeftHandedController.G13">
+      <mode color="#ffffff" shiftstate="1"/>
+      <mode color="#ffffff" shiftstate="2"/>
+      <mode color="#ffffff" shiftstate="3"/>
+    </backlight>
+    <script>---------------------------------------------------------------------------------------------
+-- LGS_script_template.lua
+---------------------------------------------------------------------------------------------
+-- Version: 2019-04-19
+-- Author: Egor Skriptunoff
+--
+--
+-- This is a template for "Logitech Gaming Software" script file.
+-- Four useful features are implemented here:
+--
+--
+-- ------------------------------------------------------------------------------------------
+--       FEATURE #1 - random numbers of very high quality
+-- ------------------------------------------------------------------------------------------
+--    random()               -- float    0 &lt;= x &lt; 1
+--    random(n)              -- integer  1 &lt;= x &lt;= n
+--    random(m, n)           -- integer  m &lt;= x &lt;= n
+-- ------------------------------------------------------------------------------------------
+-- This new function is a drop-in replacement for standard Lua function "math.random()".
+-- It generates different sequences of random numbers on every profile load, you don't need to set seed (forget about "math.randomseed").
+-- The random number generator adsorbs entropy from every event processed by OnEvent().
+-- It takes into account everything: event type, button index, mouse position on the screen, current date and running time.
+-- This entropy is converted by SHAKE128 (SHA3 hash function) into stream of pseudo-random bits.
+-- That's why function "random()" returns random numbers having excellent statistical properties.
+-- Actually, after user clicked mouse buttons 100-200 times (no hurry please),
+-- these pseudo-random numbers might be considered cryptographically strong.
+--
+-- ------------------------------------------------------------------------------------------
+--    GetEntropyCounter()
+-- ------------------------------------------------------------------------------------------
+-- This function returns estimation of lower bound of number of random bits consumed by random numbers mixer
+-- (wait until it reaches 256 prior to generating crypto keys)
+--
+-- ------------------------------------------------------------------------------------------
+--    SHA3_224(message)
+--    SHA3_256(message)
+--    SHA3_384(message)
+--    SHA3_512(message)
+--    SHAKE128(digest_size_in_bytes, message)
+--    SHAKE256(digest_size_in_bytes, message)
+-- ------------------------------------------------------------------------------------------
+-- SHA3 hash functions are available.
+-- SHA3_224, SHA3_256, SHA3_384, SHA3_512 generate message digest of fixed length
+-- SHAKE128, SHAKE256 generate message digest of potentially infinite length
+-- Example #1:
+--    How to get SHA3-digest of your message:
+--       SHA3_224("The quick brown fox jumps over the lazy dog") == "d15dadceaa4d5d7bb3b48f446421d542e08ad8887305e28d58335795"
+--       SHAKE128(5, "The quick brown fox jumps over the lazy dog") == "f4202e3c58"
+-- Example #2:
+--    How to convert your password into infinite sequence of very high quality random bytes (the same password will give the same sequence):
+--       -- start the sequence, initialize it with your password
+--       local get_hex_byte = SHAKE128(-1, "your password")
+--       while .... do
+--          -- get next number from the inifinite sequence
+--          local next_random_byte  = tonumber(get_hex_byte(),  16)   -- integer  0 &lt;= n &lt;= 255
+--          local next_random_dword = tonumber(get_hex_byte(4), 16)   -- integer  0 &lt;= n &lt;= 4294967295
+--          -- how to construct floating point number  0 &lt;= x &lt; 1
+--          local next_random_float = (tonumber(get_hex_byte(3), 16) % 2^21 * 2^32 + tonumber(get_hex_byte(4), 16)) / 2^53
+--          ....
+--       end
+--
+--
+--
+-- ------------------------------------------------------------------------------------------
+--       FEATURE #2 - you can see the output of print() in the LGS script editor
+-- ------------------------------------------------------------------------------------------
+--    print(...)
+-- ------------------------------------------------------------------------------------------
+-- Now this function displays messages in the bottom window of the script editor.
+-- You can use "print()" just like in standard Lua!
+-- When using "print()" instead of "OutputLogMessage()", don't append "\n" to a message.
+--
+--
+--
+-- ------------------------------------------------------------------------------------------
+--       FEATURE #3 - handy names for mouse buttons
+-- ------------------------------------------------------------------------------------------
+--    "L", "R", "M" are now names for the first three mouse buttons
+-- ------------------------------------------------------------------------------------------
+-- There is an unpleasant feature in LGS: Logitech and Microsoft enumerate mouse buttons differently.
+-- In OnEvent("MOUSE_BUTTON_PRESSED", arg, "mouse") parameter 'arg' uses Logitech order:
+--    1=Left, 2=Right, 3=Middle, 4=Backward(X1), 5=Forward(X2), 6,7,8,...
+-- In PressMouseButton(button) parameter 'button' uses Microsoft order:
+--    1=Left, 2=Middle, 3=Right, 4=X1(Backward), 5=X2(Forward)
+-- As you see, Right and Middle buttons are swapped; this is very confusing.
+-- To make your code more clear and less error-prone, try to avoid using numbers 1, 2 and 3.
+-- Instead, use strings "L", "R", "M" for the first three mouse buttons.
+-- Two modifications have been made:
+-- 1) The following functions now accept strings "L", "R", "M" as its argument:
+--       PressMouseButton(),
+--       ReleaseMouseButton(),
+--       PressAndReleaseMouseButton(),
+--       IsMouseButtonPressed()
+-- 2) 'mouse_button' variable was defined inside OnEvent() function body, it contains:
+--       either string "L", "R", "M" (for the first three mouse buttons)
+--       or number 4, 5, 6, 7, 8,... (for other mouse buttons).
+-- These modifications don't break compatibility with your old habits.
+-- You can still use numbers if you want:
+--    if event == "MOUSE_BUTTON_PRESSED" and arg == 2 then  -- RMB event
+--    PressAndReleaseMouseButton(3)                         -- simulate pressing RMB
+-- But using strings improves readability:
+--    if event == "MOUSE_BUTTON_PRESSED" and mouse_button == "R" then
+--    PressAndReleaseMouseButton("R")
+--
+--
+--
+-- ------------------------------------------------------------------------------------------
+--       FEATURE #4 - Pixel-oriented functions for mouse
+-- ------------------------------------------------------------------------------------------
+--    GetMousePositionInPixels()
+--    SetMousePositionInPixels(x,y)
+-- ------------------------------------------------------------------------------------------
+-- You can now get and set mouse cursor position IN PIXELS.
+-- GetMousePositionInPixels() returns 6 values (probably you would need only the first two):
+--    x_in_pixels,              -- integer from 0 to (screen_width-1)
+--    y_in_pixels,              -- integer from 0 to (screen_height-1)
+--    screen_width_in_pixels,   -- for example, 1920
+--    screen_height_in_pixels,  -- for example, 1080
+--    x_64K,                    -- normalized x coordinate 0..65535, this is the first  value returned by "GetMousePosition()"
+--    y_64K                     -- normalized y coordinate 0..65535, this is the second value returned by "GetMousePosition()"
+-- As you know, standard LGS function MoveMouseRelative() is limited to narrow distance range from -127 to +127 pixels.
+-- Now you can move mouse cursor more than 127 pixels away from its current position:
+--    local current_x, current_y = GetMousePositionInPixels()
+--    SetMousePositionInPixels(current_x + 300, current_y + 200)
+-- This method of relative moving works fine even when "Acceleration" flag is set in "Pointer settings" (the third icon from the left, at the bottom of the page).
+-- As you probably know, MoveMouseRelative() works incorrectly when this flag is set: the real distance not equals to the number of pixels requested.
+--
+-- Don't forget that you must wait a bit (for example, Sleep(5)) after simulating mouse move, button press or button release.
+--
+--
+--
+-- Important note:
+--    This script requires one second for initialization.
+--    In other words, when this LGS profile is started, you will have to wait for 1 second before playing.
+-- Explanation:
+--    Every time this profile is activated (and every time when your game changes the screen resolution)
+--    the process of automatic determination of screen resolution is started.
+--    This process takes about one second.
+--    During this process, mouse cursor will be programmatically moved some distance away from its current location.
+--    This cursor movement might be a hindrance to use your mouse, so just wait until the cursor stops moving.
+
+
+local
+   print_orig, type, floor,      min,      max,      sqrt,      format,        byte,        char,        rep,        sub,        gsub,        concat,       select, tostring =
+   print,      type, math.floor, math.min, math.max, math.sqrt, string.format, string.byte, string.char, string.rep, string.sub, string.gsub, table.concat, select, tostring
+local
+   MoveMouseRelative, MoveMouseTo, GetMousePosition, Sleep_orig, GetRunningTime, OutputLogMessage =
+   MoveMouseRelative, MoveMouseTo, GetMousePosition, Sleep,      GetRunningTime, OutputLogMessage
+
+
+local function print(...)
+   print_orig(...)
+   local t = {...}
+   for j = 1, select("#", ...) do
+      t[j] = tostring(t[j])
+   end
+   OutputLogMessage("%s\n", concat(t, "\t"))
+end
+
+
+local GetMousePositionInPixels
+do
+   local xy_data, xy_64K, xy_pixels, enabled = {{}, {}}, {}, {}, true
+
+   function GetMousePositionInPixels()
+      -- The function returns mouse_x_pixels, mouse_y_pixels, screen_width, screen_height, x_64K, y_64K
+      -- 0 &lt;= mouse_x_pixels &lt; screen_width
+      -- 0 &lt;= mouse_y_pixels &lt; screen_height
+      -- both width and height of your screen must be between 150 and 10240 pixels
+      xy_64K[1], xy_64K[2] = GetMousePosition()
+      if enabled then
+         local jump
+         local attempts_qty = 3   -- number of failed attempts to determine screen resolution prior to disabling this functionality
+         for attempt = 1, attempts_qty + 1 do
+            for i = 1, 2 do
+               local result
+               local size = xy_data[i][4]
+               if size then
+                  local coord_64K = xy_64K[i]
+                  -- How to convert between pos_64K_x (0...65535) and pixel_x (0...(screen_width-1))
+                  --    pos_64K_x = floor(pixel_x * (2^16-1) / (screen_width-1) + 0.5)
+                  --    pixel_x   = floor((pos_64K_x + (0.5 + 2^-16)) * (screen_width-1) / (2^16-1))
+                  local pixels = floor((coord_64K + (0.5 + 2^-16)) * (size - 1) / 65535)
+                  if 65535 * pixels >= (coord_64K - (0.5 + 2^-16)) * (size - 1) then
+                     result = pixels
+                  end
+               end
+               xy_pixels[i] = result
+            end
+            if xy_pixels[1] and xy_pixels[2] then
+               return xy_pixels[1], xy_pixels[2], xy_data[1][4], xy_data[2][4], xy_64K[1], xy_64K[2]
+            elseif attempt &lt;= attempts_qty then
+               --print("Attempt #"..attempt)
+               if jump then
+                  MoveMouseTo(3*2^14 - xy_64K[1]/2, 3*2^14 - xy_64K[2]/2)
+                  Sleep_orig(10)
+                  xy_64K[1], xy_64K[2] = GetMousePosition()
+               end
+               jump = true
+               for _, data in ipairs(xy_data) do
+                  data[1] = {[0] = true}                 -- [1] = dict with used coord_64K values
+                  data[2] = 0                            -- [2] = used coord_64K values qty
+                  data[3] = 45 * 225                     -- [3] = counter of possible sizes
+                  data[4] = nil                          -- [4] = minimal possible size
+                  data[5] = 6                            -- [5] = only pointer to next number (in 8 lowest bits)
+                  for j = 6, 229 do                      -- [6]..[230] = 53-bit numbers
+                     data[j] = (2^45 - 1) * 256 + 1 + j  --    8 lowest bits   = index of the next number (last number points to idx=0)
+                  end                                    --    45 highest bits = flags (1 = size is possible, 0 = size is impossible)
+                  data[230] = (2^45 - 1) * 256
+               end
+               local dx = xy_64K[1] &lt; 2^15 and 1 or -1
+               local dy = xy_64K[2] &lt; 2^15 and 1 or -1
+               local prev_coords_processed_1, prev_coords_processed_2, prev_variants_qty, trust
+               for frame = 1, 90 * attempt do
+                  for i = 1, 2 do
+                     local data, coord_64K = xy_data[i], xy_64K[i]
+                     local data_1 = data[1]
+                     if not data_1[coord_64K] then
+                        data_1[coord_64K] = true
+                        data[2] = data[2] + 1
+                        local min_size
+                        local prev_idx = 5
+                        local idx = data[prev_idx]
+                        while idx > 0 do
+                           local N = data[idx]
+                           local mask = 2^53
+                           local size_from = idx * 45 + (150 - 6 * 45)
+                           for size = size_from, size_from + 44 do
+                              mask = mask / 2
+                              if N >= mask then
+                                 N = N - mask
+                                 if 65535 * floor((coord_64K + (0.5 + 2^-16)) * (size - 1) / 65535) &lt; (coord_64K - (0.5 + 2^-16)) * (size - 1) then
+                                    data[idx] = data[idx] - mask
+                                    data[3] = data[3] - 1
+                                 else
+                                    min_size = min_size or size
+                                 end
+                              end
+                           end
+                           if data[idx] &lt; mask then
+                              data[prev_idx] = data[prev_idx] + (N - idx)
+                           else
+                              prev_idx = idx
+                           end
+                           idx = N
+                        end
+                        data[4] = min_size
+                     end
+                  end
+                  local variants_qty = xy_data[1][3] + xy_data[2][3]
+                  local coords_processed_1 = xy_data[1][2]
+                  local coords_processed_2 = xy_data[2][2]
+                  if variants_qty ~= prev_variants_qty then
+                     prev_variants_qty = variants_qty
+                     prev_coords_processed_1 = coords_processed_1
+                     prev_coords_processed_2 = coords_processed_2
+                  end
+                  if min(coords_processed_1 - prev_coords_processed_1, coords_processed_2 - prev_coords_processed_2) >= 20 then
+                     --print("Determined at frame "..frame..", resolution: "..xy_data[1][4].." x "..xy_data[2][4])
+                     trust = true
+                     break
+                  end
+                  local num = sqrt(frame + 0.1) % 1 &lt; 0.5 and 2^13 or 0
+                  MoveMouseRelative(
+                     dx * max(1, floor(num / ((xy_64K[1] - 2^15) * dx + (2^15 + 2^13/8)))),
+                     dy * max(1, floor(num / ((xy_64K[2] - 2^15) * dy + (2^15 + 2^13/8))))
+                  )
+                  Sleep_orig(10)
+                  xy_64K[1], xy_64K[2] = GetMousePosition()
+               end
+               if not trust then
+                  xy_data[1][4], xy_data[2][4] = nil
+               end
+            end
+         end
+         enabled = false
+         print'Function "GetMousePositionInPixels()" failed to determine screen resolution and has been disabled'
+      end
+      return 0, 0, 0, 0, xy_64K[1], xy_64K[2]  -- functionality is disabled, so no pixel-related information is returned
+   end
+
+end
+
+local function SetMousePositionInPixels(x, y)
+   local _, _, width, height = GetMousePositionInPixels()
+   if width > 0 then
+      MoveMouseTo(
+         floor(max(0, min(width  - 1, x)) * (2^16-1) / (width  - 1) + 0.5),
+         floor(max(0, min(height - 1, y)) * (2^16-1) / (height - 1) + 0.5)
+      )
+   end
+end
+
+local update_internal_state, random, perform_calculations
+local SHA3_224, SHA3_256, SHA3_384, SHA3_512, SHAKE128, SHAKE256
+local GetEntropyCounter
+do
+
+   local function create_array_of_lanes()
+      local arr = {}
+      for j = 1, 50 do
+         arr[j] = 0
+      end
+      return arr
+   end
+
+   local keccak_feed, XOR53
+   do
+      local RC_lo, RC_hi, AND, XOR = {}, {}
+      do
+         local AND_of_two_bytes, m, sh_reg = {[0] = 0}, 0, 29
+         for y = 0, 127 * 256, 256 do
+            for x = y, y + 127 do
+               x = AND_of_two_bytes[x] * 2
+               AND_of_two_bytes[m] = x
+               AND_of_two_bytes[m + 1] = x
+               AND_of_two_bytes[m + 256] = x
+               AND_of_two_bytes[m + 257] = x + 1
+               m = m + 2
+            end
+            m = m + 256
+         end
+
+         function AND(x, y, xor)
+            local x0 = x % 2^32
+            local y0 = y % 2^32
+            local rx = x0 % 256
+            local ry = y0 % 256
+            local res = AND_of_two_bytes[rx + ry * 256]
+            x = x0 - rx
+            y = (y0 - ry) / 256
+            rx = x % 65536
+            ry = y % 256
+            res = res + AND_of_two_bytes[rx + ry] * 256
+            x = (x - rx) / 256
+            y = (y - ry) / 256
+            rx = x % 65536 + y % 256
+            res = res + AND_of_two_bytes[rx] * 65536
+            res = res + AND_of_two_bytes[(x + y - rx) / 256] * 16777216
+            if xor then
+               return x0 + y0 - 2 * res
+            else
+               return res
+            end
+         end
+
+         function XOR(x, y, z, t, u)
+            if z then
+               if t then
+                  if u then
+                     t = AND(t, u, true)
+                  end
+                  z = AND(z, t, true)
+               end
+               y = AND(y, z, true)
+            end
+            return AND(x, y, true)
+         end
+
+         local function split53(x)
+            local lo = x % 2^32
+            return lo, (x - lo) / 2^32
+         end
+
+         function XOR53(x, y)
+            local x_lo, x_hi = split53(x)
+            local y_lo, y_hi = split53(y)
+            return XOR(x_hi, y_hi) * 2^32 + XOR(x_lo, y_lo)
+         end
+
+         local function next_bit()
+            local r = sh_reg % 2
+            sh_reg = XOR((sh_reg - r) / 2, 142 * r)
+            return r * m
+         end
+
+         for idx = 1, 24 do
+            local lo = 0
+            for j = 0, 5 do
+               m = 2^(2^j - 1)
+               lo = lo + next_bit()
+            end
+            RC_lo[idx], RC_hi[idx] = lo, next_bit()
+         end
+      end
+
+      function keccak_feed(lanes, str, offs, size, block_size_in_bytes)
+         for pos = offs, offs + size - 1, block_size_in_bytes do
+            for j = 1, block_size_in_bytes / 4 do
+               pos = pos + 4
+               local a, b, c, d = byte(str, pos - 3, pos)
+               lanes[j] = XOR(lanes[j], ((d * 256 + c) * 256 + b) * 256 + a)
+            end
+            local
+               L01_lo, L01_hi, L02_lo, L02_hi, L03_lo, L03_hi, L04_lo, L04_hi, L05_lo, L05_hi, L06_lo, L06_hi, L07_lo, L07_hi, L08_lo, L08_hi,
+               L09_lo, L09_hi, L10_lo, L10_hi, L11_lo, L11_hi, L12_lo, L12_hi, L13_lo, L13_hi, L14_lo, L14_hi, L15_lo, L15_hi, L16_lo, L16_hi,
+               L17_lo, L17_hi, L18_lo, L18_hi, L19_lo, L19_hi, L20_lo, L20_hi, L21_lo, L21_hi, L22_lo, L22_hi, L23_lo, L23_hi, L24_lo, L24_hi, L25_lo, L25_hi =
+               lanes[01], lanes[02], lanes[03], lanes[04], lanes[05], lanes[06], lanes[07], lanes[08], lanes[09], lanes[10], lanes[11],
+               lanes[12], lanes[13], lanes[14], lanes[15], lanes[16], lanes[17], lanes[18], lanes[19], lanes[20], lanes[21], lanes[22], lanes[23], lanes[24],
+               lanes[25], lanes[26], lanes[27], lanes[28], lanes[29], lanes[30], lanes[31], lanes[32], lanes[33], lanes[34], lanes[35], lanes[36], lanes[37],
+               lanes[38], lanes[39], lanes[40], lanes[41], lanes[42], lanes[43], lanes[44], lanes[45], lanes[46], lanes[47], lanes[48], lanes[49], lanes[50]
+            for round_idx = 1, 24 do
+               local C1_lo = XOR(L01_lo, L06_lo, L11_lo, L16_lo, L21_lo)
+               local C1_hi = XOR(L01_hi, L06_hi, L11_hi, L16_hi, L21_hi)
+               local C2_lo = XOR(L02_lo, L07_lo, L12_lo, L17_lo, L22_lo)
+               local C2_hi = XOR(L02_hi, L07_hi, L12_hi, L17_hi, L22_hi)
+               local C3_lo = XOR(L03_lo, L08_lo, L13_lo, L18_lo, L23_lo)
+               local C3_hi = XOR(L03_hi, L08_hi, L13_hi, L18_hi, L23_hi)
+               local C4_lo = XOR(L04_lo, L09_lo, L14_lo, L19_lo, L24_lo)
+               local C4_hi = XOR(L04_hi, L09_hi, L14_hi, L19_hi, L24_hi)
+               local C5_lo = XOR(L05_lo, L10_lo, L15_lo, L20_lo, L25_lo)
+               local C5_hi = XOR(L05_hi, L10_hi, L15_hi, L20_hi, L25_hi)
+               local D_lo = XOR(C1_lo, C3_lo * 2 + (C3_hi - C3_hi % 2^31) / 2^31)
+               local D_hi = XOR(C1_hi, C3_hi * 2 + (C3_lo - C3_lo % 2^31) / 2^31)
+               local T0_lo = XOR(D_lo, L02_lo)
+               local T0_hi = XOR(D_hi, L02_hi)
+               local T1_lo = XOR(D_lo, L07_lo)
+               local T1_hi = XOR(D_hi, L07_hi)
+               local T2_lo = XOR(D_lo, L12_lo)
+               local T2_hi = XOR(D_hi, L12_hi)
+               local T3_lo = XOR(D_lo, L17_lo)
+               local T3_hi = XOR(D_hi, L17_hi)
+               local T4_lo = XOR(D_lo, L22_lo)
+               local T4_hi = XOR(D_hi, L22_hi)
+               L02_lo = (T1_lo - T1_lo % 2^20) / 2^20 + T1_hi * 2^12
+               L02_hi = (T1_hi - T1_hi % 2^20) / 2^20 + T1_lo * 2^12
+               L07_lo = (T3_lo - T3_lo % 2^19) / 2^19 + T3_hi * 2^13
+               L07_hi = (T3_hi - T3_hi % 2^19) / 2^19 + T3_lo * 2^13
+               L12_lo = T0_lo * 2 + (T0_hi - T0_hi % 2^31) / 2^31
+               L12_hi = T0_hi * 2 + (T0_lo - T0_lo % 2^31) / 2^31
+               L17_lo = T2_lo * 2^10 + (T2_hi - T2_hi % 2^22) / 2^22
+               L17_hi = T2_hi * 2^10 + (T2_lo - T2_lo % 2^22) / 2^22
+               L22_lo = T4_lo * 2^2 + (T4_hi - T4_hi % 2^30) / 2^30
+               L22_hi = T4_hi * 2^2 + (T4_lo - T4_lo % 2^30) / 2^30
+               D_lo = XOR(C2_lo, C4_lo * 2 + (C4_hi - C4_hi % 2^31) / 2^31)
+               D_hi = XOR(C2_hi, C4_hi * 2 + (C4_lo - C4_lo % 2^31) / 2^31)
+               T0_lo = XOR(D_lo, L03_lo)
+               T0_hi = XOR(D_hi, L03_hi)
+               T1_lo = XOR(D_lo, L08_lo)
+               T1_hi = XOR(D_hi, L08_hi)
+               T2_lo = XOR(D_lo, L13_lo)
+               T2_hi = XOR(D_hi, L13_hi)
+               T3_lo = XOR(D_lo, L18_lo)
+               T3_hi = XOR(D_hi, L18_hi)
+               T4_lo = XOR(D_lo, L23_lo)
+               T4_hi = XOR(D_hi, L23_hi)
+               L03_lo = (T2_lo - T2_lo % 2^21) / 2^21 + T2_hi * 2^11
+               L03_hi = (T2_hi - T2_hi % 2^21) / 2^21 + T2_lo * 2^11
+               L08_lo = (T4_lo - T4_lo % 2^3) / 2^3 + T4_hi * 2^29 % 2^32
+               L08_hi = (T4_hi - T4_hi % 2^3) / 2^3 + T4_lo * 2^29 % 2^32
+               L13_lo = T1_lo * 2^6 + (T1_hi - T1_hi % 2^26) / 2^26
+               L13_hi = T1_hi * 2^6 + (T1_lo - T1_lo % 2^26) / 2^26
+               L18_lo = T3_lo * 2^15 + (T3_hi - T3_hi % 2^17) / 2^17
+               L18_hi = T3_hi * 2^15 + (T3_lo - T3_lo % 2^17) / 2^17
+               L23_lo = (T0_lo - T0_lo % 2^2) / 2^2 + T0_hi * 2^30 % 2^32
+               L23_hi = (T0_hi - T0_hi % 2^2) / 2^2 + T0_lo * 2^30 % 2^32
+               D_lo = XOR(C3_lo, C5_lo * 2 + (C5_hi - C5_hi % 2^31) / 2^31)
+               D_hi = XOR(C3_hi, C5_hi * 2 + (C5_lo - C5_lo % 2^31) / 2^31)
+               T0_lo = XOR(D_lo, L04_lo)
+               T0_hi = XOR(D_hi, L04_hi)
+               T1_lo = XOR(D_lo, L09_lo)
+               T1_hi = XOR(D_hi, L09_hi)
+               T2_lo = XOR(D_lo, L14_lo)
+               T2_hi = XOR(D_hi, L14_hi)
+               T3_lo = XOR(D_lo, L19_lo)
+               T3_hi = XOR(D_hi, L19_hi)
+               T4_lo = XOR(D_lo, L24_lo)
+               T4_hi = XOR(D_hi, L24_hi)
+               L04_lo = T3_lo * 2^21 % 2^32 + (T3_hi - T3_hi % 2^11) / 2^11
+               L04_hi = T3_hi * 2^21 % 2^32 + (T3_lo - T3_lo % 2^11) / 2^11
+               L09_lo = T0_lo * 2^28 % 2^32 + (T0_hi - T0_hi % 2^4) / 2^4
+               L09_hi = T0_hi * 2^28 % 2^32 + (T0_lo - T0_lo % 2^4) / 2^4
+               L14_lo = T2_lo * 2^25 % 2^32 + (T2_hi - T2_hi % 2^7) / 2^7
+               L14_hi = T2_hi * 2^25 % 2^32 + (T2_lo - T2_lo % 2^7) / 2^7
+               L19_lo = (T4_lo - T4_lo % 2^8) / 2^8 + T4_hi * 2^24 % 2^32
+               L19_hi = (T4_hi - T4_hi % 2^8) / 2^8 + T4_lo * 2^24 % 2^32
+               L24_lo = (T1_lo - T1_lo % 2^9) / 2^9 + T1_hi * 2^23 % 2^32
+               L24_hi = (T1_hi - T1_hi % 2^9) / 2^9 + T1_lo * 2^23 % 2^32
+               D_lo = XOR(C4_lo, C1_lo * 2 + (C1_hi - C1_hi % 2^31) / 2^31)
+               D_hi = XOR(C4_hi, C1_hi * 2 + (C1_lo - C1_lo % 2^31) / 2^31)
+               T0_lo = XOR(D_lo, L05_lo)
+               T0_hi = XOR(D_hi, L05_hi)
+               T1_lo = XOR(D_lo, L10_lo)
+               T1_hi = XOR(D_hi, L10_hi)
+               T2_lo = XOR(D_lo, L15_lo)
+               T2_hi = XOR(D_hi, L15_hi)
+               T3_lo = XOR(D_lo, L20_lo)
+               T3_hi = XOR(D_hi, L20_hi)
+               T4_lo = XOR(D_lo, L25_lo)
+               T4_hi = XOR(D_hi, L25_hi)
+               L05_lo = T4_lo * 2^14 + (T4_hi - T4_hi % 2^18) / 2^18
+               L05_hi = T4_hi * 2^14 + (T4_lo - T4_lo % 2^18) / 2^18
+               L10_lo = T1_lo * 2^20 % 2^32 + (T1_hi - T1_hi % 2^12) / 2^12
+               L10_hi = T1_hi * 2^20 % 2^32 + (T1_lo - T1_lo % 2^12) / 2^12
+               L15_lo = T3_lo * 2^8 + (T3_hi - T3_hi % 2^24) / 2^24
+               L15_hi = T3_hi * 2^8 + (T3_lo - T3_lo % 2^24) / 2^24
+               L20_lo = T0_lo * 2^27 % 2^32 + (T0_hi - T0_hi % 2^5) / 2^5
+               L20_hi = T0_hi * 2^27 % 2^32 + (T0_lo - T0_lo % 2^5) / 2^5
+               L25_lo = (T2_lo - T2_lo % 2^25) / 2^25 + T2_hi * 2^7
+               L25_hi = (T2_hi - T2_hi % 2^25) / 2^25 + T2_lo * 2^7
+               D_lo = XOR(C5_lo, C2_lo * 2 + (C2_hi - C2_hi % 2^31) / 2^31)
+               D_hi = XOR(C5_hi, C2_hi * 2 + (C2_lo - C2_lo % 2^31) / 2^31)
+               T1_lo = XOR(D_lo, L06_lo)
+               T1_hi = XOR(D_hi, L06_hi)
+               T2_lo = XOR(D_lo, L11_lo)
+               T2_hi = XOR(D_hi, L11_hi)
+               T3_lo = XOR(D_lo, L16_lo)
+               T3_hi = XOR(D_hi, L16_hi)
+               T4_lo = XOR(D_lo, L21_lo)
+               T4_hi = XOR(D_hi, L21_hi)
+               L06_lo = T2_lo * 2^3 + (T2_hi - T2_hi % 2^29) / 2^29
+               L06_hi = T2_hi * 2^3 + (T2_lo - T2_lo % 2^29) / 2^29
+               L11_lo = T4_lo * 2^18 + (T4_hi - T4_hi % 2^14) / 2^14
+               L11_hi = T4_hi * 2^18 + (T4_lo - T4_lo % 2^14) / 2^14
+               L16_lo = (T1_lo - T1_lo % 2^28) / 2^28 + T1_hi * 2^4
+               L16_hi = (T1_hi - T1_hi % 2^28) / 2^28 + T1_lo * 2^4
+               L21_lo = (T3_lo - T3_lo % 2^23) / 2^23 + T3_hi * 2^9
+               L21_hi = (T3_hi - T3_hi % 2^23) / 2^23 + T3_lo * 2^9
+               L01_lo = XOR(D_lo, L01_lo)
+               L01_hi = XOR(D_hi, L01_hi)
+               L01_lo, L02_lo, L03_lo, L04_lo, L05_lo = XOR(L01_lo, AND(-1-L02_lo, L03_lo)), XOR(L02_lo, AND(-1-L03_lo, L04_lo)), XOR(L03_lo, AND(-1-L04_lo, L05_lo)), XOR(L04_lo, AND(-1-L05_lo, L01_lo)), XOR(L05_lo, AND(-1-L01_lo, L02_lo))
+               L01_hi, L02_hi, L03_hi, L04_hi, L05_hi = XOR(L01_hi, AND(-1-L02_hi, L03_hi)), XOR(L02_hi, AND(-1-L03_hi, L04_hi)), XOR(L03_hi, AND(-1-L04_hi, L05_hi)), XOR(L04_hi, AND(-1-L05_hi, L01_hi)), XOR(L05_hi, AND(-1-L01_hi, L02_hi))
+               L06_lo, L07_lo, L08_lo, L09_lo, L10_lo = XOR(L09_lo, AND(-1-L10_lo, L06_lo)), XOR(L10_lo, AND(-1-L06_lo, L07_lo)), XOR(L06_lo, AND(-1-L07_lo, L08_lo)), XOR(L07_lo, AND(-1-L08_lo, L09_lo)), XOR(L08_lo, AND(-1-L09_lo, L10_lo))
+               L06_hi, L07_hi, L08_hi, L09_hi, L10_hi = XOR(L09_hi, AND(-1-L10_hi, L06_hi)), XOR(L10_hi, AND(-1-L06_hi, L07_hi)), XOR(L06_hi, AND(-1-L07_hi, L08_hi)), XOR(L07_hi, AND(-1-L08_hi, L09_hi)), XOR(L08_hi, AND(-1-L09_hi, L10_hi))
+               L11_lo, L12_lo, L13_lo, L14_lo, L15_lo = XOR(L12_lo, AND(-1-L13_lo, L14_lo)), XOR(L13_lo, AND(-1-L14_lo, L15_lo)), XOR(L14_lo, AND(-1-L15_lo, L11_lo)), XOR(L15_lo, AND(-1-L11_lo, L12_lo)), XOR(L11_lo, AND(-1-L12_lo, L13_lo))
+               L11_hi, L12_hi, L13_hi, L14_hi, L15_hi = XOR(L12_hi, AND(-1-L13_hi, L14_hi)), XOR(L13_hi, AND(-1-L14_hi, L15_hi)), XOR(L14_hi, AND(-1-L15_hi, L11_hi)), XOR(L15_hi, AND(-1-L11_hi, L12_hi)), XOR(L11_hi, AND(-1-L12_hi, L13_hi))
+               L16_lo, L17_lo, L18_lo, L19_lo, L20_lo = XOR(L20_lo, AND(-1-L16_lo, L17_lo)), XOR(L16_lo, AND(-1-L17_lo, L18_lo)), XOR(L17_lo, AND(-1-L18_lo, L19_lo)), XOR(L18_lo, AND(-1-L19_lo, L20_lo)), XOR(L19_lo, AND(-1-L20_lo, L16_lo))
+               L16_hi, L17_hi, L18_hi, L19_hi, L20_hi = XOR(L20_hi, AND(-1-L16_hi, L17_hi)), XOR(L16_hi, AND(-1-L17_hi, L18_hi)), XOR(L17_hi, AND(-1-L18_hi, L19_hi)), XOR(L18_hi, AND(-1-L19_hi, L20_hi)), XOR(L19_hi, AND(-1-L20_hi, L16_hi))
+               L21_lo, L22_lo, L23_lo, L24_lo, L25_lo = XOR(L23_lo, AND(-1-L24_lo, L25_lo)), XOR(L24_lo, AND(-1-L25_lo, L21_lo)), XOR(L25_lo, AND(-1-L21_lo, L22_lo)), XOR(L21_lo, AND(-1-L22_lo, L23_lo)), XOR(L22_lo, AND(-1-L23_lo, L24_lo))
+               L21_hi, L22_hi, L23_hi, L24_hi, L25_hi = XOR(L23_hi, AND(-1-L24_hi, L25_hi)), XOR(L24_hi, AND(-1-L25_hi, L21_hi)), XOR(L25_hi, AND(-1-L21_hi, L22_hi)), XOR(L21_hi, AND(-1-L22_hi, L23_hi)), XOR(L22_hi, AND(-1-L23_hi, L24_hi))
+               L01_lo = XOR(L01_lo, RC_lo[round_idx])
+               L01_hi = L01_hi + RC_hi[round_idx]
+            end
+            lanes[01], lanes[02], lanes[03], lanes[04], lanes[05], lanes[06], lanes[07], lanes[08], lanes[09], lanes[10], lanes[11],
+            lanes[12], lanes[13], lanes[14], lanes[15], lanes[16], lanes[17], lanes[18], lanes[19], lanes[20], lanes[21], lanes[22], lanes[23], lanes[24],
+            lanes[25], lanes[26], lanes[27], lanes[28], lanes[29], lanes[30], lanes[31], lanes[32], lanes[33], lanes[34], lanes[35], lanes[36], lanes[37],
+            lanes[38], lanes[39], lanes[40], lanes[41], lanes[42], lanes[43], lanes[44], lanes[45], lanes[46], lanes[47], lanes[48], lanes[49], lanes[50] =
+            L01_lo, L01_hi % 2^32, L02_lo, L02_hi, L03_lo, L03_hi, L04_lo, L04_hi, L05_lo, L05_hi, L06_lo, L06_hi, L07_lo, L07_hi, L08_lo, L08_hi,
+            L09_lo, L09_hi, L10_lo, L10_hi, L11_lo, L11_hi, L12_lo, L12_hi, L13_lo, L13_hi, L14_lo, L14_hi, L15_lo, L15_hi, L16_lo, L16_hi,
+            L17_lo, L17_hi, L18_lo, L18_hi, L19_lo, L19_hi, L20_lo, L20_hi, L21_lo, L21_hi, L22_lo, L22_hi, L23_lo, L23_hi, L24_lo, L24_hi, L25_lo, L25_hi
+         end
+      end
+
+      local function keccak(block_size_in_bytes, digest_size_in_bytes, is_SHAKE, message)
+         local tail, lanes = "", create_array_of_lanes()
+         local result
+
+         local function partial(message_part)
+            if message_part then
+               if tail then
+                  local offs = 0
+                  if tail ~= "" and #tail + #message_part >= block_size_in_bytes then
+                     offs = block_size_in_bytes - #tail
+                     keccak_feed(lanes, tail..sub(message_part, 1, offs), 0, block_size_in_bytes, block_size_in_bytes)
+                     tail = ""
+                  end
+                  local size = #message_part - offs
+                  local size_tail = size % block_size_in_bytes
+                  keccak_feed(lanes, message_part, offs, size - size_tail, block_size_in_bytes)
+                  tail = tail..sub(message_part, #message_part + 1 - size_tail)
+                  return partial
+               else
+                  error("Adding more chunks is not allowed after receiving the result", 2)
+               end
+            else
+               if tail then
+                  local gap_start = is_SHAKE and 31 or 6
+                  tail = tail..(#tail + 1 == block_size_in_bytes and char(gap_start + 128) or char(gap_start)..rep("\0", (-2 - #tail) % block_size_in_bytes).."\128")
+                  keccak_feed(lanes, tail, 0, #tail, block_size_in_bytes)
+                  tail = nil
+
+                  local lanes_used = 0
+                  local total_lanes = block_size_in_bytes / 4
+                  local dwords = {}
+
+                  local function get_next_dwords_of_digest(dwords_qty)
+                     if lanes_used >= total_lanes then
+                        keccak_feed(lanes, nil, 0, 1, 1)
+                        lanes_used = 0
+                     end
+                     dwords_qty = floor(min(dwords_qty, total_lanes - lanes_used))
+                     for j = 1, dwords_qty do
+                        dwords[j] = format("%08x", lanes[lanes_used + j])
+                     end
+                     lanes_used = lanes_used + dwords_qty
+                     return
+                        gsub(concat(dwords, "", 1, dwords_qty), "(..)(..)(..)(..)", "%4%3%2%1"),
+                        dwords_qty * 4
+                  end
+
+                  local parts = {}
+                  local last_part, last_part_size = "", 0
+
+                  local function get_next_part_of_digest(bytes_needed)
+                     bytes_needed = bytes_needed or 1
+                     if bytes_needed &lt;= last_part_size then
+                        last_part_size = last_part_size - bytes_needed
+                        local part_size_in_nibbles = bytes_needed * 2
+                        local result = sub(last_part, 1, part_size_in_nibbles)
+                        last_part = sub(last_part, part_size_in_nibbles + 1)
+                        return result
+                     end
+                     local parts_qty = 0
+                     if last_part_size > 0 then
+                        parts_qty = 1
+                        parts[parts_qty] = last_part
+                        bytes_needed = bytes_needed - last_part_size
+                     end
+                     while bytes_needed >= 4 do
+                        local next_part, next_part_size = get_next_dwords_of_digest(bytes_needed / 4)
+                        parts_qty = parts_qty + 1
+                        parts[parts_qty] = next_part
+                        bytes_needed = bytes_needed - next_part_size
+                     end
+                     if bytes_needed > 0 then
+                        last_part, last_part_size = get_next_dwords_of_digest(1)
+                        parts_qty = parts_qty + 1
+                        parts[parts_qty] = get_next_part_of_digest(bytes_needed)
+                     else
+                        last_part, last_part_size = "", 0
+                     end
+                     return concat(parts, "", 1, parts_qty)
+                  end
+
+                  if digest_size_in_bytes &lt; 0 then
+                     result = get_next_part_of_digest
+                  else
+                     result = get_next_part_of_digest(digest_size_in_bytes)
+                  end
+
+               end
+               return result
+            end
+         end
+
+         if message then
+            -- Actually perform calculations and return the SHA3 digest of a message
+            return partial(message)()
+         else
+            -- Return function for chunk-by-chunk loading
+            -- User should feed every chunk of input data as single argument to this function and finally get SHA3 digest by invoking this function without an argument
+            return partial
+         end
+
+      end
+
+      function SHA3_224(message)                       return keccak(144, 28, false, message)                  end
+      function SHA3_256(message)                       return keccak(136, 32, false, message)                  end
+      function SHA3_384(message)                       return keccak(104, 48, false, message)                  end
+      function SHA3_512(message)                       return keccak( 72, 64, false, message)                  end
+      function SHAKE128(digest_size_in_bytes, message) return keccak(168, digest_size_in_bytes, true, message) end
+      function SHAKE256(digest_size_in_bytes, message) return keccak(136, digest_size_in_bytes, true, message) end
+
+   end
+
+   local to_be_refined, to_be_refined_qty = {}, 0    -- buffer for entropy from user actions: 32-bit values, max 128 elements
+   local refined, refined_qty = {}, 0                -- buffer for precalculated random numbers: 53-bit values, max 1024 elements
+   local rnd_lanes = create_array_of_lanes()
+   local RND = 0
+
+   local function mix16(n)
+      n = ((n + 0xDEAD) % 2^16 + 1) * 0xBEEF % (2^16 + 1) - 1
+      local K53 = RND
+      local L36 = K53 % 2^36
+      RND = L36 * 126611 + (K53 - L36) * (505231 / 2^36) + n % 256 * 598352261448 + n * 2348539529
+   end
+
+   function perform_calculations()
+      -- returns true if job's done
+      if to_be_refined_qty >= 42 or refined_qty &lt;= 1024 - 25 then
+         local used_qty = min(42, to_be_refined_qty)
+         for j = 1, used_qty do
+            rnd_lanes[j] = rnd_lanes[j] + to_be_refined[j]
+         end
+         for j = 42 + 1, to_be_refined_qty do
+            to_be_refined[j - 42] = to_be_refined[j]
+         end
+         to_be_refined_qty = to_be_refined_qty - used_qty
+         keccak_feed(rnd_lanes, nil, 0, 1, 1)
+         local lane_idx, queued_bits_qty, queued_bits = 0, 0, 0
+         for j = 1, 25 do
+            if queued_bits_qty &lt; 21 then
+               lane_idx = lane_idx + 1
+               queued_bits = queued_bits * 2^32 + rnd_lanes[lane_idx]
+               queued_bits_qty = queued_bits_qty + 32
+            end
+            local value53 = queued_bits % 2^21
+            queued_bits = (queued_bits - value53) / 2^21
+            queued_bits_qty = queued_bits_qty - 21
+            lane_idx = lane_idx + 1
+            value53 = rnd_lanes[lane_idx] * 2^21 + value53
+            if refined_qty &lt; 1024 then
+               refined_qty = refined_qty + 1
+               refined[refined_qty] = value53
+            else
+               local refined_idx = RND % refined_qty + 1
+               local old_value53 = refined[refined_idx]
+               refined[refined_idx] = XOR53(old_value53, value53)
+               mix16(old_value53)
+            end
+         end
+      else
+         return true -- nothing to do
+      end
+   end
+
+   local function refine32(value32)
+      if to_be_refined_qty &lt; 128 then
+         to_be_refined_qty = to_be_refined_qty + 1
+         to_be_refined[to_be_refined_qty] = value32 % 2^32
+      else
+         local idx = RND % to_be_refined_qty + 1
+         to_be_refined[idx] = (to_be_refined[idx] + value32) % 2^32
+      end
+   end
+
+   do
+      local log = math.log
+      local log4 = log(4)
+
+      local function entropy_from_delta(delta)
+         -- "delta" is a difference between two sequencial measurements of some integer parameter controlled by user (pixel coord of mouse, timer tick count)
+         -- all bits except 3 highest might be considered pure random
+         delta = delta * delta
+         return delta &lt; 25 and 0 or log(delta) / log4 - 3
+      end
+
+      local entropy_counter = 0
+
+      function GetEntropyCounter()
+         return floor(entropy_counter)
+      end
+
+      local prev_x, prev_y, prev_t
+      local enumerated = {MOUSE_BUTTON_PRESSED = 600, G_PRESSED = 500, M_PRESSED = 400, MOUSE_BUTTON_RELEASED = 300, G_RELEASED = 200, M_RELEASED = 100, lhc = 50}
+
+      function update_internal_state(event, arg, family)
+         local x, y, size_x, size_y, c, d = GetMousePositionInPixels()
+         mix16(c)
+         mix16(d)
+         local t = GetRunningTime()
+         mix16(t)
+         if event then
+            if arg then
+               event = (enumerated[event] or 0) + arg + (enumerated[family] or 0)
+               mix16(event)
+            else
+               for j = 1, #event, 2 do
+                  local low, high = byte(event, j, j + 1)
+                  local value16 = low + (high or 0) * 256
+                  mix16(value16)
+                  refine32(value16)
+               end
+               event, prev_x, prev_y, prev_t = 400, x, y, t
+            end
+            if event >= 400 then  -- only "pressed" events
+               refine32(t * 2^10 + event)
+               mix16(x)
+               refine32(c * 2^16 + d)
+               mix16(y)
+               entropy_counter = entropy_counter + entropy_from_delta((t - prev_t) / 16)          -- timer's resolution is 16 ms
+                  + ((x &lt; 16 or x >= size_x - 16) and 0 or min(4, entropy_from_delta(x - prev_x)))  -- mouse x (mouse position modulo 16 pixels might be considered pure random except when near screen edge)
+                  + ((y &lt; 16 or y >= size_y - 16) and 0 or min(4, entropy_from_delta(y - prev_y)))  -- mouse y
+               prev_x, prev_y, prev_t = x, y, t
+            end
+         end
+      end
+
+   end
+
+   local function get_53_random_bits()
+      if refined_qty == 0 then
+         perform_calculations()  -- precalculate next 25 random numbers (53 bits each), it will take 30 ms
+      end
+      local refined_idx = RND % refined_qty + 1
+      local value53 = refined[refined_idx]
+      refined[refined_idx] = refined[refined_qty]
+      refined_qty = refined_qty - 1
+      mix16(value53)
+      return value53
+   end
+
+   local cached_bits, cached_bits_qty = 0, 0
+
+   local function get_random_bits(number_of_bits)
+      local pwr_number_of_bits = 2^number_of_bits
+      local result
+      if number_of_bits &lt;= cached_bits_qty then
+         result = cached_bits % pwr_number_of_bits
+         cached_bits = (cached_bits - result) / pwr_number_of_bits
+      else
+         local new_bits = get_53_random_bits()
+         result = new_bits % pwr_number_of_bits
+         cached_bits = (new_bits - result) / pwr_number_of_bits * 2^cached_bits_qty + cached_bits
+         cached_bits_qty = 53 + cached_bits_qty
+      end
+      cached_bits_qty = cached_bits_qty - number_of_bits
+      return result
+   end
+
+   local prev_width, prev_bits_in_factor, prev_k = 0
+
+   function random(m, n)
+      -- drop-in replacement for math.random()
+      if m then
+         if not n then
+            m, n = 1, m
+         end
+         local k = n - m + 1
+         if k &lt; 1 or k > 2^53 then
+            error("Invalid arguments for function random()", 2)
+         end
+         local width, bits_in_factor, modk
+         if k == prev_k then
+            width, bits_in_factor = prev_width, prev_bits_in_factor
+         else
+            local pwr_prev_width = 2^prev_width
+            if k > pwr_prev_width / 2 and k &lt;= pwr_prev_width then
+               width = prev_width
+            else
+               width = 53
+               local width_low = -1
+               repeat
+                  local w = floor((width_low + width) / 2)
+                  if k &lt;= 2^w then
+                     width = w
+                  else
+                     width_low = w
+                  end
+               until width - width_low == 1
+               prev_width = width
+            end
+            bits_in_factor = 0
+            local bits_in_factor_high = width + 1
+            while bits_in_factor_high - bits_in_factor > 1 do
+               local bits_in_new_factor = floor((bits_in_factor + bits_in_factor_high) / 2)
+               if k % 2^bits_in_new_factor == 0 then
+                  bits_in_factor = bits_in_new_factor
+               else
+                  bits_in_factor_high = bits_in_new_factor
+               end
+            end
+            prev_k, prev_bits_in_factor = k, bits_in_factor
+         end
+         local factor, saved_bits, saved_bits_qty, pwr_saved_bits_qty = 2^bits_in_factor, 0, 0, 2^0
+         k = k / factor
+         width = width - bits_in_factor
+         local pwr_width = 2^width
+         local gap = pwr_width - k
+         repeat
+            modk = get_random_bits(width - saved_bits_qty) * pwr_saved_bits_qty + saved_bits
+            local modk_in_range = modk &lt; k
+            if not modk_in_range then
+               local interval = gap
+               saved_bits = modk - k
+               saved_bits_qty = width - 1
+               pwr_saved_bits_qty = pwr_width / 2
+               repeat
+                  saved_bits_qty = saved_bits_qty - 1
+                  pwr_saved_bits_qty = pwr_saved_bits_qty / 2
+                  if pwr_saved_bits_qty &lt;= interval then
+                     if saved_bits &lt; pwr_saved_bits_qty then
+                        interval = nil
+                     else
+                        interval = interval - pwr_saved_bits_qty
+                        saved_bits = saved_bits - pwr_saved_bits_qty
+                     end
+                  end
+               until not interval
+            end
+         until modk_in_range
+         return m + modk * factor + get_random_bits(bits_in_factor)
+      else
+         return get_53_random_bits() / 2^53
+      end
+   end
+
+end
+
+-- function Sleep() is redefined to automatically update internal state on every wake-up and to precalculate random numbers instead of long sleeping
+local function Sleep(delay_ms)
+   delay_ms = delay_ms or 10  -- 10 ms by default
+   local start_time = GetRunningTime()
+   local time_now, jobs_done = start_time
+   while not jobs_done and time_now &lt; start_time + delay_ms - 100 do
+      jobs_done = perform_calculations()  -- 30 ms of useful job
+      time_now = GetRunningTime()
+   end
+   delay_ms = delay_ms - (time_now - start_time)
+   if delay_ms > 0 then
+      Sleep_orig(delay_ms)
+   end
+   update_internal_state()  -- this invocation adds entropy to RNG (it's very fast)
+end
+
+
+local Logitech_order = {"L", "R", "M"}
+local Microsoft_order = {L=1, M=2, R=3, l=1, m=2, r=3}
+
+local
+   PressMouseButton_orig, ReleaseMouseButton_orig, PressAndReleaseMouseButton_orig, IsMouseButtonPressed_orig =
+   PressMouseButton,      ReleaseMouseButton,      PressAndReleaseMouseButton,      IsMouseButtonPressed
+
+-- These functions now accept strings "L", "R", "M" instead of button number
+local function PressMouseButton(button)
+   PressMouseButton_orig(Microsoft_order[button] or button)
+end
+
+local function ReleaseMouseButton(button)
+   ReleaseMouseButton_orig(Microsoft_order[button] or button)
+end
+
+local function PressAndReleaseMouseButton(button)
+   PressAndReleaseMouseButton_orig(Microsoft_order[button] or button)
+end
+
+local function IsMouseButtonPressed(button)
+   return IsMouseButtonPressed_orig(Microsoft_order[button] or button)
+end
+
+
+-- Test SHA3 functions
+do
+   assert(SHA3_224("The quick brown fox jumps over the lazy dog") == "d15dadceaa4d5d7bb3b48f446421d542e08ad8887305e28d58335795")
+   assert(SHA3_256("") == "a7ffc6f8bf1ed76651c14756a061d662f580ff4de43b49fa82d80a4b80f8434a")
+   assert(SHA3_384("The quick brown fox jumps over the lazy dog") == "7063465e08a93bce31cd89d2e3ca8f602498696e253592ed26f07bf7e703cf328581e1471a7ba7ab119b1a9ebdf8be41")
+   assert(SHAKE128(11, "The quick brown fox jumps over the lazy dog") == "f4202e3c5852f9182a0430")
+   local generator = SHAKE128(-1, "The quick brown fox jumps over the lazy dog") -- negative digest size means "return generator of infinite stream"
+   assert(generator(5) == "f4202e3c58")  -- first 5 bytes
+   assert(generator(4) == "52f9182a")    -- next 4 bytes, and so on...
+end
+
+-- ============================================== NOTHING SHOULD BE MODIFIED ABOVE THIS LINE ==============================================
+
+-- Meta class
+Loadout = {key = nil, name = "loadout name", isConduit = false, isMagic = false}
+
+-- Base class method new
+function Loadout:new(o, scancode, name, isConduit, isMagic)
+    	o = o or {}
+    	setmetatable(o, self)
+    	self.__index = self
+    	
+	-- private
+	scancode 		= scancode or nil
+	name 		= name or ""
+	isConduit  	= isConduit or false
+	isMagic  		= isMagic or false
+
+	-- public
+	self.displayName = name
+	self.keybind = scancode
+	self.isConduit = isConduit
+	self.isMagic = isMagic
+    	return o
+end
+
+-- Base class method printArea
+function Loadout:swap()
+	if not currentLoadout.isMagic then 
+		previousLoadout = currentLoadout --store current non-magical loadout before the swap
+	end 
+
+	p = previousLoadout
+    	print(self.displayName)
+
+	print(self.keybind)
+	PressAndReleaseKey(self.keybind)
+
+	if self.isConduit and (p.isConduit and p.isMagic) then
+		print("Charging weapon...")		
+		PressAndReleaseKey(conduitKey)
+	end
+end
+
+
+function Loadout:cast()
+	print("Casting...")
+end
+
+----------------------------------------------------------------------
+-- FUNCTIONS AND VARIABLES
+----------------------------------------------------------------------
+-- insert all your functions and variables here
+--
+
+local dontRememberMagicalLoadouts = true
+
+local previousLoadout	= ranged
+local currentLoadout   = swordAndBoard
+local isCasting 		= false
+
+local powerKey 		= 0x12
+local readyKey 		= 0x13
+local conduitKey 		= 0x09
+local isReadyPressed	= false
+local isCastingLeft	= false
+local isCastingRight	= false
+--local swordAndBoard	= { key = 0x3c, name = "Sword &amp; Board", 	conduit = true, 	isMagic = false }
+--local ranged			= { key = 0x3b, name = "Crossbow", 		conduit = false, 	isMagic = false }
+--local zweihander		= { key = 0x3d, name = "Dawnbreaker", 	conduit = false, 	isMagic = false }
+--local ice				= { key = 0x3e, name = "Ice", 			conduit = true, 	isMagic = true }
+--local fire			= { key = 0x3f, name = "Fire", 			conduit = true, 	isMagic = true }
+--local resto			= { key = 0x40, name = "Restoration", 	conduit = true, 	isMagic = true }
+
+local swordAndBoard 	= Loadout:new(nil, 0x3c, 	"Sword &amp; Board", 		true, 	false)
+local ranged			= Loadout:new(nil, 0x3b, 	"Crossbow", 			false, 	false)
+local zweihander		= Loadout:new(nil, 0x3d, 	"Dawnbreaker", 		false, 	false)
+local ice				= Loadout:new(nil, 0x3e, 	"Ice", 				true, 	true)
+local fire			= Loadout:new(nil, 0x3f, 	"Fire", 				true, 	true)
+local resto			= Loadout:new(nil, 0x40, 	"Restoration", 		true, 	true)
+
+
+local function SwapLoadout(loadout)
+	print(loadout.key)
+	PressAndReleaseKey(8)
+	print(loadout.key)
+	PressAndReleaseKey(loadout.key)
+end
+
+local function CastLeft()
+	print("Casting left...")
+	PressMouseButton("L")
+end
+
+local function CastRight()
+	print("Casting right...")
+	PressMouseButton("R")
+end
+
+local function StopCasting()
+	print("Stop casting...")
+	ReleaseMouseButton("L")
+	ReleaseMouseButton("R")
+end
+
+function OnEvent(event, arg, family)
+   local mouse_button
+   if event == "PROFILE_ACTIVATED" then
+      ClearLog()
+      EnablePrimaryMouseButtonEvents(true)
+      update_internal_state(GetDate())  -- it takes about 1 second because of determining your screen resolution
+      ----------------------------------------------------------------------
+      -- CODE FOR PROFILE ACTIVATION
+      ----------------------------------------------------------------------
+      -- set your favourite mouse sensitivity
+      SetMouseDPITableIndex(2)
+      -- turn NumLock ON if it is currently OFF (to make numpad keys 0-9 usable in a game)
+      if not IsKeyLockOn"NumLock" then
+         PressAndReleaseKey"NumLock"
+      end
+      -- insert your code here (initialize variables, display "Hello" on LCD screen, etc.)
+      --
+
+   elseif event == "MOUSE_BUTTON_PRESSED" or event == "MOUSE_BUTTON_RELEASED" then
+      mouse_button = Logitech_order[arg] or arg  -- convert 1,2,3 to "L","R","M"
+   end
+   update_internal_state(event, arg, family)    -- this invocation adds entropy to RNG (it's very fast)
+   ----------------------------------------------------------------------
+   -- LOG THIS EVENT
+   ----------------------------------------------------------------------
+   -- print(
+   --    "event = '"..event.."'",
+   --    not mouse_button and "arg = "..arg or "mouse_button = "..(type(mouse_button) == "number" and mouse_button or "'"..mouse_button.."'"),
+   --    "family = '"..family.."'"
+   -- )
+   --
+   if event == "PROFILE_DEACTIVATED" then
+      EnablePrimaryMouseButtonEvents(false)
+      ----------------------------------------------------------------------
+      -- CODE FOR PROFILE DEACTIVATION
+      ----------------------------------------------------------------------
+      -- insert your code here (display "Bye!" on LCD screen, etc.)
+      -- please note that you have only 1 second before your script will be aborted
+      --
+   end
+   ----------------------------------------------------------------------
+   -- MOUSE EVENTS PROCESSING
+   ----------------------------------------------------------------------
+   if event == "MOUSE_BUTTON_PRESSED" and mouse_button == "L" then  -- left mouse button
+   end
+   if event == "MOUSE_BUTTON_RELEASED" and mouse_button == "L" then -- left mouse button
+   end
+
+   if event == "MOUSE_BUTTON_PRESSED" and mouse_button == "R" then  -- right mouse button
+   end
+   if event == "MOUSE_BUTTON_RELEASED" and mouse_button == "R" then -- right mouse button
+   end
+
+   if event == "MOUSE_BUTTON_PRESSED" and mouse_button == "M" then  -- middle mouse button
+   end
+   if event == "MOUSE_BUTTON_RELEASED" and mouse_button == "M" then -- middle mouse button
+   end
+
+   if event == "MOUSE_BUTTON_PRESSED" and mouse_button == 4 then  -- "backward" (X1) mouse button
+   end
+   if event == "MOUSE_BUTTON_RELEASED" and mouse_button == 4 then -- "backward" (X1) mouse button
+   end
+
+   if event == "MOUSE_BUTTON_PRESSED" and mouse_button == 5 then  -- "forward" (X2) mouse button
+   end
+   if event == "MOUSE_BUTTON_RELEASED" and mouse_button == 5 then -- "forward" (X2) mouse button
+   end
+
+   if event == "MOUSE_BUTTON_PRESSED" and mouse_button == 6 then
+
+      -- (this is just a code example, remove it after reading)
+      -- Move mouse along a circle
+      local R = 50
+      local x, y = GetMousePositionInPixels()
+      x = x + R  -- (x,y) = center
+      for j = 1, 90 do
+         local angle = (2 * math.pi) * (j / 90)
+         SetMousePositionInPixels(x - R * math.cos(angle), y - R * math.sin(angle))
+         Sleep()
+      end
+      --------------
+
+   end
+   if event == "MOUSE_BUTTON_RELEASED" and mouse_button == 6 then
+   end
+
+   if event == "MOUSE_BUTTON_PRESSED" and mouse_button == 7 then
+   end
+   if event == "MOUSE_BUTTON_RELEASED" and mouse_button == 7 then
+   end
+
+   if event == "MOUSE_BUTTON_PRESSED" and mouse_button == 8 then
+
+      -- (this is just a code example, remove it after reading)
+      -- print misc info
+      local t = floor(GetRunningTime() / 1000)
+      print("profile running time = "..floor(t / 3600)..":"..sub(100 + floor(t / 60) % 60, -2)..":"..sub(100 + t % 60, -2))
+      print("approximately "..GetEntropyCounter().." bits of entropy was received from button press events")
+      local i = random(3)       -- integer 1 &lt;= i &lt;= 3
+      print("random int:", i)
+      local b = random(0, 255)  -- integer 0 &lt;= b &lt;= 255
+      print("random byte:", ("%02X"):format(b))
+      local x = random()        -- float   0 &lt;= x &lt; 1
+      print("random float:", x)
+      local mouse_x, mouse_y, screen_width, screen_height = GetMousePositionInPixels()
+      print("your screen size is "..screen_width.."x"..screen_height)
+      print("your mouse cursor is at pixel ("..mouse_x..","..mouse_y..")")
+      --------------
+
+   end
+   if event == "MOUSE_BUTTON_RELEASED" and mouse_button == 8 then
+   end
+
+   ----------------------------------------------------------------------
+   -- KEYBOARD AND LEFT-HANDED-CONTROLLER EVENTS PROCESSING
+   ----------------------------------------------------------------------
+   if event == "G_PRESSED" and arg == 1 then    -- G1 key
+   end
+   if event == "G_RELEASED" and arg == 1 then   -- G1 key
+   end
+
+   if event == "M_PRESSED" and arg == 3 then    -- M3 key
+   end
+   if event == "M_RELEASED" and arg == 3 then   -- M3 key
+   end
+
+
+-- ICE
+	if event == "G_PRESSED" and arg == 16 then
+		print("Casting ICE...")
+		Sleep(50)
+		ice.swap()
+		Sleep(250) --allow time to load
+	    	ice.cast()
+	end
+
+
+-- FIRE
+	if event == "G_PRESSED" and arg == 18 then
+		print("Casting FIRE...")
+		Sleep(50)
+		fire.swap()
+		Sleep(250) --allow time to load
+	    	fire.cast()
+	end
+
+-- RESTO
+	if event == "G_PRESSED" and arg == 17 then
+		print("Casting RESTO...")
+		Sleep(50)
+		resto.swap()
+		Sleep(250) --allow time to load
+		resto.cast()
+	end
+
+-- BACK TO LAST LOADOUT
+	if event == "G_RELEASED" and (arg == 16 or arg == 17 or arg == 18) then
+		print("Equipping previous loadout...")
+	    	StopCasting()
+		Sleep(50)
+		previousLoadout.swap()
+	end
+
+-- PRAY
+	if event == "G_PRESSED" and arg == 06 then
+		isReadyPressed = true 
+	end
+
+	if event == "G_RELEASED" and arg == 06 then
+		isReadyPressed = false
+	end
+
+   ----------------------------------------------------------------------
+   -- EXIT EVENT PROCESSING
+   ----------------------------------------------------------------------
+   -- After current event is processed, we probably have at least 30 milliseconds before the next event
+   -- It's a good time for "background calculations" (precalculate next 25 random numbers)
+   perform_calculations()    -- it takes 30 ms on a modern PC
+end</script>
+  </profile>
+</profiles>

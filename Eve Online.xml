@@ -1,391 +1,1454 @@
 <?xml version="1.0" encoding="utf-8"?>
 <profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
-  <profile gkeysdk="0" guid="{070CDB42-CD88-435A-B289-735095B6B3F7}" lock="1" name="EVE Online">
+  <profile launchable="1" guid="{670AAC15-8868-4E78-81F2-AECC8922A648}" gkeysdk="0" gpasupported="0" gameid="" lock="0" name="EVE Online" lastplayeddate="2023-05-10T17:05:23">
     <description></description>
-    <target path="D:\GAMES\EVE ONLINE\CLIENTS\PRIMARY\BIN\EXEFILE.EXE"/>
-    <signature key="" value="" executable="" name=""/>
+    <target path="D:\GAMES\EVE ONLINE\SISI\BIN64\EXEFILE.EXE"/>
+    <target path="D:\GAMES\EVE ONLINE\TQ\BIN64\EXEFILE.EXE"/>
+    <signature executable="" value="" key="" name=""/>
     <macros>
-      <macro original="true" guid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" hidden="false" name="Left Click">
-        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
-          <do task="leftclick"/>
-        </mousefunction>
-      </macro>
-      <macro original="true" guid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" hidden="false" name="Right Click">
-        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
-          <do task="rightclick"/>
-        </mousefunction>
-      </macro>
-      <macro original="true" guid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" hidden="false" name="Middle Click">
-        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
-          <do task="middleclick"/>
-        </mousefunction>
-      </macro>
-      <macro original="true" guid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" hidden="false" name="Back">
-        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
-          <do task="back"/>
-        </mousefunction>
-      </macro>
-      <macro original="true" guid="{8B13562D-60F2-460F-9588-8C84168C81BC}" hidden="false" name="Forward">
-        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
-          <do task="forward"/>
-        </mousefunction>
-      </macro>
-      <macro original="true" guid="{74550F5B-A3C9-4F98-B168-24BE7B978876}" hidden="false" name="Scroll Left">
-        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
-          <do task="scrollleft"/>
-        </mousefunction>
-      </macro>
-      <macro original="true" guid="{BAD3E2CF-B933-4D10-AF7A-641CA5118669}" hidden="false" name="Scroll Right">
-        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
-          <do task="scrollright"/>
-        </mousefunction>
-      </macro>
-      <macro original="true" devicecategory="Logitech.Gaming.Mouse" guid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" hidden="false" name="DPI Up">
-        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
-          <do task="dpiup"/>
-        </mousefunction>
-      </macro>
-      <macro original="true" devicecategory="Logitech.Gaming.Mouse" guid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" hidden="false" name="DPI Down">
-        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
-          <do task="dpidown"/>
-        </mousefunction>
-      </macro>
-      <macro original="true" guid="{91D4D3F8-503D-4295-A680-6A34F188A6C8}" hidden="true" name="Next Track">
-        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
-          <do task="nexttrack"/>
-        </media>
-      </macro>
-      <macro original="true" guid="{A4CC38CD-8D22-4CF8-9B58-0A665595793D}" hidden="false" name="Next Track">
-        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
-          <do task="nexttrack"/>
-        </media>
-      </macro>
-      <macro original="true" guid="{75F07846-275F-4F6B-9807-373B3C162E69}" hidden="true" name="Play/Pause">
-        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
-          <do task="playpause"/>
-        </media>
-      </macro>
-      <macro original="true" guid="{CB2D8A8C-3F6E-4E45-B594-2A8E026C917F}" hidden="false" name="Play/Pause">
-        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
-          <do task="playpause"/>
-        </media>
-      </macro>
-      <macro original="true" guid="{FEAF4580-66A0-4814-8ACC-0D0F52807086}" hidden="true" name="Previous Track">
-        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
-          <do task="previoustrack"/>
-        </media>
-      </macro>
-      <macro original="true" guid="{C5E7B8B2-F53E-4375-A9A5-8D22FD42D952}" hidden="false" name="Previous Track">
-        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
-          <do task="previoustrack"/>
-        </media>
-      </macro>
-      <macro guid="{5A747B61-30A4-4355-A922-914ADD44E931}" hidden="false" name="ISBoxer: Repeater">
+      <macro guid="{34966638-4A53-485F-AE75-80D55F84DAF0}" color="4278246655" hidden="false" name="Inventory">
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="R"/>
-          <modifier value="LSHIFT"/>
+          <key value="C"/>
           <modifier value="LALT"/>
         </keystroke>
       </macro>
-      <macro guid="{1AB495D7-D7C1-469F-97AE-1B699FBF5F48}" hidden="false" name="Ship: Align to">
+      <macro guid="{19D807FB-3538-49E7-A3B9-A656BA1D8911}" color="4278246655" hidden="false" name="UP">
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="A"/>
+          <key value="UP"/>
         </keystroke>
       </macro>
-      <macro guid="{807F78DA-1F80-4AFD-BA05-2037847FA870}" hidden="false" name="Ship: Approach">
+      <macro guid="{CF1E5CEA-DB6F-468E-9352-A1E7504BB209}" color="4278246655" hidden="false" name="DOWN">
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="Q"/>
+          <key value="DOWN"/>
         </keystroke>
       </macro>
-      <macro guid="{943B5816-AEEE-40D4-9AEE-B26590223580}" hidden="false" name="Ship: Interact (Dock/Jump/Activate)">
+      <macro guid="{7C4BA6DC-35F8-4CEB-8D0D-202A4B51093A}" color="4278246655" hidden="false" name="RIGHT">
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="D"/>
+          <key value="RIGHT"/>
         </keystroke>
       </macro>
-      <macro guid="{FB9416FA-4D65-4B55-9F30-4BCAA9C84C40}" hidden="false" name="Ship: Keep at range">
+      <macro guid="{7E2EAC23-F5BC-4068-B4CB-D8697F9AA9E6}" color="4278246655" hidden="false" name="LEFT">
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="E"/>
+          <key value="LEFT"/>
         </keystroke>
       </macro>
-      <macro guid="{22F367EA-CB4C-4D0B-AF32-C8D0E8A56C03}" hidden="false" name="Ship: Reload">
-        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="R"/>
-          <modifier value="LCTRL"/>
-        </keystroke>
+      <macro guid="{B6A8478E-909D-45D3-B4B1-38F1F637704F}" color="4278246655" hidden="false" name="QuickMacro">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+        </multikey>
       </macro>
-      <macro guid="{A0E293CD-0EF1-4708-8EFA-3C3B4F849D97}" hidden="false" name="Ship: Orbit">
-        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="W"/>
-        </keystroke>
+      <macro guid="{D8B93414-4482-46A0-8576-49FA874249BA}" color="4278246655" hidden="false" name="QuickMacro 2">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="F2" direction="down"/>
+          <key value="F2" direction="up"/>
+        </multikey>
       </macro>
-      <macro guid="{65A93B73-9A41-4C61-8245-BBDC88FF2D73}" hidden="false" name="Ship: Warp to">
-        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="S"/>
-        </keystroke>
-      </macro>
-      <macro guid="{63D915DE-F62D-409B-A644-FAEEF6B777BC}" hidden="false" name="Drones: Attack">
-        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="F"/>
-        </keystroke>
-      </macro>
-      <macro guid="{9B2805CE-303D-450B-8DA7-A92014F90BD5}" hidden="false" name="Q">
-        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="Q"/>
-        </keystroke>
-      </macro>
-      <macro guid="{C38F4C36-4B69-4E59-93D2-26FE5E265E62}" hidden="false" name="Modifier: ALT">
-        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="LALT"/>
-        </keystroke>
-      </macro>
-      <macro guid="{F9CA5CD9-4E7C-463A-AC4D-09E27C6CABE8}" hidden="false" name="Modifier: CTRL">
-        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="LCTRL"/>
-        </keystroke>
-      </macro>
-      <macro guid="{9D9DF3A6-D717-44D8-8675-00722EEB3259}" hidden="false" name="Modifier: Shift">
+      <macro guid="{663C73D4-2867-46D0-8785-545957B88B7B}" color="4278246655" hidden="false" name="SHIFT">
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
           <key value="LSHIFT"/>
         </keystroke>
       </macro>
-      <macro guid="{7DD8E905-5F4F-44E2-B239-D6D87AB50DB4}" hidden="false" name="Target: Previous">
+      <macro guid="{8A12A6E0-BEEA-4C33-85B1-55F02C5C9A51}" color="4278246655" hidden="false" name="CTRL">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{E7A5C345-BD5E-4F7C-A5F8-F84644B7CC99}" color="4278246655" hidden="false" name="Next Target">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="RIGHT"/>
+          <modifier value="LALT"/>
+        </keystroke>
+      </macro>
+      <macro guid="{71815B65-DCFB-4EA2-9D57-292C6017E47D}" color="4278246655" hidden="false" name="Map">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F10"/>
+        </keystroke>
+      </macro>
+      <macro guid="{9BE99090-8914-4189-AE7D-BBEC6E5BB965}" color="4278246655" hidden="false" name="V">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+        </keystroke>
+      </macro>
+      <macro guid="{845301BE-6A42-4B6F-8BF9-2313BED7B377}" color="4278246655" hidden="false" name="L4">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="4"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{3F30FFB3-5EDD-45B5-9817-DB4A0BDA05C0}" color="4278246655" hidden="false" name="Stop">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LBRACKET"/>
+        </keystroke>
+      </macro>
+      <macro guid="{C9598CA1-AA6C-4DFD-8C9B-C5F779D3315A}" color="4278246655" hidden="false" name="Align">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <mousebutton direction="down" button="left"/>
+          <delay milliseconds="100"/>
+          <mousebutton direction="up" button="left"/>
+          <delay milliseconds="500"/>
+          <key value="A" direction="down"/>
+          <delay milliseconds="100"/>
+          <key value="A" direction="up"/>
+          <delay milliseconds="500"/>
+          <key value="P" direction="down"/>
+          <delay milliseconds="55"/>
+          <key value="P" direction="up"/>
+        </multikey>
+      </macro>
+      <macro guid="{CAC06808-6DD6-4D08-B387-1569C3E5692A}" color="4278246655" hidden="false" name="Warp to">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <mousebutton direction="down" button="left"/>
+          <delay milliseconds="50"/>
+          <mousebutton direction="up" button="left"/>
+          <delay milliseconds="50"/>
+          <key value="S" direction="down"/>
+          <delay milliseconds="50"/>
+          <key value="S" direction="up"/>
+          <delay milliseconds="50"/>
+          <key value="D" direction="down"/>
+          <delay milliseconds="50"/>
+          <key value="D" direction="up"/>
+          <delay milliseconds="50"/>
+          <key value="P" direction="down"/>
+          <delay milliseconds="50"/>
+          <key value="P" direction="up"/>
+        </multikey>
+      </macro>
+      <macro guid="{8729F125-196B-46B8-9185-7ED8A1A5DBE6}" color="4278246655" hidden="false" name="Orbit / Warp">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <mousebutton direction="down" button="middle"/>
+          <delay milliseconds="50"/>
+          <mousebutton direction="up" button="middle"/>
+          <key value="W" direction="down"/>
+          <delay milliseconds="50"/>
+          <key value="W" direction="up"/>
+          <delay milliseconds="1000"/>
+          <key value="S" direction="down"/>
+          <delay milliseconds="50"/>
+          <key value="S" direction="up"/>
+          <delay milliseconds="1000"/>
+          <key value="D" direction="down"/>
+          <delay milliseconds="50"/>
+          <key value="D" direction="up"/>
+        </multikey>
+      </macro>
+      <macro guid="{165222FC-DA4D-4AB1-B8F4-813C09FCE952}" color="4278246655" hidden="false" name="_MOD">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="RALT"/>
+        </keystroke>
+      </macro>
+      <macro guid="{2B5D3114-0780-4A82-9078-2E2C2EBD2AFB}" color="4278246655" hidden="false" name="H1">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+        </keystroke>
+      </macro>
+      <macro guid="{5BFC8EF8-FB6D-4503-BADF-5035DD3E1CD5}" color="4278246655" hidden="false" name="H2">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+        </keystroke>
+      </macro>
+      <macro guid="{A470D091-A562-45BB-8EC4-5C62B27922CF}" color="4278246655" hidden="false" name="H3">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="E"/>
+        </keystroke>
+      </macro>
+      <macro guid="{A5585F00-7F88-4D4E-9F6E-01D1A73AFD8B}" color="4278246655" hidden="false" name="H4">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+        </keystroke>
+      </macro>
+      <macro guid="{928DC7AA-AAFB-4BE5-BF40-24AF6E4B943E}" color="4278246655" hidden="false" name="M1">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="A"/>
+        </keystroke>
+      </macro>
+      <macro guid="{626A8E83-C4D0-41B9-BC0B-8B2FA7A01DB0}" color="4278246655" hidden="false" name="M2">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="S"/>
+        </keystroke>
+      </macro>
+      <macro guid="{7DDC270B-7F05-45DB-832B-AEE0EF721479}" color="4278246655" hidden="false" name="M3">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="D"/>
+        </keystroke>
+      </macro>
+      <macro guid="{6BEDE0A6-8EA1-43D9-89EB-614C22044AB4}" color="4278246655" hidden="false" name="M4">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F"/>
+        </keystroke>
+      </macro>
+      <macro guid="{1664C563-1C00-4B91-B9E2-96698DB38100}" color="4278246655" hidden="false" name="L1">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+        </keystroke>
+      </macro>
+      <macro guid="{90F4C61D-19FA-4E16-8F80-E9CFA3C4BA7C}" color="4278246655" hidden="false" name="L2">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="X"/>
+        </keystroke>
+      </macro>
+      <macro guid="{879B5DEF-B75E-4D75-ABD5-8B6CD0733EA6}" color="4278246655" hidden="false" name="L3">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="C"/>
+        </keystroke>
+      </macro>
+      <macro guid="{3348869F-0F8C-43EF-B36B-079C58D9D0A9}" color="4278246655" hidden="false" name="Dock">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="LALT" direction="down"/>
+          <key value="D" direction="down"/>
+          <delay milliseconds="500"/>
+          <mousebutton direction="down" button="left"/>
+          <mousebutton direction="up" button="left"/>
+          <delay milliseconds="500"/>
+          <mousebutton direction="down" button="left"/>
+          <mousebutton direction="up" button="left"/>
+          <delay milliseconds="500"/>
+          <key value="D" direction="up"/>
+          <key value="LALT" direction="up"/>
+        </multikey>
+      </macro>
+      <macro guid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" color="4278246655" hidden="false" name="Left Click">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro guid="{4BB4ED41-9947-4321-ABBA-53CEEEACD664}" color="4278246655" hidden="false" repeatmode="pressed" repeatdelay="250" name="Previous">
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
           <key value="LEFT"/>
           <modifier value="LCTRL"/>
+          <modifier value="LGUI"/>
         </keystroke>
       </macro>
-      <macro guid="{982DB96E-3DE0-41F1-8752-309FB60AE200}" hidden="false" name="Target: Next">
+      <macro guid="{CFB499AE-3A33-4A2E-BA18-8898EC52C57E}" color="4278246655" hidden="false" repeatmode="pressed" repeatdelay="250" name="Next">
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
           <key value="RIGHT"/>
           <modifier value="LCTRL"/>
+          <modifier value="LGUI"/>
         </keystroke>
       </macro>
-      <macro guid="{9535CE8A-D33B-4935-86C3-D10B93280E10}" hidden="false" name="ISBoxer: Activate Kaito'Li">
+      <macro guid="{5097981D-7072-4E5B-A21D-5656623E983A}" color="4278246655" hidden="false" name="Scanning.DScan">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <delay milliseconds="1500"/>
+          <key value="LALT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LALT" direction="up"/>
+        </multikey>
+      </macro>
+      <macro guid="{0AA11630-C991-4AB4-8C10-C1AD5FE6D880}" color="4278246655" hidden="false" name="Left Windows + TAB">
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="1"/>
+          <key value="TAB"/>
+          <modifier value="LGUI"/>
+        </keystroke>
+      </macro>
+      <macro guid="{6825A3EC-B7AB-44A1-B55B-504BE1F8E934}" color="4278246655" hidden="false" name="Look at">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="L"/>
           <modifier value="LALT"/>
-          <modifier value="LCTRL"/>
         </keystroke>
       </macro>
-      <macro guid="{66FE3E3F-C22A-4BB0-94F9-6562C02BF18A}" hidden="false" name="ISBoxer: Activate Jerome Rousseau">
+      <macro guid="{A42298D7-AE5C-44A4-AA08-C41E76DE1548}" color="4278246655" hidden="false" name="Target">
         <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="2"/>
-          <modifier value="LCTRL"/>
-          <modifier value="LALT"/>
-        </keystroke>
-      </macro>
-      <macro guid="{7AD77637-26C7-467F-8E97-89068861C390}" hidden="false" name="ISBoxer: Activate Steve O'Hara">
-        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="3"/>
-          <modifier value="LCTRL"/>
-          <modifier value="LALT"/>
-        </keystroke>
-      </macro>
-      <macro guid="{C3B82C22-779E-48FF-9D50-6B2D26AFF23A}" hidden="false" name="Drones: Return">
-        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="R"/>
-          <modifier value="LSHIFT"/>
-        </keystroke>
-      </macro>
-      <macro guid="{6C9C890D-FFCA-44F8-8749-4BC2351D91DC}" hidden="false" name="Drones: Return &amp; Orbit">
-        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
-          <key value="R"/>
-          <modifier value="LSHIFT"/>
+          <key value="T"/>
           <modifier value="LALT"/>
         </keystroke>
       </macro>
     </macros>
-    <assignments devicecategory="Logitech.Gaming.Headset">
-      <assignment original="true" backup="false" contextid="G1" shiftstate="1" macroguid="{A4CC38CD-8D22-4CF8-9B58-0A665595793D}"/>
-      <assignment original="true" backup="false" contextid="G2" shiftstate="1" macroguid="{CB2D8A8C-3F6E-4E45-B594-2A8E026C917F}"/>
-      <assignment original="true" backup="false" contextid="G3" shiftstate="1" macroguid="{C5E7B8B2-F53E-4375-A9A5-8D22FD42D952}"/>
-    </assignments>
     <assignments devicecategory="Logitech.Gaming.LeftHandedController">
-      <assignment original="false" backup="false" contextid="G24" shiftstate="1" macroguid="{5A747B61-30A4-4355-A922-914ADD44E931}"/>
-      <assignment original="false" backup="true" contextid="G24" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G3" shiftstate="1" macroguid="{807F78DA-1F80-4AFD-BA05-2037847FA870}"/>
-      <assignment original="false" backup="true" contextid="G3" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G4" shiftstate="1" macroguid="{A0E293CD-0EF1-4708-8EFA-3C3B4F849D97}"/>
-      <assignment original="false" backup="true" contextid="G4" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G5" shiftstate="1" macroguid="{FB9416FA-4D65-4B55-9F30-4BCAA9C84C40}"/>
-      <assignment original="false" backup="true" contextid="G5" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G10" shiftstate="1" macroguid="{1AB495D7-D7C1-469F-97AE-1B699FBF5F48}"/>
-      <assignment original="false" backup="true" contextid="G10" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G11" shiftstate="1" macroguid="{65A93B73-9A41-4C61-8245-BBDC88FF2D73}"/>
-      <assignment original="false" backup="true" contextid="G11" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G12" shiftstate="1" macroguid="{943B5816-AEEE-40D4-9AEE-B26590223580}"/>
-      <assignment original="false" backup="true" contextid="G12" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G6" shiftstate="1" macroguid="{22F367EA-CB4C-4D0B-AF32-C8D0E8A56C03}"/>
-      <assignment original="false" backup="true" contextid="G6" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G13" shiftstate="1" macroguid="{63D915DE-F62D-409B-A644-FAEEF6B777BC}"/>
-      <assignment original="false" backup="true" contextid="G13" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G20" shiftstate="1" macroguid="{F9CA5CD9-4E7C-463A-AC4D-09E27C6CABE8}"/>
-      <assignment original="false" backup="true" contextid="G20" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G15" shiftstate="1" macroguid="{9D9DF3A6-D717-44D8-8675-00722EEB3259}"/>
-      <assignment original="false" backup="true" contextid="G15" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G4" shiftstate="2" macroguid="{A0E293CD-0EF1-4708-8EFA-3C3B4F849D97}"/>
-      <assignment original="false" backup="true" contextid="G4" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G5" shiftstate="2" macroguid="{FB9416FA-4D65-4B55-9F30-4BCAA9C84C40}"/>
-      <assignment original="false" backup="true" contextid="G5" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G3" shiftstate="2" macroguid="{807F78DA-1F80-4AFD-BA05-2037847FA870}"/>
-      <assignment original="false" backup="true" contextid="G3" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G6" shiftstate="2" macroguid="{22F367EA-CB4C-4D0B-AF32-C8D0E8A56C03}"/>
-      <assignment original="false" backup="true" contextid="G6" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G11" shiftstate="2" macroguid="{65A93B73-9A41-4C61-8245-BBDC88FF2D73}"/>
-      <assignment original="false" backup="true" contextid="G11" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G10" shiftstate="2" macroguid="{1AB495D7-D7C1-469F-97AE-1B699FBF5F48}"/>
-      <assignment original="false" backup="true" contextid="G10" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G15" shiftstate="2" macroguid="{9D9DF3A6-D717-44D8-8675-00722EEB3259}"/>
-      <assignment original="false" backup="true" contextid="G15" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G24" shiftstate="2" macroguid="{5A747B61-30A4-4355-A922-914ADD44E931}"/>
-      <assignment original="false" backup="true" contextid="G24" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G20" shiftstate="2" macroguid="{F9CA5CD9-4E7C-463A-AC4D-09E27C6CABE8}"/>
-      <assignment original="false" backup="true" contextid="G20" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G12" shiftstate="2" macroguid="{943B5816-AEEE-40D4-9AEE-B26590223580}"/>
-      <assignment original="false" backup="true" contextid="G12" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G13" shiftstate="2" macroguid="{63D915DE-F62D-409B-A644-FAEEF6B777BC}"/>
-      <assignment original="false" backup="true" contextid="G13" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G13" shiftstate="3" macroguid="{63D915DE-F62D-409B-A644-FAEEF6B777BC}"/>
-      <assignment original="false" backup="true" contextid="G13" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G24" shiftstate="3" macroguid="{5A747B61-30A4-4355-A922-914ADD44E931}"/>
-      <assignment original="false" backup="true" contextid="G24" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G15" shiftstate="3" macroguid="{9D9DF3A6-D717-44D8-8675-00722EEB3259}"/>
-      <assignment original="false" backup="true" contextid="G15" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G10" shiftstate="3" macroguid="{1AB495D7-D7C1-469F-97AE-1B699FBF5F48}"/>
-      <assignment original="false" backup="true" contextid="G10" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G3" shiftstate="3" macroguid="{807F78DA-1F80-4AFD-BA05-2037847FA870}"/>
-      <assignment original="false" backup="true" contextid="G3" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G12" shiftstate="3" macroguid="{943B5816-AEEE-40D4-9AEE-B26590223580}"/>
-      <assignment original="false" backup="true" contextid="G12" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G5" shiftstate="3" macroguid="{FB9416FA-4D65-4B55-9F30-4BCAA9C84C40}"/>
-      <assignment original="false" backup="true" contextid="G5" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G4" shiftstate="3" macroguid="{A0E293CD-0EF1-4708-8EFA-3C3B4F849D97}"/>
-      <assignment original="false" backup="true" contextid="G4" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G6" shiftstate="3" macroguid="{22F367EA-CB4C-4D0B-AF32-C8D0E8A56C03}"/>
-      <assignment original="false" backup="true" contextid="G6" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G11" shiftstate="3" macroguid="{65A93B73-9A41-4C61-8245-BBDC88FF2D73}"/>
-      <assignment original="false" backup="true" contextid="G11" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G19" shiftstate="1" macroguid="{C3B82C22-779E-48FF-9D50-6B2D26AFF23A}"/>
-      <assignment original="false" backup="true" contextid="G19" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G20" shiftstate="3" macroguid="{F9CA5CD9-4E7C-463A-AC4D-09E27C6CABE8}"/>
-      <assignment original="false" backup="true" contextid="G20" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G16" shiftstate="3" macroguid="{9535CE8A-D33B-4935-86C3-D10B93280E10}"/>
-      <assignment original="false" backup="true" contextid="G16" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G17" shiftstate="3" macroguid="{66FE3E3F-C22A-4BB0-94F9-6562C02BF18A}"/>
-      <assignment original="false" backup="true" contextid="G17" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G18" shiftstate="3" macroguid="{7AD77637-26C7-467F-8E97-89068861C390}"/>
-      <assignment original="false" backup="true" contextid="G18" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G19" shiftstate="2" macroguid="{C3B82C22-779E-48FF-9D50-6B2D26AFF23A}"/>
-      <assignment original="false" backup="true" contextid="G19" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G14" shiftstate="1" macroguid="{6C9C890D-FFCA-44F8-8749-4BC2351D91DC}"/>
-      <assignment original="false" backup="true" contextid="G14" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="true" contextid="G16" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="true" contextid="G17" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G18" shiftstate="1" macroguid="{7AD77637-26C7-467F-8E97-89068861C390}"/>
-      <assignment original="false" backup="true" contextid="G18" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G16" shiftstate="1" macroguid="{9535CE8A-D33B-4935-86C3-D10B93280E10}"/>
-      <assignment original="false" backup="false" contextid="G17" shiftstate="1" macroguid="{66FE3E3F-C22A-4BB0-94F9-6562C02BF18A}"/>
-      <assignment original="false" backup="false" contextid="G16" shiftstate="2" macroguid="{9535CE8A-D33B-4935-86C3-D10B93280E10}"/>
-      <assignment original="false" backup="true" contextid="G16" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G18" shiftstate="2" macroguid="{7AD77637-26C7-467F-8E97-89068861C390}"/>
-      <assignment original="false" backup="true" contextid="G18" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G17" shiftstate="2" macroguid="{66FE3E3F-C22A-4BB0-94F9-6562C02BF18A}"/>
-      <assignment original="false" backup="true" contextid="G17" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G14" shiftstate="2" macroguid="{6C9C890D-FFCA-44F8-8749-4BC2351D91DC}"/>
-      <assignment original="false" backup="true" contextid="G14" shiftstate="2" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G14" shiftstate="3" macroguid="{6C9C890D-FFCA-44F8-8749-4BC2351D91DC}"/>
-      <assignment original="false" backup="true" contextid="G14" shiftstate="3" macroguid=""/>
-      <assignment original="false" backup="false" contextid="G19" shiftstate="3" macroguid="{C3B82C22-779E-48FF-9D50-6B2D26AFF23A}"/>
-      <assignment original="false" backup="true" contextid="G19" shiftstate="3" macroguid=""/>
+      <assignment original="false" contextid="G26" backup="false" macroguid="{19D807FB-3538-49E7-A3B9-A656BA1D8911}" shiftstate="1"/>
+      <assignment original="false" contextid="G28" backup="false" macroguid="{CF1E5CEA-DB6F-468E-9352-A1E7504BB209}" shiftstate="1"/>
+      <assignment original="false" contextid="G27" backup="false" macroguid="{7C4BA6DC-35F8-4CEB-8D0D-202A4B51093A}" shiftstate="1"/>
+      <assignment original="false" contextid="G29" backup="false" macroguid="{7E2EAC23-F5BC-4068-B4CB-D8697F9AA9E6}" shiftstate="1"/>
+      <assignment original="false" contextid="G15" backup="false" macroguid="{663C73D4-2867-46D0-8785-545957B88B7B}" shiftstate="1"/>
+      <assignment original="false" contextid="G21" backup="false" macroguid="{6825A3EC-B7AB-44A1-B55B-504BE1F8E934}" shiftstate="1"/>
+      <assignment original="false" contextid="G19" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G4" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G11" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G10" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G3" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G12" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G13" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G5" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G16" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G17" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G18" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G9" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G2" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G6" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G14" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G7" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G8" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G1" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G23" backup="false" macroguid="{4BB4ED41-9947-4321-ABBA-53CEEEACD664}" shiftstate="1"/>
+      <assignment original="false" contextid="G24" backup="false" macroguid="{CFB499AE-3A33-4A2E-BA18-8898EC52C57E}" shiftstate="1"/>
+      <assignment original="false" contextid="G22" backup="false" macroguid="{12D58126-7C03-46E1-B97A-5759CD2F012C}" shiftstate="1"/>
+      <assignment original="false" contextid="G20" backup="false" macroguid="{A42298D7-AE5C-44A4-AA08-C41E76DE1548}" shiftstate="1"/>
     </assignments>
-    <assignments devicecategory="Logitech.Gaming.Mouse.G700">
-      <assignment original="true" backup="false" contextid="Button1" shiftstate="1" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}"/>
-      <assignment original="true" backup="false" contextid="Button2" shiftstate="1" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}"/>
-      <assignment original="true" backup="false" contextid="Button3" shiftstate="1" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}"/>
-      <assignment original="false" backup="true" contextid="Button4" shiftstate="1" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}"/>
-      <assignment original="false" backup="true" contextid="Button5" shiftstate="1" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}"/>
-      <assignment original="false" backup="true" contextid="Button9" shiftstate="1" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}"/>
-      <assignment original="false" backup="true" contextid="Button10" shiftstate="1" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}"/>
-      <assignment original="true" backup="false" contextid="Button12" shiftstate="1" macroguid="{74550F5B-A3C9-4F98-B168-24BE7B978876}"/>
-      <assignment original="true" backup="false" contextid="Button13" shiftstate="1" macroguid="{BAD3E2CF-B933-4D10-AF7A-641CA5118669}"/>
-      <assignment original="false" backup="false" contextid="Button7" shiftstate="1" macroguid="{982DB96E-3DE0-41F1-8752-309FB60AE200}"/>
-      <assignment original="false" backup="true" contextid="Button7" shiftstate="1" macroguid=""/>
-      <assignment original="false" backup="false" contextid="Button5" shiftstate="1" macroguid="{7DD8E905-5F4F-44E2-B239-D6D87AB50DB4}"/>
-    </assignments>
-    <assignments devicecategory="Logitech.Gaming.Mouse.G9">
-      <assignment original="true" backup="false" contextid="Button1" shiftstate="1" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}"/>
-      <assignment original="true" backup="false" contextid="Button2" shiftstate="1" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}"/>
-      <assignment original="true" backup="false" contextid="Button3" shiftstate="1" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}"/>
-      <assignment original="true" backup="false" contextid="Button4" shiftstate="1" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}"/>
-      <assignment original="true" backup="false" contextid="Button5" shiftstate="1" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}"/>
-      <assignment original="true" backup="false" contextid="Button7" shiftstate="1" macroguid="{74550F5B-A3C9-4F98-B168-24BE7B978876}"/>
-      <assignment original="true" backup="false" contextid="Button8" shiftstate="1" macroguid="{BAD3E2CF-B933-4D10-AF7A-641CA5118669}"/>
-      <assignment original="true" backup="false" contextid="Button9" shiftstate="1" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}"/>
-      <assignment original="true" backup="false" contextid="Button10" shiftstate="1" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}"/>
-    </assignments>
-    <pointers>
-      <pointer devicemodel="Logitech.Gaming.Mouse.G9X">
-        <mode shiftstate="1">
-          <reportrate rate="500"/>
-          <powermode value="2"/>
-          <dpitable defaultindex="1" shiftindex="1" syncxy="1">
-            <dpi x="400" y="400" enabled="1"/>
-            <dpi x="800" y="800" enabled="1"/>
-            <dpi x="1600" y="1600" enabled="1"/>
-            <dpi x="3200" y="3200" enabled="1"/>
-          </dpitable>
-          <movement speed="-1" acceleration="1"/>
-        </mode>
-      </pointer>
-      <pointer devicemodel="Logitech.Gaming.Mouse.G700">
-        <mode shiftstate="1">
-          <reportrate rate="500"/>
-          <powermode value="2"/>
-          <dpitable defaultindex="2" shiftindex="2" syncxy="1">
-            <dpi x="400" y="400" enabled="1"/>
-            <dpi x="800" y="800" enabled="1"/>
-            <dpi x="1200" y="1200" enabled="1"/>
-            <dpi x="1600" y="1600" enabled="1"/>
-            <dpi x="3200" y="3200" enabled="1"/>
-          </dpitable>
-          <movement speed="-1" acceleration="1"/>
-        </mode>
-      </pointer>
-    </pointers>
-    <backlight devicemodel="Logitech.Gaming.Mouse.G9X">
-      <mode shiftstate="1" color="#ff00ff"/>
-      <mode shiftstate="2" color="#ff9b00"/>
-      <mode shiftstate="3" color="#ff9b00"/>
-    </backlight>
-    <backlight devicemodel="Logitech.Gaming.Keyboard.G510">
-      <mode shiftstate="1" color="#ff00ff"/>
-      <mode shiftstate="2" color="#6eff5a"/>
-      <mode shiftstate="3" color="#6eff5a"/>
-    </backlight>
     <backlight devicemodel="Logitech.Gaming.LeftHandedController.G13">
-      <mode shiftstate="1" color="#6eff5a"/>
-      <mode shiftstate="2" color="#6eff5a"/>
-      <mode shiftstate="3" color="#6eff5a"/>
+      <mode color="#ffffff" shiftstate="1"/>
+      <mode color="#ffffff" shiftstate="2"/>
+      <mode color="#ffffff" shiftstate="3"/>
     </backlight>
-    <backlight devicemodel="Logitech.Gaming.Mouse.G700">
-      <mode shiftstate="1" color="#000000"/>
-      <mode shiftstate="2" color="#000000"/>
-      <mode shiftstate="3" color="#000000"/>
-    </backlight>
-    <script>function OnEvent(event, arg)
-    if event == "M_PRESSED" and arg == 1 then
-        PressKey("lctrl", "lalt", "1")
-        ReleaseKey("lctrl", "lalt", "1")
+    <script>--dofile("eve-online-abilities.lua")
+
+------------------------------------------------------------------------------------------------------------
+local
+print_orig, type, floor, min, max, sqrt, format, byte, char, rep, sub, gsub, concat, select, tostring                                  =
+    print, type, math.floor, math.min, math.max, math.sqrt, string.format, string.byte, string.char, string.rep,
+    string.sub,
+    string.gsub, table.concat, select, tostring
+
+local
+EnablePrimaryMouseButtonEvents, SetMouseDPITableIndex, IsKeyLockOn                                                                     =
+    EnablePrimaryMouseButtonEvents, SetMouseDPITableIndex, IsKeyLockOn
+
+local
+OutputLogMessage, OutputLCDMessage, ClearLCD, ClearLog, Sleep, GetRunningTime, GetDate                                                 =
+    OutputLogMessage, OutputLCDMessage, ClearLCD, ClearLog, Sleep, GetRunningTime, GetDate
+
+local
+PressMouseButton, ReleaseMouseButton, PressAndReleaseMouseButton, PressKey, ReleaseKey, IsMouseButtonPressed, IsModifierPressed        =
+    PressMouseButton, ReleaseMouseButton, PressAndReleaseMouseButton, PressKey, ReleaseKey, IsMouseButtonPressed,
+    IsModifierPressed
+
+local
+AbortMacro, PlayMacro                                                                                                                  =
+    AbortMacro, PlayMacro
+
+local spinner                                                                                                                          = {}
+spinner[0]                                                                                                                             = "/"
+spinner[1]                                                                                                                             = "-"
+spinner[2]                                                                                                                             = "\\"
+spinner[3]                                                                                                                             = "|"
+spinner[4]                                                                                                                             = "/"
+spinner[5]                                                                                                                             = "-"
+spinner[6]                                                                                                                             = "\\"
+spinner[7]                                                                                                                             = "|"
+
+local spinnerIndex                                                                                                                     = 0
+
+local function Print(...)
+    print_orig(...)
+    local t = { ... }
+    for j = 1, select("#", ...) do
+        t[j] = tostring(t[j])
+    end
+    --OutputLogMessage(GetDate("%X") .. " %s\n", concat(t, "\t"))
+    OutputLogMessage(GetRunningTime() .. " %s\n", concat(t, "\t"))
+end
+
+local function PrintLCD(message, clear)
+    if clear then
+        ClearLCD()
+    end
+    OutputLCDMessage(message, 5000)
+end
+
+local function PrintLCDCountdown(displayName, timeLeft)
+    local castCountdown = " in " .. string.format("%.1f", timeLeft / 1000)
+    local castAnnouncement = 'Casting ' .. displayName
+    if timeLeft > 0 then castAnnouncement = castAnnouncement .. " " .. castCountdown end
+
+    spinnerIndex = spinnerIndex + 1
+    if spinnerIndex == 8 then spinnerIndex = 0 end
+
+    PrintLCD(castAnnouncement .. " " .. spinner[spinnerIndex], true)
+end
+
+local function PrintLCDProgressBar(displayName, timeLeft, timeTotal)
+    ClearLCD()
+    local castCountdown = " in " .. string.format("%.1f", timeLeft / 1000)
+    local castAnnouncement = 'Casting ' .. displayName
+    if timeLeft > 0 then castAnnouncement = castAnnouncement .. " " .. castCountdown end
+
+    spinnerIndex = spinnerIndex + 1
+    if spinnerIndex == 8 then spinnerIndex = 0 end
+
+    local percent = (timeLeft / timeTotal)
+    local bars = tonumber(string.format("%2d", 25 * percent))
+    local output = ""
+    for i = bars, 1, -1 do output = output .. "#" end
+
+    OutputLCDMessage(castAnnouncement .. " " .. spinner[spinnerIndex], 1000)
+    OutputLCDMessage(output, 1000)
+end
+
+local function SleepWithJitter(target, jitter)
+    Sleep(math.random(target, target + jitter))
+end
+
+local timeDilationFactor = 1
+local defaultKeypressTime = 50
+local defaultMouseClickTime = 30
+local defaultJitter = 50
+
+local function RealisticPressAndReleaseKey(key)
+    PressKey(key)
+    SleepWithJitter(defaultKeypressTime * timeDilationFactor, defaultJitter * timeDilationFactor)
+    ReleaseKey(key)
+end
+
+local function RealisticPressAndReleaseMouseButton(button)
+    PressMouseButton(button)
+    SleepWithJitter(defaultMouseClickTime * timeDilationFactor, math.random(1, defaultJitter) * timeDilationFactor)
+    ReleaseMouseButton(button)
+end
+
+----------------------------------------------------------------------------------------
+-- VARIABLES
+----------------------------------------------------------------------------------------
+
+local ActivationType  = {
+    LongPress = 1,
+    Immediate = 2
+}
+
+local CastType        = {
+    Power       = 1,
+    Spell       = 2,
+    HotKey      = 3,
+    Macro       = 4,
+    Click       = 5,
+    DoubleClick = 6,
+    Function    = 7,
+    Radial      = 8
+}
+
+local InterruptType   = {
+    Mouse    = 1,
+    Modifier = 2,
+    KeyLock  = 3 -- NOT WORKING, need to find a way to make windows treat keylocks as a hold-lock like shift, ctrl, alt
+}
+
+local Modifiers       = {
+    LeftShift  = "lshift",
+    LeftCtrl   = "lctrl",
+    LeftAlt    = "lalt",
+    RightShift = "rshift",
+    RightCtrl  = "rctrl",
+    RightAlt   = "ralt"
+}
+
+local MouseButton     = {
+    Left    = 1,
+    Right   = 3,
+    Middle  = 2,
+    Back    = 4,
+    Forward = 5
+}
+
+local HotKeys         = {}
+
+local INTERRUPT_TYPE  = InterruptType.Mouse -- which device is providing the interrupt key?
+local INTERRUPT       = MouseButton.Left    -- abilities are only performed while the interrupt key is held
+local TICKRATE        = 50                  -- tickrate in ms of the server we are dealinng with
+local CHAINDELAY      = 250                 -- how long to wait in ms for each part of a chained ability
+
+local _isReadyPressed = false
+local _isCasting      = false
+local _isSpellLocked  = false
+local _activeKeyMap   = 0
+local _lastKeypress   = 0
+
+local _previousAbility, _currentAbility, _defaultAbility
+
+----------------------------------------------------------------------------------------
+-- UTILITY METHODS
+----------------------------------------------------------------------------------------
+
+local function StartCasting()
+    _isCasting = true
+end
+
+local function StopAllCasting()
+    if INTERRUPT_TYPE == InterruptType.Mouse then
+        ReleaseMouseButton(INTERRUPT)
+    end
+    if INTERRUPT_TYPE == InterruptType.Modifier then
+        ReleaseKey(INTERRUPT)
     end
 
-    if event == "M_PRESSED" and arg == 2 then
-        PressKey("lctrl", "lalt", "2")
-        ReleaseKey("lctrl", "lalt", "2")
+
+    AbortMacro()
+    _isCasting = false
+end
+
+local function Uninterrupted()
+    local _state;
+    if INTERRUPT_TYPE == InterruptType.Mouse then
+        _state = IsMouseButtonPressed(INTERRUPT)
+    end
+    if INTERRUPT_TYPE == InterruptType.Modifier then
+        _state = IsModifierPressed(INTERRUPT)
     end
 
-    if event == "M_PRESSED" and arg == 3 then
-        PressKey("lctrl", "lalt", "3")
-        ReleaseKey("lctrl", "lalt", "3")
+    return _state
+end
+
+local abilitiesTable = {}
+local keybindsTable = {}
+
+local function GetKeybind(keyPressDefinition)
+    return Keybind:new(nil, keyPressDefinition)
+end
+
+local function GetAbility(abilityDefinition)
+    if abilitiesTable then
+        local a = abilitiesTable[abilityDefinition.displayName]
+        if not a then
+            abilitiesTable[abilityDefinition.displayName] = Ability:new(nil, abilityDefinition)
+        end
+    end
+
+    return Ability:new(nil, abilityDefinition)
+end
+
+
+local function SetCurrentAbility(name)
+    Print("Storing " .. name .. " as current ability")
+    _currentAbility = name
+end
+
+local function SetPreviousAbility(name)
+    Print("Storing " .. name .. " as previous ability")
+    _previousAbility = name
+end
+
+----------------------------------------------------------------------------------------
+-- KeyCombo
+----------------------------------------------------------------------------------------
+
+-- Meta class
+Keybind = {
+    hKey = nil,
+    mod1 = nil,
+    mod2 = nil,
+}
+
+-- Base class method new
+function Keybind:new(o, kb)
+    o = o or {}
+    setmetatable(o, self)
+    self.__index = self
+
+    -- private
+    local _hKey  = kb[1] or nil
+    local _mod1  = kb[2] or nil
+    local _mod2  = kb[3] or nil
+
+    -- public
+    self.hKey    = _hKey -- the hotkey(s) to press when triggered
+    self.mod1    = _mod1 -- the hotkey(s) mod to press when triggered
+    self.mod2    = _mod2 -- the hotkey(s) mod to press when triggered
+
+    return o
+end
+
+function Keybind:print()
+    if self.hKey then
+        if self.mod2 then
+            return self.mod2 .. "+" .. self.mod1 .. "+" .. self.hKey
+        elseif self.mod1 then
+            return self.mod1 .. "+" .. self.hKey
+        else
+            return self.hKey
+        end
+    end
+end
+
+function Keybind:press()
+    Print("Keybind:press(" .. Keybind:print() .. ")")
+    if self.hKey then
+        if self.mod2 then
+            PressKey(self.mod2, self.mod1, self.hKey)
+        elseif self.mod1 then
+            PressKey(self.mod1, self.hKey)
+        else
+            PressKey(self.hKey)
+        end
+    end
+end
+
+function Keybind:release()
+    Print("Keybind:release(" .. Keybind:print() .. ")")
+    if self.hKey then
+        if self.mod2 then
+            ReleaseKey(self.hKey, self.mod1, self.mod2)
+        elseif self.mod1 then
+            ReleaseKey(self.hKey, self.mod1)
+        else
+            ReleaseKey(self.hKey)
+        end
+    end
+end
+
+function Keybind:pressAndRelease()
+    self:press()
+    SleepWithJitter(defaultKeypressTime, defaultJitter)
+    self:release()
+end
+
+----------------------------------------------------------------------------------------
+-- Ability
+-- An ability that can be triggered on a keypress
+-- Abilities can have 2 stages:
+-- - ability equip: activating the ability and making it equipped
+-- - ability cast: executing the ability by casting it
+-- Using Skyrim as an example, a spell can be both equipped with a hotkey and subesquently cast with the mouse button.
+-- Using an activation delay will defer the ability to a long-press of the designated G Key
+----------------------------------------------------------------------------------------
+
+-- Meta class
+Ability = {
+    name            = nil,
+    activationDelay = nil,
+    equipKeybind    = nil,
+    equipDuration   = nil,
+    castKeybind     = nil,
+    castDuration    = nil,
+    castAuto        = nil,
+    recoveryTime    = nil,
+    boomerang       = nil,
+    isConduit       = nil,
+    castType        = nil,
+    macroName       = nil
+}
+
+-- Base class method new
+function Ability:new(o, l)
+    o = o or {}
+    setmetatable(o, self)
+    self.__index           = self
+
+    -- private
+    local _name            = l.displayName or "ABILITY"
+    local _activationDelay = l.activationDelay or 500
+    local _equipKeybind    = l.equipKeybind or nil
+    local _equipDuration   = l.equipDuration or 50
+    local _castKeybind     = l.castKeybind or nil
+    local _castDuration    = l.castDuration or 50
+    local _castAuto        = l.castAuto or true
+    local _recoveryTime    = l.recoveryTime or 50
+    local _boomerang       = l.boomerang or true
+    local _castType        = l.castType or CastType.HotKey
+    local _macroName       = l.macroName or nil
+    local _keybinds        = {
+        equip = _equipKeybind,
+        cast  = _castKeybind
+    }
+
+    -- public
+    self.displayName       = _name            -- the name of the ability for the display
+    self.activationDelay   = _activationDelay -- the long-press activation delay
+    self.equipDuration     = _equipDuration   -- the duration it take to equip the ability
+    self.castDuration      = _castDuration    -- how long to cast the ability for. Blocks all other Abiliies.
+    self.castAuto          = _castAuto        -- Useful for equipping loadout without casting.
+    self.recoveryTime      =
+        _recoveryTime                         -- recovery time after the ability has been case. Blocks all other Abilities
+    self.boomerang         = _boomerang       -- useful for quick-casting a spell before reverting to your sword.
+    self.castType          = _castType        -- determines the behavior of the ability
+    self.macroName         = _macroName       -- the Macro to execute when triggered
+    self.keybinds          = _keybinds
+
+    return o
+end
+
+-- Equip the ability.
+-- In FPS games, this is usually the point where you switch weapons
+-- In MMO's, this part is usually skipped as there's no equip phase
+function Ability:equip()
+    Print(self.displayName .. ":equip()")
+
+    --StopAllCasting()
+    if self.keybinds.equip then
+        local keybind = Keybind:new(nil, self.keybinds.equip)
+
+        PrintLCD("Equpping " .. self.displayName, true)
+        keybind:pressAndRelease()
+        SleepWithJitter(self.equipDuration, defaultJitter)
+    else
+        PrintLCD("No equipKeybind set for " .. self.displayName)
+    end
+end
+
+-- Hotkey based casting. Holds down a hotkey
+function Ability:castHotKey()
+    Print(self.displayName .. ":castHotKey()")
+
+    --StopAllCasting()
+
+    if self.keybinds.cast then
+        local keybind = Keybind:new(nil, self.keybinds.cast)
+
+        PrintLCD("Casting " .. self.displayName .. "(" .. keybind:print() .. ")", true)
+        keybind:pressAndRelease()
+        SleepWithJitter(self.castDuration, defaultJitter)
+    else
+        PrintLCD("No castKey set for " .. self.displayName, true)
+    end
+end
+
+-- Cast Macro
+function Ability:castMacro()
+    Print(self.displayName .. ":castMacro(" .. self.macroName .. ")")
+
+    --StopAllCasting()
+    while Uninterrupted() do
+        if self.macroName then
+            PrintLCD("Executing " .. self.displayName)
+            PlayMacro(self.macroName)
+            SleepWithJitter(self.castDuration, defaultJitter)
+        else
+            PrintLCD("No macroName set for " .. self.displayName, true)
+        end
+    end
+end
+
+-- clickCast based casting.
+function Ability:clickCast()
+    Print(self.displayName .. ":clickCast()")
+
+    --StopAllCasting()
+
+    if self.keybinds.cast then
+        local keybind = Keybind:new(nil, self.keybinds.cast)
+
+        PrintLCD("Click Casting " .. self.displayName)
+        keybind:press()
+        SleepWithJitter(self.castDuration / 2, defaultJitter)
+        RealisticPressAndReleaseMouseButton(MouseButton.Left)
+        SleepWithJitter(self.castDuration / 2, defaultJitter)
+        keybind:release()
+        SleepWithJitter(self.castDuration, defaultJitter)
+    else
+        PrintLCD("No castKey set for " .. self.displayName)
+    end
+end
+
+-- doubleClickCast based casting.
+function Ability:doubleClickCast()
+    Print(self.displayName .. ":doubleClickCast()")
+
+    --StopAllCasting()
+
+    if self.keybinds.cast then
+        local keybind = Keybind:new(nil, self.keybinds.cast)
+
+        PrintLCD("Double click Casting " .. self.displayName)
+        keybind:press()
+        SleepWithJitter(self.castDuration / 2, defaultJitter)
+        RealisticPressAndReleaseMouseButton(MouseButton.Left)
+        SleepWithJitter(defaultMouseClickTime, defaultJitter)
+        RealisticPressAndReleaseMouseButton(MouseButton.Left)
+        SleepWithJitter(self.castDuration / 2, defaultJitter)
+        keybind:release()
+        SleepWithJitter(self.castDuration, defaultJitter)
+    else
+        PrintLCD("No castKey set for " .. self.displayName)
+    end
+end
+
+-- Ability:cast
+--	Determines whether to cast spells or trigger the weapons Ashes of War on hold.
+-- 	Cast is broken by releasing the INTERRUPT key
+function Ability:cast()
+    Print(self.displayName .. ":cast(" .. self.castType .. ")")
+    StartCasting()
+    if self.castType == CastType.HotKey then
+        self:castHotKey()
+    elseif self.castType == CastType.Macro then
+        self:castMacro()
+    elseif self.castType == CastType.Click then
+        self:clickCast()
+    elseif self.castType == CastType.DoubleClick then
+        self:doubleClickCast()
+    end
+end
+
+-- Ability:swap
+-- Swap focus to the current ability
+function Ability:swap()
+    Print(self.displayName .. ":swap()")
+    if self.keybinds.equip then
+        self:equip()
+    end
+end
+
+function Ability:finalize()
+    Print(self.displayName .. ":finalize()")
+
+    if self.keybinds.equip then
+        local equip = Keybind:new(nil, self.keybinds.equip)
+        equip:release()
+    end
+
+    if self.keybinds.cast then
+        local cast = Keybind:new(nil, self.keybinds.cast)
+        cast:release()
+    end
+
+    StopAllCasting()
+    SleepWithJitter(self.recoveryTime, defaultJitter)
+    PrintLCD("Done!", false)
+end
+
+------------------------------------------------------------------------------------------------------------
+-- KEYBINDS
+------------------------------------------------------------------------------------------------------------
+
+local Macro = {
+    Dock = "Dock"
+}
+
+local UI = {
+    Menu      = { "escape" },
+    Close     = { "w", Modifiers.LeftCtrl },
+    Inventory = { "i", Modifiers.LeftCtrl },
+    Fitting   = { "f", Modifiers.LeftCtrl },
+    Map       = { "m", Modifiers.LeftCtrl },
+    Agency    = { "a", Modifiers.LeftCtrl }
+}
+
+
+local Camera = {
+    Tactical = { "1", Modifiers.LeftAlt },
+    Orbit    = { "2", Modifiers.LeftAlt },
+    LookAt   = { "l", Modifiers.LeftAlt },
+    Track    = { "c", Modifiers.LeftAlt }
+}
+
+local Combat = {
+    Target = { "t", Modifiers.LeftAlt },
+}
+
+local Scanning = {
+    DScan = { "v", Modifiers.LeftAlt }
+}
+
+local Navigation = {
+    FullSpeed   = { "spacebar", Modifiers.LeftAlt, Modifiers.LeftCtrl },
+    FullStop    = { "spacebar" },
+    KeepAtRange = { "e", Modifiers.LeftAlt },
+    Approach    = { "q", Modifiers.LeftAlt },
+    Orbit       = { "w", Modifiers.LeftAlt },
+    WarpTo      = { "s", Modifiers.LeftAlt },
+    AlignTo     = { "a", Modifiers.LeftAlt },
+    Dock        = { "d", Modifiers.LeftAlt },
+}
+
+local Modules = {
+    WeaponGroupA = "q",
+    WeaponGroupB = "w",
+    WeaponGroupC = "e",
+    WeaponGroupD = "r",
+    Tackle       = "f",
+    Speed        = "v",
+    Hardner      = "z",
+    Repair       = "x",
+    Cloak        = "c"
+}
+
+------------------------------------------------------------------------------------------------------------
+-- ABILITIES
+------------------------------------------------------------------------------------------------------------
+
+local function Shortcut(name, kb)
+    return {
+        displayName = name,
+        castKeybind = kb,
+        castType    = CastType.HotKey
+    }
+end
+
+local function ActivateWeapon(slot)
+    return {
+        displayName   = "Weapon",
+        equipKeybind  = Combat.Target,
+        equipDuration = 250,
+        castType      = CastType.Click,
+        castKeybind   = { slot },
+        message       = "Equipping " .. slot
+    }
+end
+
+local function ActivateModule(slot)
+    return {
+        displayName  = "Module",
+        equipKeybind = { slot },
+        message      = "Equipping " .. slot
+    }
+end
+
+local function Overheat(slot)
+    return {
+        displayName  = "Overheat",
+        equipKeybind = { slot, Modifiers.LeftShift, Modifiers.LeftCtrl },
+        message      = "Overheating " .. slot
+    }
+end
+
+local function Approach()
+    return {
+        displayName   = "Approach",
+        equipKeybind  = Navigation.Orbit,
+        equipDuration = 250,
+        castType      = CastType.Click,
+        castKeybind   = Navigation.WarpTo,
+        castDuration  = 250
+    }
+end
+
+local function Dock()
+    return {
+        displayName   = "Dock",
+        equipKeybind  = Navigation.Approach,
+        equipDuration = 250,
+        castType      = CastType.Click,
+        castKeybind   = Navigation.Dock,
+        castDuration  = 250
+    }
+end
+
+local function KeepAtRange()
+    return {
+        displayName   = "KeepAtRange",
+        equipKeybind  = Navigation.FullSpeed,
+        equipDuration = 250,
+        castType      = CastType.Click,
+        castKeybind   = Navigation.KeepAtRange,
+        castDuration  = 250
+    }
+end
+
+local function StopShip()
+    return {
+        displayName   = "StopShip",
+        equipKeybind  = Navigation.FullStop,
+        equipDuration = 250,
+        --castType      = CastType.Click,
+        --castKeybind   = Camera.Orbit,
+        --castDuration  = 250
+    }
+end
+
+local function ActivateScan()
+    return {
+        displayName   = "DirectionalScan",
+        equipKeybind  = Camera.Orbit,
+        equipDuration = 250,
+        castType      = CastType.HotKey,
+        castKeybind   = Scanning.DScan,
+        --macroName     = "Scanning.DScan",
+        --castDuration  = 1500
+    }
+end
+
+
+
+------------------------------------------------------------------------------------------------------------
+-- MAPPINGS
+------------------------------------------------------------------------------------------------------------
+
+-- Invoke an Ability swap.
+local function SwapAbility(ability)
+    if _currentAbility then
+        SetPreviousAbility(_currentAbility)
+    end
+    Print("=========================")
+    ability:swap()
+    SetCurrentAbility(ability.displayName)
+
+    if _currentAbility and _previousAbility then
+        Print("SWAP: Current Ability: " ..
+            _currentAbility .. " | Previous Ability: " .. _previousAbility .. "")
+    end
+
+    if (ability.castAuto and ability.keybinds.cast) or ability.castType == CastType.Macro then
+        Print("=========================")
+        ability:cast()
+    end
+    Print("=========================")
+    ability:finalize()
+    Print("=========================")
+end
+
+local function SwapAbilityAfterDelay(ability, fallback)
+    local start = GetRunningTime()
+    local timeLeft = 0
+    local triggered = false
+
+    while Uninterrupted() do
+        Sleep(TICKRATE)
+
+        timeLeft = start + ability.activationDelay - GetRunningTime()
+        PrintLCDCountdown(ability.displayName, timeLeft)
+
+        if (timeLeft) &lt;= 0 then
+            triggered = true
+            SwapAbility(ability)
+        end
+    end
+
+    if (triggered == false and fallback) then
+        Print("Executing fallback...")
+        local fallbackAbility = GetAbility(fallback)
+        SwapAbility(fallbackAbility)
+    end
+end
+
+function OnEvent(event, arg)
+    Sleep(20)
+
+    local gKeyMaps = {}
+    gKeyMaps[1] = Shortcut("CloseWindow", UI.Close)
+    gKeyMaps[2] = ActivateWeapon(Modules.WeaponGroupA)
+    gKeyMaps[3] = ActivateWeapon(Modules.WeaponGroupB)
+    gKeyMaps[4] = Approach()
+    gKeyMaps[5] = ActivateWeapon(Modules.WeaponGroupC)
+    gKeyMaps[6] = ActivateWeapon(Modules.WeaponGroupD)
+    gKeyMaps[7] = Shortcut("Map", UI.Map)
+
+    gKeyMaps[8] = nil
+    gKeyMaps[9] = nil
+    gKeyMaps[10] = nil
+    gKeyMaps[11] = StopShip()
+    gKeyMaps[12] = ActivateModule(Modules.Tackle)
+    gKeyMaps[13] = nil
+    gKeyMaps[14] = Shortcut("Inventory", UI.Inventory)
+
+    gKeyMaps[15] = nil
+    gKeyMaps[16] = ActivateModule(Modules.Hardner)
+    gKeyMaps[17] = ActivateModule(Modules.Repair)
+    gKeyMaps[18] = ActivateModule(Modules.Cloak)
+    gKeyMaps[19] = ActivateModule(Modules.Speed)
+
+    gKeyMaps[20] = nil
+    gKeyMaps[21] = nil
+    gKeyMaps[22] = ActivateScan()
+
+    gKeyMaps[23] = nil
+    gKeyMaps[24] = nil
+
+    local longpressKeyMaps = {}
+    longpressKeyMaps[1] = Shortcut("Menu", UI.Menu)
+    longpressKeyMaps[2] = nil
+    longpressKeyMaps[3] = nil
+    longpressKeyMaps[4] = Dock()
+    longpressKeyMaps[5] = nil
+    longpressKeyMaps[6] = nil
+    longpressKeyMaps[7] = Shortcut("Agency", UI.Agency)
+
+    longpressKeyMaps[8] = nil
+    longpressKeyMaps[9] = nil
+    longpressKeyMaps[10] = Overheat(Modules.WeaponGroupA)
+    longpressKeyMaps[11] = KeepAtRange()
+    longpressKeyMaps[12] = Overheat(Modules.WeaponGroupB)
+    longpressKeyMaps[13] = Overheat(Modules.Tackle)
+    longpressKeyMaps[14] = Shortcut("Fitting", UI.Fitting)
+
+    longpressKeyMaps[15] = nil
+    longpressKeyMaps[16] = Overheat(Modules.Hardner)
+    longpressKeyMaps[17] = Overheat(Modules.Repair)
+    longpressKeyMaps[18] = Overheat(Modules.Cloak)
+    longpressKeyMaps[19] = Overheat(Modules.Speed)
+
+    longpressKeyMaps[20] = nil
+    longpressKeyMaps[21] = nil
+    longpressKeyMaps[22] = nil
+
+    longpressKeyMaps[23] = nil
+    longpressKeyMaps[24] = nil
+
+    local doubletabKeyMaps = {}
+    doubletabKeyMaps[1] = nil
+    doubletabKeyMaps[2] = nil
+    doubletabKeyMaps[3] = nil
+    doubletabKeyMaps[4] = nil
+    doubletabKeyMaps[5] = nil
+    doubletabKeyMaps[6] = nil
+    doubletabKeyMaps[7] = nil
+
+    doubletabKeyMaps[8] = nil
+    doubletabKeyMaps[9] = nil
+    doubletabKeyMaps[10] = nil
+    doubletabKeyMaps[11] = nil
+    doubletabKeyMaps[12] = nil
+    doubletabKeyMaps[13] = nil
+    doubletabKeyMaps[14] = nil
+
+    doubletabKeyMaps[15] = nil
+    doubletabKeyMaps[16] = nil
+    doubletabKeyMaps[17] = nil
+    doubletabKeyMaps[18] = nil
+    doubletabKeyMaps[19] = nil
+
+    doubletabKeyMaps[20] = nil
+    doubletabKeyMaps[21] = nil
+    doubletabKeyMaps[22] = nil
+
+    doubletabKeyMaps[23] = nil
+    doubletabKeyMaps[24] = nil
+
+    if event == "PROFILE_ACTIVATED" then
+        Print("=========================")
+        ClearLog()
+        EnablePrimaryMouseButtonEvents(true)
+
+        SetMouseDPITableIndex(2)
+
+        _defaultAbility = nil
+
+        if _defaultAbility then
+            SetCurrentAbility(_defaultAbility)
+            SetPreviousAbility(_defaultAbility)
+
+            Print("START: Current Ability: " .. _defaultAbility.displayName .. "")
+        else
+            Print("START: No default ability selected")
+        end
+
+        for k, v in ipairs(HotKeys) do
+            Print("==== " .. k .. ", " .. v .. " ====")
+        end
+    end
+
+    if event == "PROFILE_DEACTIVATED" then
+        EnablePrimaryMouseButtonEvents(false)
+    end
+
+    --- HKEY 01
+    if arg == 01 then
+        if event == "G_PRESSED" then
+
+        end
+        if event == "G_RELEASED" then
+
+        end
+    end
+
+    --- HKEY 02
+    if arg == 02 then
+        if event == "G_PRESSED" then
+
+        end
+        if event == "G_RELEASED" then
+
+        end
+    end
+
+    --- HKEY 03
+    if arg == 03 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 04
+    if arg == 04 then
+        if event == "G_PRESSED" then
+
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 05
+    if arg == 05 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 06
+    if arg == 06 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 07
+    if arg == 07 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 08
+    if arg == 08 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 09
+    if arg == 09 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 10
+    if arg == 10 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 11
+    if arg == 11 then
+        if event == "G_PRESSED" then
+
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 12
+    if arg == 12 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 13
+    if arg == 13 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 14
+    if arg == 14 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 15
+    if arg == 15 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 16
+    if arg == 16 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 17
+    if arg == 17 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 18
+    if arg == 18 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 19
+    if arg == 19 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 20
+    if arg == 20 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 21
+    if arg == 21 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 22
+    if arg == 22 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 23
+    if arg == 23 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 24
+    if arg == 24 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 25
+    if arg == 25 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+    --- HKEY 26
+    if arg == 26 then
+        if event == "G_PRESSED" then
+        end
+        if event == "G_RELEASED" then
+        end
+    end
+
+
+
+    if event == "G_PRESSED" then
+        local a = gKeyMaps[arg]
+        local l = longpressKeyMaps[arg]
+        local d = doubletabKeyMaps[arg]
+
+        if not a then
+            -- do nothing
+        else
+            if not _isCasting then
+                if l then
+                    local longpressAbility = GetAbility(l)
+                    if longpressAbility.activationDelay and longpressAbility.activationDelay > 0 then
+                        Print("G_PRESSED: " ..
+                            arg .. " pressed, activating ability " .. l.displayName .. " (Longpress mode)")
+
+                        SwapAbilityAfterDelay(longpressAbility, a)
+                    end
+                else
+                    local ability = GetAbility(a)
+                    Print("G_PRESSED: " .. arg .. " pressed, activating ability " .. a.displayName)
+                    SwapAbility(ability)
+                end
+            end
+        end
+    end
+
+    if event == "G_RELEASED" then
+        local a = gKeyMaps[arg]
+        if not a then
+            -- not a Ability key, do nothing...
+        else
+            if _activeKeyMap == arg then
+                Print("G_RELEASED: " .. arg .. " released, stopping ability " .. a.displayName)
+                if a.boomerang then
+                    Print("G_RELEASED: " .. arg .. " released, activating ability " .. _previousAbility.displayName)
+                    SwapAbility(_previousAbility)
+                end
+
+                _activeKeyMap = 0
+            end
+        end
+        _lastKeypress = GetRunningTime()
     end
 end</script>
   </profile>
